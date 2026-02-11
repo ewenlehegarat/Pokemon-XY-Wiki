@@ -31,7 +31,7 @@ async function getPokemon() {
 
       pokemon.apiTypes.forEach(type => {
         const typeImg = document.createElement('img');
-        typeImg.src = `img/type/${type.name}.png`;
+        typeImg.src = `./img/type/${type.name}.png`;
         typeImg.alt = type.name;
         typeImg.classList.add('type_icon');
         typeImg.width = 75
