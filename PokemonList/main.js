@@ -7,6 +7,7 @@ async function getPokemon() {
 
     resultat.forEach(pokemon => {
       const pokemonDiv = document.createElement('div');
+      pokemonDiv.classList.add('pokemon_div')
       const pokemonNom = document.createElement('h2');
       const pokemonPokedexId = document.createElement('h3')
       const pokemonImg = document.createElement('img');
@@ -101,9 +102,13 @@ async function getPokemon() {
       const divStats = document.createElement('div');
       divStats.classList.add('div_stats');
       divStats.append(divHp, divAtk, divDef, divSpa, divSpd, divSpe);
+
+      const textResistances = document.createElement('p')
+      textResistances.classList.add('text_resistances')
+      textResistances.textContent = 'Resistances :'
       
       // Ajout au div principal
-      pokemonDiv.append(pokemonTop, pokemonImg, typesContainer, divStats);
+      pokemonDiv.append(pokemonTop, pokemonImg, typesContainer, divStats, textResistances);
 
       pokemonContainer.appendChild(pokemonDiv);
     });

@@ -14,7 +14,7 @@
 
 /* ###### Body ###### */
 body{
-    background-color: rgb(239, 239, 239);
+    background-color: rgb(0, 82, 150);
     font-family: "Roboto", sans-serif;
 }
 
@@ -115,70 +115,85 @@ nav input:checked ~ label span:nth-child(3){
 
 /* ###### Main ###### */
 main{
-    padding: 75px 0 0 15px;
+    padding-top: 75px;
     display: flex;
     flex-direction: column;
     gap: 20px;
 
     h1{
         font-size: 25px;
+        margin-left: 20px;
+        color: var(--White);
     }
     .pokemon_container{
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
         gap: 20px;
+        padding: 25px 15px;
 
-        .pokemon_top{
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 10px;
-
-            h3{
-                margin-top: 3px;
-            }
-        }
-        .type_image{
-            margin: 10px 0;
-        }
-        .type_image:first-child{
-            margin-right: 5px;
-        }
-        .div_stats{
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-
-            .div_hp, .div_atk, .div_def, .div_spa, .div_spd, .div_spe{
+        .pokemon_div{
+            width: 300px;
+            background-color: #ededed;
+            padding: 25px;
+            border-radius: 5px;
+            
+            .pokemon_top{
                 display: flex;
                 align-items: center;
-                gap: 15px;
-                position: relative;
+                gap: 10px;
+                margin-bottom: 10px;
+
+                h3{
+                    margin-top: 3px;
+                }
             }
-            .barre_hp, .barre_atk, .barre_def, .barre_spa, .barre_spd, .barre_spe{
-                position: absolute;
-                top: 0;
-                left: 80px;
-                height: 20px;
-                border: 1px solid var(--Black);
+            .type_image{
+                margin: 10px 0;
             }
-            .barre_hp{
-                background-color: #a0f0a0;
+            .type_image:first-child{
+                margin-right: 5px;
             }
-            .barre_atk{
-                background-color: #F6E979;
+            .div_stats{
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+
+                .div_hp, .div_atk, .div_def, .div_spa, .div_spd, .div_spe{
+                    display: flex;
+                    align-items: center;
+                    gap: 15px;
+                    position: relative;
+                }
+                .barre_hp, .barre_atk, .barre_def, .barre_spa, .barre_spd, .barre_spe{
+                    position: absolute;
+                    top: 0;
+                    left: 80px;
+                    height: 20px;
+                    border: 1px solid var(--Black);
+                    max-width: 175px;
+                }
+                .barre_hp{
+                    background-color: #a0f0a0;
+                }
+                .barre_atk{
+                    background-color: #F6E979;
+                }
+                .barre_def{
+                    background-color: #F8B277;
+                }
+                .barre_spa{
+                    background-color: #81DEE6;
+                }
+                .barre_spd{
+                    background-color: #86A5F7;
+                }
+                .barre_spe{
+                    background-color: #CB81F2;
+                }
             }
-            .barre_def{
-                background-color: #F8B277;
-            }
-            .barre_spa{
-                background-color: #81DEE6;
-            }
-            .barre_spd{
-                background-color: #86A5F7;
-            }
-            .barre_spe{
-                background-color: #CB81F2;
+            .text_resistances{
+                margin: 15px 0;
             }
         }
     }
