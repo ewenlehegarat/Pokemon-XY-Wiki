@@ -133,6 +133,16 @@ main{
             align-items: center;
             gap: 10px;
             margin-bottom: 10px;
+
+            h3{
+                margin-top: 3px;
+            }
+        }
+        .type_image{
+            margin: 10px 0;
+        }
+        .type_image:first-child{
+            margin-right: 5px;
         }
         .div_stats{
             display: flex;

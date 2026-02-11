@@ -23,7 +23,7 @@ async function getPokemon() {
       pokemonImg.alt = pokemon.name;
       pokemonImg.style.width = '80px'
 
-      pokemonPokedexId.textContent = '#'+ pokemon.id
+      pokemonPokedexId.textContent = '#' + String(pokemon.id).padStart(3, '0');
 
       const typesContainer = document.createElement('div');
       typesContainer.classList.add('types_container');
@@ -34,6 +34,7 @@ async function getPokemon() {
         typeImg.alt = type.name;
         typeImg.classList.add('type_icon');
         typeImg.width = 75
+        typeImg.classList.add('type_image')
         typesContainer.appendChild(typeImg);
       });
 
