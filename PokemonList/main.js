@@ -1,15 +1,22 @@
 async function getPokemon() {
   try {
     const response = await fetch("../json/PokemonPersonalData.json");
+    const reponseTwo = await fetch("../json/LearnsetData.json");
     const data = await response.json();
+    const dataTwo = await reponseTwo.json()
 
     const resultat = data;
+    const resultatTwo = dataTwo
 
     const pokemonContainer = document.querySelector('.pokemon_container');
 
     if (!pokemonContainer) {
       throw new Error("Le conteneur '.pokemon_container' n'existe pas dans le DOM");
     }
+
+    // collecteurs pour ajuster les tailles après chargement
+    const spriteImages = [];
+    const loadPromises = [];
 
     resultat.forEach(pokemon => {
 
@@ -45,7 +52,7 @@ async function getPokemon() {
 
       const talentText = document.createElement('h3');
       talentText.classList.add('talent_text');
-      talentText.textContent = 'Talents :';
+      talentText.textContent = 'Ability :';
 
       const divNomTalent = document.createElement('div');
       divNomTalent.classList.add('nom_talent');
@@ -58,11 +65,9 @@ async function getPokemon() {
       ].filter(a => a.name && a.name !== '-');
 
       abilities.forEach((ability) => {
-        const talentNom = document.createElement('a');
+        const talentNom = document.createElement('h5');
         talentNom.textContent = `${ability.name} (${ability.label})`;
         talentNom.classList.add('talent_nom');
-        talentNom.href = `https://www.pokepedia.fr/${ability.name}`;
-        talentNom.title = `Lien vers Poképedia`;
         divNomTalent.appendChild(talentNom);
       });
 
@@ -114,9 +119,56 @@ async function getPokemon() {
         typesContainer,
         divStats
       );
+      
+      // Ajouter le learnset correspondant au Pokémon courant
+      const learnEntry = resultatTwo.find(entry => entry.ID === pokemon.ID || entry.Name === pokemon.Name);
+      if (learnEntry && Array.isArray(learnEntry.Learnset) && learnEntry.Learnset.length) {
+        const learnDiv = document.createElement('div');
+        learnDiv.classList.add('learnset');
+
+        const learnTitle = document.createElement('h3');
+        learnTitle.textContent = 'Learnset :';
+        learnDiv.appendChild(learnTitle);
+
+        const ul = document.createElement('ul');
+        learnEntry.Learnset.forEach(item => {
+          const li = document.createElement('li');
+          li.textContent = `${item.Level} — ${item.Move}`;
+          ul.appendChild(li);
+        });
+
+        learnDiv.appendChild(ul);
+        pokemonDiv.appendChild(learnDiv);
+      }
 
       pokemonContainer.appendChild(pokemonDiv);
+
+      // enregistrer l'image pour mesure après chargement
+      spriteImages.push(pokemonImg);
+      const imgLoad = new Promise((resolve) => {
+        if (pokemonImg.complete) return resolve();
+        pokemonImg.addEventListener('load', () => resolve());
+        pokemonImg.addEventListener('error', () => resolve());
+      });
+      loadPromises.push(imgLoad);
     });
+
+    // attendre que toutes les images soient chargées, puis ajuster leur largeur
+    await Promise.all(loadPromises);
+    if (spriteImages.length) {
+      const widths = spriteImages.map(img => img.naturalWidth || 0);
+      const maxWidth = Math.max(...widths, 0);
+      if (maxWidth > 0) {
+        const DESIRED_MAX = 250; // largeur max d'affichage souhaitée
+        const DESIRED_MIN = 80;  // largeur min d'affichage souhaitée
+        spriteImages.forEach(img => {
+          const w = img.naturalWidth || maxWidth;
+          const displayWidth = Math.round(Math.max(DESIRED_MIN, Math.round((w / maxWidth) * DESIRED_MAX)));
+          img.style.width = displayWidth + 'px';
+          img.style.height = 'auto';
+        });
+      }
+    }
 
     console.log(resultat);
     

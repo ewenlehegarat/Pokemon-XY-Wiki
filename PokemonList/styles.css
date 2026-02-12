@@ -145,6 +145,19 @@ main{
             padding: 25px;
             border-radius: 5px;
             
+            .learnset{
+                margin: 10px 0;
+                ul{
+                    height: 100px;
+                    overflow-y: auto;
+                    margin-top: 10px;
+                    li{
+                        list-style: none;
+                        font-weight: 500;
+                        margin-left: 10px;
+                    }
+                }
+            }
             h2{
                 font-size: 20px;
             }
@@ -165,8 +178,11 @@ main{
                 .nom_talent{
                     display: flex;
                     flex-direction: column;
-                    a{
+                    h5{
+                        font-size: 17px;
+                        margin-top: 5px;
                         margin-left: 10px;
+                        font-weight: normal;
                     }
                 }
             }

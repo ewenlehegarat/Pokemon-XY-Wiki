@@ -11,7 +11,7 @@
         "PP": 0,
         "Ranges": "[]",
         "Flags": "[]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 1,
@@ -25,7 +25,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 2,
@@ -39,7 +39,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 3,
@@ -53,7 +53,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 4,
@@ -67,7 +67,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 5,
@@ -81,7 +81,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 6,
@@ -95,7 +95,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Increase prize money\r"
+        "Effect Description": "Increase prize money"
     },
     {
         "Move ID": 7,
@@ -109,7 +109,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Burn (Hit)\r"
+        "Effect Description": "May Burn (Hit)"
     },
     {
         "Move ID": 8,
@@ -123,7 +123,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Freeze (Hit)\r"
+        "Effect Description": "May Freeze (Hit)"
     },
     {
         "Move ID": 9,
@@ -137,7 +137,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 10,
@@ -151,7 +151,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 11,
@@ -165,7 +165,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 12,
@@ -179,7 +179,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "OHKO\r"
+        "Effect Description": "OHKO"
     },
     {
         "Move ID": 13,
@@ -207,7 +207,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises User's Atk (Status)\r"
+        "Effect Description": "Sharply raises User's Atk (Status)"
     },
     {
         "Move ID": 15,
@@ -221,7 +221,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 16,
@@ -235,7 +235,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x Damage on Pokemon using Bounce/Fly\r"
+        "Effect Description": "2x Damage on Pokemon using Bounce/Fly"
     },
     {
         "Move ID": 17,
@@ -249,7 +249,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 18,
@@ -263,7 +263,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Force switch\r"
+        "Effect Description": "Force switch"
     },
     {
         "Move ID": 19,
@@ -305,7 +305,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 22,
@@ -319,7 +319,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 23,
@@ -333,7 +333,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Causes flinch and 2x damage if (a) Target has used Minimize (Hit)\r"
+        "Effect Description": "Causes flinch and 2x damage if (a) Target has used Minimize (Hit)"
     },
     {
         "Move ID": 24,
@@ -347,7 +347,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hits twice\r"
+        "Effect Description": "Hits twice"
     },
     {
         "Move ID": 25,
@@ -361,7 +361,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 26,
@@ -375,7 +375,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "User loses 1/2 max HP if move misses\r"
+        "Effect Description": "User loses 1/2 max HP if move misses"
     },
     {
         "Move ID": 27,
@@ -389,7 +389,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 28,
@@ -403,7 +403,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Accuracy (Status)\r"
+        "Effect Description": "Lowers Target's Accuracy (Status)"
     },
     {
         "Move ID": 29,
@@ -417,7 +417,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 30,
@@ -431,7 +431,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 31,
@@ -445,7 +445,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 32,
@@ -459,7 +459,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "OHKO\r"
+        "Effect Description": "OHKO"
     },
     {
         "Move ID": 33,
@@ -473,7 +473,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 34,
@@ -487,7 +487,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 35,
@@ -515,7 +515,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "1/4 damage recoil\r"
+        "Effect Description": "1/4 damage recoil"
     },
     {
         "Move ID": 37,
@@ -529,7 +529,7 @@
         "PP": 20,
         "Ranges": "[RANDOM]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Locked into move for 2-3 turns; confuses User after\r"
+        "Effect Description": "Locked into move for 2-3 turns; confuses User after"
     },
     {
         "Move ID": 38,
@@ -543,7 +543,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "1/3 damage recoil\r"
+        "Effect Description": "1/3 damage recoil"
     },
     {
         "Move ID": 39,
@@ -557,7 +557,7 @@
         "PP": 30,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Lowers Target's Def (Status)\r"
+        "Effect Description": "Lowers Target's Def (Status)"
     },
     {
         "Move ID": 40,
@@ -571,7 +571,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Poison (Hit)\r"
+        "Effect Description": "May Poison (Hit)"
     },
     {
         "Move ID": 41,
@@ -585,7 +585,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit and may Poison\r"
+        "Effect Description": "Multi-hit and may Poison"
     },
     {
         "Move ID": 42,
@@ -599,7 +599,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 43,
@@ -613,7 +613,7 @@
         "PP": 30,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Def (Status)\r"
+        "Effect Description": "Lowers Target's Def (Status)"
     },
     {
         "Move ID": 44,
@@ -627,7 +627,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 45,
@@ -641,7 +641,7 @@
         "PP": 40,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Lowers Target's Atk (Status)\r"
+        "Effect Description": "Lowers Target's Atk (Status)"
     },
     {
         "Move ID": 46,
@@ -655,7 +655,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Force switch\r"
+        "Effect Description": "Force switch"
     },
     {
         "Move ID": 47,
@@ -669,7 +669,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 48,
@@ -683,7 +683,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes confusion\r"
+        "Effect Description": "Causes confusion"
     },
     {
         "Move ID": 49,
@@ -697,7 +697,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Deals 20 damage\r"
+        "Effect Description": "Deals 20 damage"
     },
     {
         "Move ID": 50,
@@ -711,7 +711,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Disables last move used for 4-7 turns\r"
+        "Effect Description": "Disables last move used for 4-7 turns"
     },
     {
         "Move ID": 51,
@@ -725,7 +725,7 @@
         "PP": 30,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 52,
@@ -739,7 +739,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "May Burn (Hit)\r"
+        "Effect Description": "May Burn (Hit)"
     },
     {
         "Move ID": 53,
@@ -753,7 +753,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Burn (Hit)\r"
+        "Effect Description": "May Burn (Hit)"
     },
     {
         "Move ID": 54,
@@ -767,7 +767,7 @@
         "PP": 30,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Prevents stat reduction\r"
+        "Effect Description": "Prevents stat reduction"
     },
     {
         "Move ID": 55,
@@ -781,7 +781,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 56,
@@ -795,7 +795,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 57,
@@ -809,7 +809,7 @@
         "PP": 15,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x damage on targets using move with Move Effect ID #255\r"
+        "Effect Description": "2x damage on targets using move with Move Effect ID #255"
     },
     {
         "Move ID": 58,
@@ -823,7 +823,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Freeze (Hit)\r"
+        "Effect Description": "May Freeze (Hit)"
     },
     {
         "Move ID": 59,
@@ -851,7 +851,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 61,
@@ -865,7 +865,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Speed (Hit)\r"
+        "Effect Description": "Lowers Target's Speed (Hit)"
     },
     {
         "Move ID": 62,
@@ -879,7 +879,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Atk (Hit)\r"
+        "Effect Description": "Lowers Target's Atk (Hit)"
     },
     {
         "Move ID": 63,
@@ -893,7 +893,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 64,
@@ -907,7 +907,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 65,
@@ -921,7 +921,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 66,
@@ -935,7 +935,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "1/4 damage recoil\r"
+        "Effect Description": "1/4 damage recoil"
     },
     {
         "Move ID": 67,
@@ -949,7 +949,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Increase power with Target's weight\r"
+        "Effect Description": "Increase power with Target's weight"
     },
     {
         "Move ID": 68,
@@ -963,7 +963,7 @@
         "PP": 20,
         "Ranges": "[VARIABLE]",
         "Flags": "[CONTACT]",
-        "Effect Description": "Deals 2x last amount of damage received\r"
+        "Effect Description": "Deals 2x last amount of damage received"
     },
     {
         "Move ID": 69,
@@ -977,7 +977,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Deals damage equal to User's level\r"
+        "Effect Description": "Deals damage equal to User's level"
     },
     {
         "Move ID": 70,
@@ -991,7 +991,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Atk (Hit)\r"
+        "Effect Description": "Lowers Target's Atk (Hit)"
     },
     {
         "Move ID": 71,
@@ -1005,7 +1005,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Restore own HP by 1/2 damage dealt\r"
+        "Effect Description": "Restore own HP by 1/2 damage dealt"
     },
     {
         "Move ID": 72,
@@ -1019,7 +1019,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Restore own HP by 1/2 damage dealt\r"
+        "Effect Description": "Restore own HP by 1/2 damage dealt"
     },
     {
         "Move ID": 73,
@@ -1033,7 +1033,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes leech seed\r"
+        "Effect Description": "Causes leech seed"
     },
     {
         "Move ID": 74,
@@ -1047,7 +1047,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises User's Sp. Atk (Status)\r"
+        "Effect Description": "Raises User's Sp. Atk (Status)"
     },
     {
         "Move ID": 75,
@@ -1061,7 +1061,7 @@
         "PP": 25,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 76,
@@ -1089,7 +1089,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Causes Poison\r"
+        "Effect Description": "Causes Poison"
     },
     {
         "Move ID": 78,
@@ -1103,7 +1103,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Causes Paralysis\r"
+        "Effect Description": "Causes Paralysis"
     },
     {
         "Move ID": 79,
@@ -1117,7 +1117,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 80,
@@ -1131,7 +1131,7 @@
         "PP": 20,
         "Ranges": "[RANDOM]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Locked into move for 2-3 turns; confuses User after\r"
+        "Effect Description": "Locked into move for 2-3 turns; confuses User after"
     },
     {
         "Move ID": 81,
@@ -1145,7 +1145,7 @@
         "PP": 40,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Speed (Status)\r"
+        "Effect Description": "Lowers Target's Speed (Status)"
     },
     {
         "Move ID": 82,
@@ -1159,7 +1159,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Deals 40 damage\r"
+        "Effect Description": "Deals 40 damage"
     },
     {
         "Move ID": 83,
@@ -1187,7 +1187,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 85,
@@ -1201,7 +1201,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 86,
@@ -1215,7 +1215,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Paralysis\r"
+        "Effect Description": "Causes Paralysis"
     },
     {
         "Move ID": 87,
@@ -1243,7 +1243,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 89,
@@ -1257,7 +1257,7 @@
         "PP": 10,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x damage on Target using Move with Move Effect ID #256\r"
+        "Effect Description": "2x damage on Target using Move with Move Effect ID #256"
     },
     {
         "Move ID": 90,
@@ -1271,7 +1271,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "OHKO\r"
+        "Effect Description": "OHKO"
     },
     {
         "Move ID": 91,
@@ -1299,7 +1299,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Badly Poisons\r"
+        "Effect Description": "Badly Poisons"
     },
     {
         "Move ID": 93,
@@ -1313,7 +1313,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 94,
@@ -1327,7 +1327,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 95,
@@ -1341,7 +1341,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 96,
@@ -1355,7 +1355,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises User's Atk (Status)\r"
+        "Effect Description": "Raises User's Atk (Status)"
     },
     {
         "Move ID": 97,
@@ -1369,7 +1369,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|DEL_SHADOW]",
-        "Effect Description": "Sharply raises User's Speed (Status)\r"
+        "Effect Description": "Sharply raises User's Speed (Status)"
     },
     {
         "Move ID": 98,
@@ -1383,7 +1383,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 99,
@@ -1397,7 +1397,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Raises User's Atk when hit; locked into move until User is KO'd or battle ends\r"
+        "Effect Description": "Raises User's Atk when hit; locked into move until User is KO'd or battle ends"
     },
     {
         "Move ID": 100,
@@ -1411,7 +1411,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Flee from wild Single battle; fails in trainer battles\r"
+        "Effect Description": "Flee from wild Single battle; fails in trainer battles"
     },
     {
         "Move ID": 101,
@@ -1425,7 +1425,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Deals damage equal to User's level\r"
+        "Effect Description": "Deals damage equal to User's level"
     },
     {
         "Move ID": 102,
@@ -1439,7 +1439,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT]",
-        "Effect Description": "Mimic effect\r"
+        "Effect Description": "Mimic effect"
     },
     {
         "Move ID": 103,
@@ -1453,7 +1453,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Sharply lowers Target's Def (Status)\r"
+        "Effect Description": "Sharply lowers Target's Def (Status)"
     },
     {
         "Move ID": 104,
@@ -1467,7 +1467,7 @@
         "PP": 15,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises User's Evasion (Status)\r"
+        "Effect Description": "Raises User's Evasion (Status)"
     },
     {
         "Move ID": 105,
@@ -1481,7 +1481,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Restore half of max HP\r"
+        "Effect Description": "Restore half of max HP"
     },
     {
         "Move ID": 106,
@@ -1495,7 +1495,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises User's Def (Status)\r"
+        "Effect Description": "Raises User's Def (Status)"
     },
     {
         "Move ID": 107,
@@ -1509,7 +1509,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises Evasion; weak to Stomp/Rollout/Bodyslam\r"
+        "Effect Description": "Raises Evasion; weak to Stomp/Rollout/Bodyslam"
     },
     {
         "Move ID": 108,
@@ -1523,7 +1523,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Accuracy (Status)\r"
+        "Effect Description": "Lowers Target's Accuracy (Status)"
     },
     {
         "Move ID": 109,
@@ -1537,7 +1537,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes confusion\r"
+        "Effect Description": "Causes confusion"
     },
     {
         "Move ID": 110,
@@ -1551,7 +1551,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises User's Def (Status)\r"
+        "Effect Description": "Raises User's Def (Status)"
     },
     {
         "Move ID": 111,
@@ -1565,7 +1565,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises Def and 2x Rollout/ Ice Ball power\r"
+        "Effect Description": "Raises Def and 2x Rollout/ Ice Ball power"
     },
     {
         "Move ID": 112,
@@ -1579,7 +1579,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises User's Def (Status)\r"
+        "Effect Description": "Sharply raises User's Def (Status)"
     },
     {
         "Move ID": 113,
@@ -1593,7 +1593,7 @@
         "PP": 30,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sets Light Screen\r"
+        "Effect Description": "Sets Light Screen"
     },
     {
         "Move ID": 114,
@@ -1607,7 +1607,7 @@
         "PP": 30,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Reset stat changes\r"
+        "Effect Description": "Reset stat changes"
     },
     {
         "Move ID": 115,
@@ -1621,7 +1621,7 @@
         "PP": 20,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sets Reflect\r"
+        "Effect Description": "Sets Reflect"
     },
     {
         "Move ID": 116,
@@ -1635,7 +1635,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises crit chance\r"
+        "Effect Description": "Sharply raises crit chance"
     },
     {
         "Move ID": 117,
@@ -1649,7 +1649,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[CONTACT|PROTECT|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Bide effect\r"
+        "Effect Description": "Bide effect"
     },
     {
         "Move ID": 118,
@@ -1663,7 +1663,7 @@
         "PP": 10,
         "Ranges": "[VARIABLE]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "User uses random move\r"
+        "Effect Description": "User uses random move"
     },
     {
         "Move ID": 119,
@@ -1677,7 +1677,7 @@
         "PP": 20,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "Uses the last move targeted at User by a Pokémon still on field\r"
+        "Effect Description": "Uses the last move targeted at User by a Pokémon still on field"
     },
     {
         "Move ID": 120,
@@ -1691,7 +1691,7 @@
         "PP": 5,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Halves target's defense + KOs self\r"
+        "Effect Description": "Halves target's defense + KOs self"
     },
     {
         "Move ID": 121,
@@ -1705,7 +1705,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 122,
@@ -1719,7 +1719,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 123,
@@ -1733,7 +1733,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Poison (Hit)\r"
+        "Effect Description": "May Poison (Hit)"
     },
     {
         "Move ID": 124,
@@ -1747,7 +1747,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Poison (Hit)\r"
+        "Effect Description": "May Poison (Hit)"
     },
     {
         "Move ID": 125,
@@ -1761,7 +1761,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 126,
@@ -1775,7 +1775,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "May Burn (Hit)\r"
+        "Effect Description": "May Burn (Hit)"
     },
     {
         "Move ID": 127,
@@ -1789,7 +1789,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 128,
@@ -1817,7 +1817,7 @@
         "PP": 20,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 130,
@@ -1845,7 +1845,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 132,
@@ -1859,7 +1859,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Speed (Hit)\r"
+        "Effect Description": "Lowers Target's Speed (Hit)"
     },
     {
         "Move ID": 133,
@@ -1873,7 +1873,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Sharply raises User's Sp. Def (Status)\r"
+        "Effect Description": "Sharply raises User's Sp. Def (Status)"
     },
     {
         "Move ID": 134,
@@ -1887,7 +1887,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Lowers Target's Accuracy (Status)\r"
+        "Effect Description": "Lowers Target's Accuracy (Status)"
     },
     {
         "Move ID": 135,
@@ -1901,7 +1901,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Restore half of max HP\r"
+        "Effect Description": "Restore half of max HP"
     },
     {
         "Move ID": 136,
@@ -1915,7 +1915,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "User loses 1/2 max HP if move misses\r"
+        "Effect Description": "User loses 1/2 max HP if move misses"
     },
     {
         "Move ID": 137,
@@ -1929,7 +1929,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Paralysis\r"
+        "Effect Description": "Causes Paralysis"
     },
     {
         "Move ID": 138,
@@ -1943,7 +1943,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Fails on awake Target; Restore own HP by 1/2 damage dealt\r"
+        "Effect Description": "Fails on awake Target; Restore own HP by 1/2 damage dealt"
     },
     {
         "Move ID": 139,
@@ -1957,7 +1957,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Poison\r"
+        "Effect Description": "Causes Poison"
     },
     {
         "Move ID": 140,
@@ -1971,7 +1971,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 141,
@@ -1985,7 +1985,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Restore own HP by 1/2 damage dealt\r"
+        "Effect Description": "Restore own HP by 1/2 damage dealt"
     },
     {
         "Move ID": 142,
@@ -1999,7 +1999,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 143,
@@ -2027,7 +2027,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "User transforms into Target\r"
+        "Effect Description": "User transforms into Target"
     },
     {
         "Move ID": 145,
@@ -2041,7 +2041,7 @@
         "PP": 30,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Speed (Hit)\r"
+        "Effect Description": "Lowers Target's Speed (Hit)"
     },
     {
         "Move ID": 146,
@@ -2055,7 +2055,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 147,
@@ -2069,7 +2069,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 148,
@@ -2083,7 +2083,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "Lowers Target's Accuracy (Status)\r"
+        "Effect Description": "Lowers Target's Accuracy (Status)"
     },
     {
         "Move ID": 149,
@@ -2097,7 +2097,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Deals damage equal to User's level x1.5\r"
+        "Effect Description": "Deals damage equal to User's level x1.5"
     },
     {
         "Move ID": 150,
@@ -2111,7 +2111,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "Do nothing\r"
+        "Effect Description": "Do nothing"
     },
     {
         "Move ID": 151,
@@ -2125,7 +2125,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises User's Def (Status)\r"
+        "Effect Description": "Sharply raises User's Def (Status)"
     },
     {
         "Move ID": 152,
@@ -2139,7 +2139,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 153,
@@ -2153,7 +2153,7 @@
         "PP": 5,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Halves target's defense + KOs self\r"
+        "Effect Description": "Halves target's defense + KOs self"
     },
     {
         "Move ID": 154,
@@ -2167,7 +2167,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 155,
@@ -2181,7 +2181,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hits twice\r"
+        "Effect Description": "Hits twice"
     },
     {
         "Move ID": 156,
@@ -2195,7 +2195,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Rest effect\r"
+        "Effect Description": "Rest effect"
     },
     {
         "Move ID": 157,
@@ -2209,7 +2209,7 @@
         "PP": 10,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 158,
@@ -2223,7 +2223,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 159,
@@ -2237,7 +2237,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises User's Atk (Status)\r"
+        "Effect Description": "Raises User's Atk (Status)"
     },
     {
         "Move ID": 160,
@@ -2251,7 +2251,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "Conversion effect\r"
+        "Effect Description": "Conversion effect"
     },
     {
         "Move ID": 161,
@@ -2279,7 +2279,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Halve target's HP\r"
+        "Effect Description": "Halve target's HP"
     },
     {
         "Move ID": 163,
@@ -2293,7 +2293,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 164,
@@ -2307,7 +2307,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Substitute effect\r"
+        "Effect Description": "Substitute effect"
     },
     {
         "Move ID": 165,
@@ -2321,7 +2321,7 @@
         "PP": 1,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "1/4 max HP recoil\r"
+        "Effect Description": "1/4 max HP recoil"
     },
     {
         "Move ID": 166,
@@ -2335,7 +2335,7 @@
         "PP": 1,
         "Ranges": "[]",
         "Flags": "[]",
-        "Effect Description": "User permanently replaces move with Target's last used move\r"
+        "Effect Description": "User permanently replaces move with Target's last used move"
     },
     {
         "Move ID": 167,
@@ -2349,7 +2349,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hit 3 times\r"
+        "Effect Description": "Hit 3 times"
     },
     {
         "Move ID": 168,
@@ -2363,7 +2363,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "User steals Target's held item\r"
+        "Effect Description": "User steals Target's held item"
     },
     {
         "Move ID": 169,
@@ -2377,7 +2377,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Prevents Target from escaping\r"
+        "Effect Description": "Prevents Target from escaping"
     },
     {
         "Move ID": 170,
@@ -2391,7 +2391,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Next move used by user guaranteed to hit\r"
+        "Effect Description": "Next move used by user guaranteed to hit"
     },
     {
         "Move ID": 171,
@@ -2405,7 +2405,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Sleeping Target takes 1/4 max HP damage every turn until waking up\r"
+        "Effect Description": "Sleeping Target takes 1/4 max HP damage every turn until waking up"
     },
     {
         "Move ID": 172,
@@ -2419,7 +2419,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May burn; Thaws User (Hit)\r"
+        "Effect Description": "May burn; Thaws User (Hit)"
     },
     {
         "Move ID": 173,
@@ -2433,7 +2433,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "User must be asleep; May cause Flinch\r"
+        "Effect Description": "User must be asleep; May cause Flinch"
     },
     {
         "Move ID": 174,
@@ -2447,7 +2447,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "Curse effect\r"
+        "Effect Description": "Curse effect"
     },
     {
         "Move ID": 175,
@@ -2461,7 +2461,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Higher power the less HP user has\r"
+        "Effect Description": "Higher power the less HP user has"
     },
     {
         "Move ID": 176,
@@ -2475,7 +2475,7 @@
         "PP": 30,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Conversion2 effect\r"
+        "Effect Description": "Conversion2 effect"
     },
     {
         "Move ID": 177,
@@ -2489,7 +2489,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 178,
@@ -2503,7 +2503,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Sharply lowers Target's Speed (Status)\r"
+        "Effect Description": "Sharply lowers Target's Speed (Status)"
     },
     {
         "Move ID": 179,
@@ -2517,7 +2517,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Higher power the less HP user has\r"
+        "Effect Description": "Higher power the less HP user has"
     },
     {
         "Move ID": 180,
@@ -2531,7 +2531,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Decreases PP of target's last used move by 4\r"
+        "Effect Description": "Decreases PP of target's last used move by 4"
     },
     {
         "Move ID": 181,
@@ -2545,7 +2545,7 @@
         "PP": 25,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Freeze (Hit)\r"
+        "Effect Description": "May Freeze (Hit)"
     },
     {
         "Move ID": 182,
@@ -2559,7 +2559,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "User is protected from attacks this turn if moving first; high likelihood of failure next turn\r"
+        "Effect Description": "User is protected from attacks this turn if moving first; high likelihood of failure next turn"
     },
     {
         "Move ID": 183,
@@ -2573,7 +2573,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 184,
@@ -2587,7 +2587,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Sharply lowers Target's Speed (Status)\r"
+        "Effect Description": "Sharply lowers Target's Speed (Status)"
     },
     {
         "Move ID": 185,
@@ -2601,7 +2601,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 186,
@@ -2615,7 +2615,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes confusion\r"
+        "Effect Description": "Causes confusion"
     },
     {
         "Move ID": 187,
@@ -2643,7 +2643,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Poison (Hit)\r"
+        "Effect Description": "May Poison (Hit)"
     },
     {
         "Move ID": 189,
@@ -2657,7 +2657,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Accuracy (Hit)\r"
+        "Effect Description": "Lowers Target's Accuracy (Hit)"
     },
     {
         "Move ID": 190,
@@ -2671,7 +2671,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Accuracy (Hit)\r"
+        "Effect Description": "Lowers Target's Accuracy (Hit)"
     },
     {
         "Move ID": 191,
@@ -2685,7 +2685,7 @@
         "PP": 20,
         "Ranges": "[OPPONENTS_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Sets Spikes; Stacks up to 3\r"
+        "Effect Description": "Sets Spikes; Stacks up to 3"
     },
     {
         "Move ID": 192,
@@ -2699,7 +2699,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 193,
@@ -2713,7 +2713,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Removes a Ghost-Type Target's Normal and Fighting immunities\r"
+        "Effect Description": "Removes a Ghost-Type Target's Normal and Fighting immunities"
     },
     {
         "Move ID": 194,
@@ -2727,7 +2727,7 @@
         "PP": 5,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "KO from attack causes attacker to be KO'd; active until User's next move\r"
+        "Effect Description": "KO from attack causes attacker to be KO'd; active until User's next move"
     },
     {
         "Move ID": 195,
@@ -2741,7 +2741,7 @@
         "PP": 5,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[DEL_SHADOW]",
-        "Effect Description": "All on field are KO'd in 3 turns\r"
+        "Effect Description": "All on field are KO'd in 3 turns"
     },
     {
         "Move ID": 196,
@@ -2755,7 +2755,7 @@
         "PP": 15,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Speed (Hit)\r"
+        "Effect Description": "Lowers Target's Speed (Hit)"
     },
     {
         "Move ID": 197,
@@ -2769,7 +2769,7 @@
         "PP": 5,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "User is protected from attacks this turn if moving first; high likelihood of failure next turn\r"
+        "Effect Description": "User is protected from attacks this turn if moving first; high likelihood of failure next turn"
     },
     {
         "Move ID": 198,
@@ -2783,7 +2783,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 199,
@@ -2797,7 +2797,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Next move used by user guaranteed to hit\r"
+        "Effect Description": "Next move used by user guaranteed to hit"
     },
     {
         "Move ID": 200,
@@ -2811,7 +2811,7 @@
         "PP": 15,
         "Ranges": "[RANDOM]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Locked into move for 2-3 turns; confuses User after\r"
+        "Effect Description": "Locked into move for 2-3 turns; confuses User after"
     },
     {
         "Move ID": 201,
@@ -2825,7 +2825,7 @@
         "PP": 10,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Causes Sandstorm\r"
+        "Effect Description": "Causes Sandstorm"
     },
     {
         "Move ID": 202,
@@ -2839,7 +2839,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Restore own HP by 1/2 damage dealt\r"
+        "Effect Description": "Restore own HP by 1/2 damage dealt"
     },
     {
         "Move ID": 203,
@@ -2853,7 +2853,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "User survives next move with at least 1 HP\r"
+        "Effect Description": "User survives next move with at least 1 HP"
     },
     {
         "Move ID": 204,
@@ -2867,7 +2867,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Sharply lowers Target's Atk (Status)\r"
+        "Effect Description": "Sharply lowers Target's Atk (Status)"
     },
     {
         "Move ID": 205,
@@ -2895,7 +2895,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Target will remain with at least 1 HP\r"
+        "Effect Description": "Target will remain with at least 1 HP"
     },
     {
         "Move ID": 207,
@@ -2909,7 +2909,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises Target's Atk and causes Confusion\r"
+        "Effect Description": "Sharply raises Target's Atk and causes Confusion"
     },
     {
         "Move ID": 208,
@@ -2923,7 +2923,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Restore half of max HP\r"
+        "Effect Description": "Restore half of max HP"
     },
     {
         "Move ID": 209,
@@ -2937,7 +2937,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 210,
@@ -2951,7 +2951,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "2x power for every consecutive hit\r"
+        "Effect Description": "2x power for every consecutive hit"
     },
     {
         "Move ID": 211,
@@ -2965,7 +2965,7 @@
         "PP": 25,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May raise User's Def (Hit)\r"
+        "Effect Description": "May raise User's Def (Hit)"
     },
     {
         "Move ID": 212,
@@ -2979,7 +2979,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Prevents Target from escaping\r"
+        "Effect Description": "Prevents Target from escaping"
     },
     {
         "Move ID": 213,
@@ -2993,7 +2993,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Infatuation on Target if opposite gender of User\r"
+        "Effect Description": "Causes Infatuation on Target if opposite gender of User"
     },
     {
         "Move ID": 214,
@@ -3007,7 +3007,7 @@
         "PP": 10,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "Use random known move while asleep\r"
+        "Effect Description": "Use random known move while asleep"
     },
     {
         "Move ID": 215,
@@ -3021,7 +3021,7 @@
         "PP": 5,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Cure party of all status\r"
+        "Effect Description": "Cure party of all status"
     },
     {
         "Move ID": 216,
@@ -3035,7 +3035,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Power based on high Friendship\r"
+        "Effect Description": "Power based on high Friendship"
     },
     {
         "Move ID": 217,
@@ -3049,7 +3049,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Randomly heals or damages Target; variable power\r"
+        "Effect Description": "Randomly heals or damages Target; variable power"
     },
     {
         "Move ID": 218,
@@ -3063,7 +3063,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Power based on low Friendship\r"
+        "Effect Description": "Power based on low Friendship"
     },
     {
         "Move ID": 219,
@@ -3077,7 +3077,7 @@
         "PP": 25,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Prevents new status effects for Target for 5 turns\r"
+        "Effect Description": "Prevents new status effects for Target for 5 turns"
     },
     {
         "Move ID": 220,
@@ -3091,7 +3091,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Pain Split effect\r"
+        "Effect Description": "Pain Split effect"
     },
     {
         "Move ID": 221,
@@ -3105,7 +3105,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "May burn; Thaws User (Hit)\r"
+        "Effect Description": "May burn; Thaws User (Hit)"
     },
     {
         "Move ID": 222,
@@ -3119,7 +3119,7 @@
         "PP": 30,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Variable damage; can hit Target using Dig\r"
+        "Effect Description": "Variable damage; can hit Target using Dig"
     },
     {
         "Move ID": 223,
@@ -3133,7 +3133,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 224,
@@ -3147,7 +3147,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 225,
@@ -3161,7 +3161,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 226,
@@ -3175,7 +3175,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Pass stat boosts and switch out\r"
+        "Effect Description": "Pass stat boosts and switch out"
     },
     {
         "Move ID": 227,
@@ -3189,7 +3189,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Locks target into last move used for 3-7 turns\r"
+        "Effect Description": "Locks target into last move used for 3-7 turns"
     },
     {
         "Move ID": 228,
@@ -3217,7 +3217,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Remove hazards and binding on User's side of field\r"
+        "Effect Description": "Remove hazards and binding on User's side of field"
     },
     {
         "Move ID": 230,
@@ -3231,7 +3231,7 @@
         "PP": 20,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Evasion (Status)\r"
+        "Effect Description": "Lowers Target's Evasion (Status)"
     },
     {
         "Move ID": 231,
@@ -3245,7 +3245,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Def (Hit)\r"
+        "Effect Description": "Lowers Target's Def (Hit)"
     },
     {
         "Move ID": 232,
@@ -3259,7 +3259,7 @@
         "PP": 35,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May raise User's Atk (Hit)\r"
+        "Effect Description": "May raise User's Atk (Hit)"
     },
     {
         "Move ID": 233,
@@ -3329,7 +3329,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Type and Power determined by user's IVs\r"
+        "Effect Description": "Type and Power determined by user's IVs"
     },
     {
         "Move ID": 238,
@@ -3343,7 +3343,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 239,
@@ -3371,7 +3371,7 @@
         "PP": 5,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Causes Rain\r"
+        "Effect Description": "Causes Rain"
     },
     {
         "Move ID": 241,
@@ -3385,7 +3385,7 @@
         "PP": 5,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Causes Harsh Sunlight\r"
+        "Effect Description": "Causes Harsh Sunlight"
     },
     {
         "Move ID": 242,
@@ -3399,7 +3399,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Def (Hit)\r"
+        "Effect Description": "Lowers Target's Def (Hit)"
     },
     {
         "Move ID": 243,
@@ -3413,7 +3413,7 @@
         "PP": 20,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "Deals 2x damage of last move received if it was Special\r"
+        "Effect Description": "Deals 2x damage of last move received if it was Special"
     },
     {
         "Move ID": 244,
@@ -3427,7 +3427,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Copy target stat changes\r"
+        "Effect Description": "Copy target stat changes"
     },
     {
         "Move ID": 245,
@@ -3441,7 +3441,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 246,
@@ -3455,7 +3455,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May raise all of User's stats (Hit)\r"
+        "Effect Description": "May raise all of User's stats (Hit)"
     },
     {
         "Move ID": 247,
@@ -3469,7 +3469,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 248,
@@ -3483,7 +3483,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[]",
-        "Effect Description": "Attacks in 2 turns after all moves; ignores type effectiveness\r"
+        "Effect Description": "Attacks in 2 turns after all moves; ignores type effectiveness"
     },
     {
         "Move ID": 249,
@@ -3497,7 +3497,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Def (Hit)\r"
+        "Effect Description": "Lowers Target's Def (Hit)"
     },
     {
         "Move ID": 250,
@@ -3511,7 +3511,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Traps Target; deals 1/16th max HP damage per turn; Can hit Targets using move with Move Effect ID #255\r"
+        "Effect Description": "Traps Target; deals 1/16th max HP damage per turn; Can hit Targets using move with Move Effect ID #255"
     },
     {
         "Move ID": 251,
@@ -3525,7 +3525,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Hits once with each healthy party member's Atk stat; Typeless\r"
+        "Effect Description": "Hits once with each healthy party member's Atk stat; Typeless"
     },
     {
         "Move ID": 252,
@@ -3539,7 +3539,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Causes Flinch; fails if User was on field last turn\r"
+        "Effect Description": "Causes Flinch; fails if User was on field last turn"
     },
     {
         "Move ID": 253,
@@ -3553,7 +3553,7 @@
         "PP": 10,
         "Ranges": "[RANDOM]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "All on field unable to sleep; wakes all sleeping Pokémon\r"
+        "Effect Description": "All on field unable to sleep; wakes all sleeping Pokémon"
     },
     {
         "Move ID": 254,
@@ -3581,7 +3581,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|KINGSROCK]",
-        "Effect Description": "Damage determined by Stockpile level\r"
+        "Effect Description": "Damage determined by Stockpile level"
     },
     {
         "Move ID": 256,
@@ -3595,7 +3595,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Healing determined by Stockpile level\r"
+        "Effect Description": "Healing determined by Stockpile level"
     },
     {
         "Move ID": 257,
@@ -3609,7 +3609,7 @@
         "PP": 10,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Burn (Hit)\r"
+        "Effect Description": "May Burn (Hit)"
     },
     {
         "Move ID": 258,
@@ -3623,7 +3623,7 @@
         "PP": 10,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[PROTECT]",
-        "Effect Description": "Causes Hail\r"
+        "Effect Description": "Causes Hail"
     },
     {
         "Move ID": 259,
@@ -3637,7 +3637,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Target is unable to use the same attack consecutively\r"
+        "Effect Description": "Target is unable to use the same attack consecutively"
     },
     {
         "Move ID": 260,
@@ -3651,7 +3651,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Raises Target's Sp. Atk and causes Confusion\r"
+        "Effect Description": "Raises Target's Sp. Atk and causes Confusion"
     },
     {
         "Move ID": 261,
@@ -3665,7 +3665,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Guaranteed Burn; activates Flash Fire\r"
+        "Effect Description": "Guaranteed Burn; activates Flash Fire"
     },
     {
         "Move ID": 262,
@@ -3679,7 +3679,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "KOs self and sharply lowers Target's Atk and Sp. Atk\r"
+        "Effect Description": "KOs self and sharply lowers Target's Atk and Sp. Atk"
     },
     {
         "Move ID": 263,
@@ -3707,7 +3707,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|DEL_SHADOW]",
-        "Effect Description": "User focuses at start of turn; Fails if User takes damage\r"
+        "Effect Description": "User focuses at start of turn; Fails if User takes damage"
     },
     {
         "Move ID": 265,
@@ -3721,7 +3721,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "2x power if target is Paralyzed; cures target of Paralysis\r"
+        "Effect Description": "2x power if target is Paralyzed; cures target of Paralysis"
     },
     {
         "Move ID": 266,
@@ -3735,7 +3735,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Redirects all moves to user\r"
+        "Effect Description": "Redirects all moves to user"
     },
     {
         "Move ID": 267,
@@ -3749,7 +3749,7 @@
         "PP": 20,
         "Ranges": "[VARIABLE]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "Calls attack depending on battle environment\r"
+        "Effect Description": "Calls attack depending on battle environment"
     },
     {
         "Move ID": 268,
@@ -3763,7 +3763,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises Target Sp. Def and Target's Electric-Type attacks have 2x power next turn\r"
+        "Effect Description": "Raises Target Sp. Def and Target's Electric-Type attacks have 2x power next turn"
     },
     {
         "Move ID": 269,
@@ -3777,7 +3777,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Target can't use status moves for 3-5 turns\r"
+        "Effect Description": "Target can't use status moves for 3-5 turns"
     },
     {
         "Move ID": 270,
@@ -3791,7 +3791,7 @@
         "PP": 20,
         "Ranges": "[ALLY]",
         "Flags": "[]",
-        "Effect Description": "Ally's attack deals 1.5x damage this turn\r"
+        "Effect Description": "Ally's attack deals 1.5x damage this turn"
     },
     {
         "Move ID": 271,
@@ -3805,7 +3805,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Swaps User's held item with Target's\r"
+        "Effect Description": "Swaps User's held item with Target's"
     },
     {
         "Move ID": 272,
@@ -3819,7 +3819,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[]",
-        "Effect Description": "Copy Target's ability\r"
+        "Effect Description": "Copy Target's ability"
     },
     {
         "Move ID": 273,
@@ -3833,7 +3833,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[DEL_SHADOW]",
-        "Effect Description": "Restore 1/2 User's max HP to Target at end of next turn\r"
+        "Effect Description": "Restore 1/2 User's max HP to Target at end of next turn"
     },
     {
         "Move ID": 274,
@@ -3847,7 +3847,7 @@
         "PP": 20,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "Use random move known by ally\r"
+        "Effect Description": "Use random move known by ally"
     },
     {
         "Move ID": 275,
@@ -3861,7 +3861,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Heal 1/16 max HP per turn; prevents User from escaping\r"
+        "Effect Description": "Heal 1/16 max HP per turn; prevents User from escaping"
     },
     {
         "Move ID": 276,
@@ -3875,7 +3875,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "Lowers User's Atk and Def\r"
+        "Effect Description": "Lowers User's Atk and Def"
     },
     {
         "Move ID": 277,
@@ -3889,7 +3889,7 @@
         "PP": 15,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "Reflects status moves back at their user\r"
+        "Effect Description": "Reflects status moves back at their user"
     },
     {
         "Move ID": 278,
@@ -3903,7 +3903,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "User replenishes last-used Held-Item\r"
+        "Effect Description": "User replenishes last-used Held-Item"
     },
     {
         "Move ID": 279,
@@ -3917,7 +3917,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x power if User has been hit this turn\r"
+        "Effect Description": "2x power if User has been hit this turn"
     },
     {
         "Move ID": 280,
@@ -3931,7 +3931,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Removes Light Screen/Reflect from Target's side of the field\r"
+        "Effect Description": "Removes Light Screen/Reflect from Target's side of the field"
     },
     {
         "Move ID": 281,
@@ -3945,7 +3945,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes sleep next turn\r"
+        "Effect Description": "Causes sleep next turn"
     },
     {
         "Move ID": 282,
@@ -3959,7 +3959,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Makes Target unable to use its held item\r"
+        "Effect Description": "Makes Target unable to use its held item"
     },
     {
         "Move ID": 283,
@@ -3973,7 +3973,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Set Target's HP equal to User's\r"
+        "Effect Description": "Set Target's HP equal to User's"
     },
     {
         "Move ID": 284,
@@ -3987,7 +3987,7 @@
         "PP": 5,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Higher power the less damage User has taken\r"
+        "Effect Description": "Higher power the less damage User has taken"
     },
     {
         "Move ID": 285,
@@ -4001,7 +4001,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Swaps User's Ability with Target's\r"
+        "Effect Description": "Swaps User's Ability with Target's"
     },
     {
         "Move ID": 286,
@@ -4015,7 +4015,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Target is prevented from using moves shared with the user\r"
+        "Effect Description": "Target is prevented from using moves shared with the user"
     },
     {
         "Move ID": 287,
@@ -4043,7 +4043,7 @@
         "PP": 5,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "PP of attacker's move which causes User KO this turn is reduced to 0\r"
+        "Effect Description": "PP of attacker's move which causes User KO this turn is reduced to 0"
     },
     {
         "Move ID": 289,
@@ -4057,7 +4057,7 @@
         "PP": 10,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "Snatch effect\r"
+        "Effect Description": "Snatch effect"
     },
     {
         "Move ID": 290,
@@ -4071,7 +4071,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Secondary effect determined by battle environment\r"
+        "Effect Description": "Secondary effect determined by battle environment"
     },
     {
         "Move ID": 291,
@@ -4099,7 +4099,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 293,
@@ -4113,7 +4113,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Changes User's Type to match Battle Environment\r"
+        "Effect Description": "Changes User's Type to match Battle Environment"
     },
     {
         "Move ID": 294,
@@ -4127,7 +4127,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Sharply raises User's Sp. Atk (Status)\r"
+        "Effect Description": "Sharply raises User's Sp. Atk (Status)"
     },
     {
         "Move ID": 295,
@@ -4141,7 +4141,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 296,
@@ -4155,7 +4155,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "Lowers Target's Sp. Atk (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Atk (Hit)"
     },
     {
         "Move ID": 297,
@@ -4169,7 +4169,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Sharply lowers Target's Atk (Status)\r"
+        "Effect Description": "Sharply lowers Target's Atk (Status)"
     },
     {
         "Move ID": 298,
@@ -4183,7 +4183,7 @@
         "PP": 20,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Guaranteed Confusion (Hit)\r"
+        "Effect Description": "Guaranteed Confusion (Hit)"
     },
     {
         "Move ID": 299,
@@ -4197,7 +4197,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "High crit chance; may Burn (Hit)\r"
+        "Effect Description": "High crit chance; may Burn (Hit)"
     },
     {
         "Move ID": 300,
@@ -4211,7 +4211,7 @@
         "PP": 15,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Halve Electric-Type move damage\r"
+        "Effect Description": "Halve Electric-Type move damage"
     },
     {
         "Move ID": 301,
@@ -4239,7 +4239,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 303,
@@ -4253,7 +4253,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Restore half of max HP\r"
+        "Effect Description": "Restore half of max HP"
     },
     {
         "Move ID": 304,
@@ -4267,7 +4267,7 @@
         "PP": 10,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 305,
@@ -4281,7 +4281,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May Badly Poison (Hit)\r"
+        "Effect Description": "May Badly Poison (Hit)"
     },
     {
         "Move ID": 306,
@@ -4295,7 +4295,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Def (Hit)\r"
+        "Effect Description": "Lowers Target's Def (Hit)"
     },
     {
         "Move ID": 307,
@@ -4309,7 +4309,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 308,
@@ -4323,7 +4323,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 309,
@@ -4337,7 +4337,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May raise User's Atk (Hit)\r"
+        "Effect Description": "May raise User's Atk (Hit)"
     },
     {
         "Move ID": 310,
@@ -4351,7 +4351,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 311,
@@ -4365,7 +4365,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Changes Move Type to match weather\r"
+        "Effect Description": "Changes Move Type to match weather"
     },
     {
         "Move ID": 312,
@@ -4379,7 +4379,7 @@
         "PP": 5,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Cure party of all status\r"
+        "Effect Description": "Cure party of all status"
     },
     {
         "Move ID": 313,
@@ -4393,7 +4393,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Sharply lowers Target's Sp. Def (Status)\r"
+        "Effect Description": "Sharply lowers Target's Sp. Def (Status)"
     },
     {
         "Move ID": 314,
@@ -4407,7 +4407,7 @@
         "PP": 25,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 315,
@@ -4421,7 +4421,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Harshly Lowers User's Sp. Atk\r"
+        "Effect Description": "Harshly Lowers User's Sp. Atk"
     },
     {
         "Move ID": 316,
@@ -4435,7 +4435,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Removes a Ghost-Type Target's Normal and Fighting immunities\r"
+        "Effect Description": "Removes a Ghost-Type Target's Normal and Fighting immunities"
     },
     {
         "Move ID": 317,
@@ -4449,7 +4449,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Speed (Hit)\r"
+        "Effect Description": "Lowers Target's Speed (Hit)"
     },
     {
         "Move ID": 318,
@@ -4463,7 +4463,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May raise all of User's stats (Hit)\r"
+        "Effect Description": "May raise all of User's stats (Hit)"
     },
     {
         "Move ID": 319,
@@ -4477,7 +4477,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Sharply lowers Target's Sp. Def (Status)\r"
+        "Effect Description": "Sharply lowers Target's Sp. Def (Status)"
     },
     {
         "Move ID": 320,
@@ -4491,7 +4491,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 321,
@@ -4505,7 +4505,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Lowers Atk and Def\r"
+        "Effect Description": "Lowers Atk and Def"
     },
     {
         "Move ID": 322,
@@ -4519,7 +4519,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|DEL_SHADOW]",
-        "Effect Description": "Raises User's Def and Sp. Def\r"
+        "Effect Description": "Raises User's Def and Sp. Def"
     },
     {
         "Move ID": 323,
@@ -4533,7 +4533,7 @@
         "PP": 5,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Higher power the less damage User has taken\r"
+        "Effect Description": "Higher power the less damage User has taken"
     },
     {
         "Move ID": 324,
@@ -4547,7 +4547,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 325,
@@ -4561,7 +4561,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 326,
@@ -4575,7 +4575,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 327,
@@ -4617,7 +4617,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "OHKO\r"
+        "Effect Description": "OHKO"
     },
     {
         "Move ID": 330,
@@ -4631,7 +4631,7 @@
         "PP": 10,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Accuracy (Hit)\r"
+        "Effect Description": "Lowers Target's Accuracy (Hit)"
     },
     {
         "Move ID": 331,
@@ -4645,7 +4645,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 332,
@@ -4659,7 +4659,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 333,
@@ -4673,7 +4673,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 334,
@@ -4687,7 +4687,7 @@
         "PP": 15,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises User's Def (Status)\r"
+        "Effect Description": "Sharply raises User's Def (Status)"
     },
     {
         "Move ID": 335,
@@ -4701,7 +4701,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Prevents Target from escaping\r"
+        "Effect Description": "Prevents Target from escaping"
     },
     {
         "Move ID": 336,
@@ -4715,7 +4715,7 @@
         "PP": 40,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises User's Atk (Status)\r"
+        "Effect Description": "Raises User's Atk (Status)"
     },
     {
         "Move ID": 337,
@@ -4729,7 +4729,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 338,
@@ -4743,7 +4743,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 339,
@@ -4757,7 +4757,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Raises User's Atk and Def\r"
+        "Effect Description": "Raises User's Atk and Def"
     },
     {
         "Move ID": 340,
@@ -4785,7 +4785,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Speed (Hit)\r"
+        "Effect Description": "Lowers Target's Speed (Hit)"
     },
     {
         "Move ID": 342,
@@ -4813,7 +4813,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE]",
-        "Effect Description": "User steals Target's held item\r"
+        "Effect Description": "User steals Target's held item"
     },
     {
         "Move ID": 344,
@@ -4841,7 +4841,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 346,
@@ -4855,7 +4855,7 @@
         "PP": 15,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Halves Fire-Type move damage\r"
+        "Effect Description": "Halves Fire-Type move damage"
     },
     {
         "Move ID": 347,
@@ -4869,7 +4869,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises User's Sp. Atk and Sp. Def\r"
+        "Effect Description": "Raises User's Sp. Atk and Sp. Def"
     },
     {
         "Move ID": 348,
@@ -4883,7 +4883,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 349,
@@ -4897,7 +4897,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises User's Atk and Speed\r"
+        "Effect Description": "Raises User's Atk and Speed"
     },
     {
         "Move ID": 350,
@@ -4911,7 +4911,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Multi-hit (2-5 times)\r"
+        "Effect Description": "Multi-hit (2-5 times)"
     },
     {
         "Move ID": 351,
@@ -4925,7 +4925,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 352,
@@ -4939,7 +4939,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 353,
@@ -4953,7 +4953,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[DEL_SHADOW]",
-        "Effect Description": "Attacks in 2 turns after all moves; ignores type effectiveness\r"
+        "Effect Description": "Attacks in 2 turns after all moves; ignores type effectiveness"
     },
     {
         "Move ID": 354,
@@ -4967,7 +4967,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Harshly Lowers User's Sp. Atk\r"
+        "Effect Description": "Harshly Lowers User's Sp. Atk"
     },
     {
         "Move ID": 355,
@@ -4981,7 +4981,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Restores 1/2 max HP and loses Flying-Type\r"
+        "Effect Description": "Restores 1/2 max HP and loses Flying-Type"
     },
     {
         "Move ID": 356,
@@ -4995,7 +4995,7 @@
         "PP": 5,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Gravity effect\r"
+        "Effect Description": "Gravity effect"
     },
     {
         "Move ID": 357,
@@ -5009,7 +5009,7 @@
         "PP": 40,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Dark-Type Target loses Psychic immunity\r"
+        "Effect Description": "Dark-Type Target loses Psychic immunity"
     },
     {
         "Move ID": 358,
@@ -5023,7 +5023,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x Damage if Target is asleep; Wakes Target\r"
+        "Effect Description": "2x Damage if Target is asleep; Wakes Target"
     },
     {
         "Move ID": 359,
@@ -5037,7 +5037,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers User's Speed (Hit)\r"
+        "Effect Description": "Lowers User's Speed (Hit)"
     },
     {
         "Move ID": 360,
@@ -5051,7 +5051,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Greater power the slower User is than Target\r"
+        "Effect Description": "Greater power the slower User is than Target"
     },
     {
         "Move ID": 361,
@@ -5065,7 +5065,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "KOs self and fully heals replacement\r"
+        "Effect Description": "KOs self and fully heals replacement"
     },
     {
         "Move ID": 362,
@@ -5079,7 +5079,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x power when Target is below 1/2 HP\r"
+        "Effect Description": "2x power when Target is below 1/2 HP"
     },
     {
         "Move ID": 363,
@@ -5093,7 +5093,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Power and Type determined by User's held berry; berry is consumed\r"
+        "Effect Description": "Power and Type determined by User's held berry; berry is consumed"
     },
     {
         "Move ID": 364,
@@ -5107,7 +5107,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[]",
-        "Effect Description": "Can only hit Target which has used Protect/Detect this turn\r"
+        "Effect Description": "Can only hit Target which has used Protect/Detect this turn"
     },
     {
         "Move ID": 365,
@@ -5121,7 +5121,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "User consumes Target's berry and receives its effect\r"
+        "Effect Description": "User consumes Target's berry and receives its effect"
     },
     {
         "Move ID": 366,
@@ -5135,7 +5135,7 @@
         "PP": 30,
         "Ranges": "[USER_SIDE]",
         "Flags": "[SNATCH]",
-        "Effect Description": "2x Speed for User's party for 3 turns\r"
+        "Effect Description": "2x Speed for User's party for 3 turns"
     },
     {
         "Move ID": 367,
@@ -5149,7 +5149,7 @@
         "PP": 30,
         "Ranges": "[ACUPRESSURE]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises random stat\r"
+        "Effect Description": "Sharply raises random stat"
     },
     {
         "Move ID": 368,
@@ -5163,7 +5163,7 @@
         "PP": 10,
         "Ranges": "[VARIABLE]",
         "Flags": "[MIRROR_MOVE]",
-        "Effect Description": "Metal Burst effect\r"
+        "Effect Description": "Metal Burst effect"
     },
     {
         "Move ID": 369,
@@ -5177,7 +5177,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Switches User out after dealing damage (Hit)\r"
+        "Effect Description": "Switches User out after dealing damage (Hit)"
     },
     {
         "Move ID": 370,
@@ -5191,7 +5191,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Lowers User's Def and Sp. Def (Hit)\r"
+        "Effect Description": "Lowers User's Def and Sp. Def (Hit)"
     },
     {
         "Move ID": 371,
@@ -5205,7 +5205,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x Power if user moves after target\r"
+        "Effect Description": "2x Power if user moves after target"
     },
     {
         "Move ID": 372,
@@ -5219,7 +5219,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x damage if Target has already taken damage this turn\r"
+        "Effect Description": "2x damage if Target has already taken damage this turn"
     },
     {
         "Move ID": 373,
@@ -5233,7 +5233,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Prevents the use of all items for Target\r"
+        "Effect Description": "Prevents the use of all items for Target"
     },
     {
         "Move ID": 374,
@@ -5247,7 +5247,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Power and effect determined by User's held item\r"
+        "Effect Description": "Power and effect determined by User's held item"
     },
     {
         "Move ID": 375,
@@ -5261,7 +5261,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Transfers User's status condition to Target\r"
+        "Effect Description": "Transfers User's status condition to Target"
     },
     {
         "Move ID": 376,
@@ -5275,7 +5275,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Higher power the less PP the move has\r"
+        "Effect Description": "Higher power the less PP the move has"
     },
     {
         "Move ID": 377,
@@ -5289,7 +5289,7 @@
         "PP": 15,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Blocks all sources of healing to the Target\r"
+        "Effect Description": "Blocks all sources of healing to the Target"
     },
     {
         "Move ID": 378,
@@ -5303,7 +5303,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Higher power the more HP Target has\r"
+        "Effect Description": "Higher power the more HP Target has"
     },
     {
         "Move ID": 379,
@@ -5317,7 +5317,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "Swaps Atk and Def stats\r"
+        "Effect Description": "Swaps Atk and Def stats"
     },
     {
         "Move ID": 380,
@@ -5331,7 +5331,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Suppress Target's ability\r"
+        "Effect Description": "Suppress Target's ability"
     },
     {
         "Move ID": 381,
@@ -5345,7 +5345,7 @@
         "PP": 30,
         "Ranges": "[USER_SIDE]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "User's party immune to crits for 5 turns\r"
+        "Effect Description": "User's party immune to crits for 5 turns"
     },
     {
         "Move ID": 382,
@@ -5359,7 +5359,7 @@
         "PP": 20,
         "Ranges": "[ME_FIRST]",
         "Flags": "[PROTECT]",
-        "Effect Description": "Fails if User moves after Target; Steals Target's move and uses it at 1.5x power\r"
+        "Effect Description": "Fails if User moves after Target; Steals Target's move and uses it at 1.5x power"
     },
     {
         "Move ID": 383,
@@ -5373,7 +5373,7 @@
         "PP": 20,
         "Ranges": "[VARIABLE]",
         "Flags": "[]",
-        "Effect Description": "User uses the last-used Move\r"
+        "Effect Description": "User uses the last-used Move"
     },
     {
         "Move ID": 384,
@@ -5387,7 +5387,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Swap Atk and Sp. Atk changes\r"
+        "Effect Description": "Swap Atk and Sp. Atk changes"
     },
     {
         "Move ID": 385,
@@ -5401,7 +5401,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Swap Def and Sp. Def changes\r"
+        "Effect Description": "Swap Def and Sp. Def changes"
     },
     {
         "Move ID": 386,
@@ -5415,7 +5415,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Higher power the more stat increases Target has\r"
+        "Effect Description": "Higher power the more stat increases Target has"
     },
     {
         "Move ID": 387,
@@ -5429,7 +5429,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Fails if User has not used all other known moves at least once\r"
+        "Effect Description": "Fails if User has not used all other known moves at least once"
     },
     {
         "Move ID": 388,
@@ -5443,7 +5443,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE]",
-        "Effect Description": "Set ability to Insomnia\r"
+        "Effect Description": "Set ability to Insomnia"
     },
     {
         "Move ID": 389,
@@ -5457,7 +5457,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Fails if Target selected a status move or has already moved; Moves first\r"
+        "Effect Description": "Fails if Target selected a status move or has already moved; Moves first"
     },
     {
         "Move ID": 390,
@@ -5471,7 +5471,7 @@
         "PP": 20,
         "Ranges": "[OPPONENTS_FIELD]",
         "Flags": "[KEEP_HP_BAR]",
-        "Effect Description": "Sets toxic spikes; Stacks up to 2\r"
+        "Effect Description": "Sets toxic spikes; Stacks up to 2"
     },
     {
         "Move ID": 391,
@@ -5485,7 +5485,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Swap stat changes\r"
+        "Effect Description": "Swap stat changes"
     },
     {
         "Move ID": 392,
@@ -5499,7 +5499,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Restore 1/16 max HP every turn\r"
+        "Effect Description": "Restore 1/16 max HP every turn"
     },
     {
         "Move ID": 393,
@@ -5513,7 +5513,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[]",
-        "Effect Description": "Gives Ground immunity\r"
+        "Effect Description": "Gives Ground immunity"
     },
     {
         "Move ID": 394,
@@ -5527,7 +5527,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "1/3 damage recoil and Thaws User; May cause Burn to Target (Hit)\r"
+        "Effect Description": "1/3 damage recoil and Thaws User; May cause Burn to Target (Hit)"
     },
     {
         "Move ID": 395,
@@ -5541,7 +5541,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 396,
@@ -5555,7 +5555,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 397,
@@ -5569,7 +5569,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Sharply raises User's Speed (Status)\r"
+        "Effect Description": "Sharply raises User's Speed (Status)"
     },
     {
         "Move ID": 398,
@@ -5583,7 +5583,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Poison (Hit)\r"
+        "Effect Description": "May Poison (Hit)"
     },
     {
         "Move ID": 399,
@@ -5597,7 +5597,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 400,
@@ -5611,7 +5611,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 401,
@@ -5625,7 +5625,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 402,
@@ -5639,7 +5639,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 403,
@@ -5653,7 +5653,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 404,
@@ -5667,7 +5667,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 405,
@@ -5681,7 +5681,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 406,
@@ -5695,7 +5695,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 407,
@@ -5709,7 +5709,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 408,
@@ -5723,7 +5723,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 409,
@@ -5737,7 +5737,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Restore own HP by 1/2 damage dealt\r"
+        "Effect Description": "Restore own HP by 1/2 damage dealt"
     },
     {
         "Move ID": 410,
@@ -5751,7 +5751,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 411,
@@ -5765,7 +5765,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 412,
@@ -5779,7 +5779,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 413,
@@ -5793,7 +5793,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "1/3 damage recoil\r"
+        "Effect Description": "1/3 damage recoil"
     },
     {
         "Move ID": 414,
@@ -5807,7 +5807,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 415,
@@ -5821,7 +5821,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Swaps User's held item with Target's\r"
+        "Effect Description": "Swaps User's held item with Target's"
     },
     {
         "Move ID": 416,
@@ -5835,7 +5835,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 417,
@@ -5849,7 +5849,7 @@
         "PP": 20,
         "Ranges": "[USER]",
         "Flags": "[SNATCH|KEEP_HP_BAR]",
-        "Effect Description": "Sharply raises User's Sp. Atk (Status)\r"
+        "Effect Description": "Sharply raises User's Sp. Atk (Status)"
     },
     {
         "Move ID": 418,
@@ -5863,7 +5863,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 419,
@@ -5877,7 +5877,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "2x power if User has been hit this turn\r"
+        "Effect Description": "2x power if User has been hit this turn"
     },
     {
         "Move ID": 420,
@@ -5891,7 +5891,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 421,
@@ -5905,7 +5905,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 422,
@@ -5919,7 +5919,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch and/or Paralysis (Hit)\r"
+        "Effect Description": "May cause Flinch and/or Paralysis (Hit)"
     },
     {
         "Move ID": 423,
@@ -5933,7 +5933,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch and/or Freeze (Hit)\r"
+        "Effect Description": "May cause Flinch and/or Freeze (Hit)"
     },
     {
         "Move ID": 424,
@@ -5947,7 +5947,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch and/or Burn; ignores Wonder Guard (Hit)\r"
+        "Effect Description": "May cause Flinch and/or Burn; ignores Wonder Guard (Hit)"
     },
     {
         "Move ID": 425,
@@ -5961,7 +5961,7 @@
         "PP": 30,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 426,
@@ -5975,7 +5975,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Accuracy (Hit)\r"
+        "Effect Description": "Lowers Target's Accuracy (Hit)"
     },
     {
         "Move ID": 427,
@@ -5989,7 +5989,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 428,
@@ -6003,7 +6003,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 429,
@@ -6017,7 +6017,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Accuracy (Hit)\r"
+        "Effect Description": "Lowers Target's Accuracy (Hit)"
     },
     {
         "Move ID": 430,
@@ -6031,7 +6031,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Lowers Target's Sp. Def (Hit)\r"
+        "Effect Description": "Lowers Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 431,
@@ -6045,7 +6045,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Confuse (Hit)\r"
+        "Effect Description": "May Confuse (Hit)"
     },
     {
         "Move ID": 432,
@@ -6059,7 +6059,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE]",
-        "Effect Description": "Defog effect\r"
+        "Effect Description": "Defog effect"
     },
     {
         "Move ID": 433,
@@ -6073,7 +6073,7 @@
         "PP": 5,
         "Ranges": "[ACTIVE_FIELD]",
         "Flags": "[MIRROR_MOVE]",
-        "Effect Description": "Reverses Turn Order for 5 turns; Ignores priority\r"
+        "Effect Description": "Reverses Turn Order for 5 turns; Ignores priority"
     },
     {
         "Move ID": 434,
@@ -6087,7 +6087,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Harshly Lowers User's Sp. Atk\r"
+        "Effect Description": "Harshly Lowers User's Sp. Atk"
     },
     {
         "Move ID": 435,
@@ -6101,7 +6101,7 @@
         "PP": 15,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Paralyze (Hit)\r"
+        "Effect Description": "May Paralyze (Hit)"
     },
     {
         "Move ID": 436,
@@ -6115,7 +6115,7 @@
         "PP": 15,
         "Ranges": "[FOES_AND_ALLY]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May Burn (Hit)\r"
+        "Effect Description": "May Burn (Hit)"
     },
     {
         "Move ID": 437,
@@ -6129,7 +6129,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Harshly Lowers User's Sp. Atk\r"
+        "Effect Description": "Harshly Lowers User's Sp. Atk"
     },
     {
         "Move ID": 438,
@@ -6143,7 +6143,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Hit\r"
+        "Effect Description": "Hit"
     },
     {
         "Move ID": 439,
@@ -6157,7 +6157,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 440,
@@ -6185,7 +6185,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "May Poison (Hit)\r"
+        "Effect Description": "May Poison (Hit)"
     },
     {
         "Move ID": 442,
@@ -6199,7 +6199,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May cause Flinch (Hit)\r"
+        "Effect Description": "May cause Flinch (Hit)"
     },
     {
         "Move ID": 443,
@@ -6213,7 +6213,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Guaranteed hit\r"
+        "Effect Description": "Guaranteed hit"
     },
     {
         "Move ID": 444,
@@ -6227,7 +6227,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 445,
@@ -6241,7 +6241,7 @@
         "PP": 20,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|KEEP_HP_BAR]",
-        "Effect Description": "Harshly lowers Sp. Atk; fails if Target is not opposite gender\r"
+        "Effect Description": "Harshly lowers Sp. Atk; fails if Target is not opposite gender"
     },
     {
         "Move ID": 446,
@@ -6255,7 +6255,7 @@
         "PP": 20,
         "Ranges": "[OPPONENTS_FIELD]",
         "Flags": "[]",
-        "Effect Description": "Sets stealth rocks\r"
+        "Effect Description": "Sets stealth rocks"
     },
     {
         "Move ID": 447,
@@ -6269,7 +6269,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "Increase power with Target's weight\r"
+        "Effect Description": "Increase power with Target's weight"
     },
     {
         "Move ID": 448,
@@ -6283,7 +6283,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[PROTECT|KEEP_HP_BAR]",
-        "Effect Description": "May cause Confusion; chance determined by Chatter sound sample\r"
+        "Effect Description": "May cause Confusion; chance determined by Chatter sound sample"
     },
     {
         "Move ID": 449,
@@ -6297,7 +6297,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Type matches held Plate\r"
+        "Effect Description": "Type matches held Plate"
     },
     {
         "Move ID": 450,
@@ -6311,7 +6311,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|KEEP_HP_BAR]",
-        "Effect Description": "User consumes Target's berry and receives its effect\r"
+        "Effect Description": "User consumes Target's berry and receives its effect"
     },
     {
         "Move ID": 451,
@@ -6325,7 +6325,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May raise User's Sp. Atk (Hit)\r"
+        "Effect Description": "May raise User's Sp. Atk (Hit)"
     },
     {
         "Move ID": 452,
@@ -6339,7 +6339,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "1/3 damage recoil\r"
+        "Effect Description": "1/3 damage recoil"
     },
     {
         "Move ID": 453,
@@ -6353,7 +6353,7 @@
         "PP": 20,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Priority +1\r"
+        "Effect Description": "Priority +1"
     },
     {
         "Move ID": 454,
@@ -6367,7 +6367,7 @@
         "PP": 15,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 455,
@@ -6381,7 +6381,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Raises User's Def and Sp. Def\r"
+        "Effect Description": "Raises User's Def and Sp. Def"
     },
     {
         "Move ID": 456,
@@ -6395,7 +6395,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[SNATCH]",
-        "Effect Description": "Restore half of max HP\r"
+        "Effect Description": "Restore half of max HP"
     },
     {
         "Move ID": 457,
@@ -6409,7 +6409,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "1/2 damage recoil\r"
+        "Effect Description": "1/2 damage recoil"
     },
     {
         "Move ID": 458,
@@ -6423,7 +6423,7 @@
         "PP": 10,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Hits twice\r"
+        "Effect Description": "Hits twice"
     },
     {
         "Move ID": 459,
@@ -6437,7 +6437,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Requires recharge turn\r"
+        "Effect Description": "Requires recharge turn"
     },
     {
         "Move ID": 460,
@@ -6451,7 +6451,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "High crit chance\r"
+        "Effect Description": "High crit chance"
     },
     {
         "Move ID": 461,
@@ -6465,7 +6465,7 @@
         "PP": 10,
         "Ranges": "[USER]",
         "Flags": "[DEL_SHADOW]",
-        "Effect Description": "KOs self and Full Restores replacement\r"
+        "Effect Description": "KOs self and Full Restores replacement"
     },
     {
         "Move ID": 462,
@@ -6479,7 +6479,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[CONTACT|PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "Higher power the more HP Target has\r"
+        "Effect Description": "Higher power the more HP Target has"
     },
     {
         "Move ID": 463,
@@ -6507,7 +6507,7 @@
         "PP": 10,
         "Ranges": "[BOTH]",
         "Flags": "[PROTECT|MAGIC_COAT|MIRROR_MOVE|DEL_SHADOW]",
-        "Effect Description": "Causes Sleep\r"
+        "Effect Description": "Causes Sleep"
     },
     {
         "Move ID": 465,
@@ -6521,7 +6521,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK|DEL_SHADOW]",
-        "Effect Description": "May harshly lower Target's Sp. Def (Hit)\r"
+        "Effect Description": "May harshly lower Target's Sp. Def (Hit)"
     },
     {
         "Move ID": 466,
@@ -6535,7 +6535,7 @@
         "PP": 5,
         "Ranges": "[]",
         "Flags": "[PROTECT|MIRROR_MOVE|KINGSROCK]",
-        "Effect Description": "May raise all of User's stats (Hit)\r"
+        "Effect Description": "May raise all of User's stats (Hit)"
     },
     {
         "Move ID": 467,

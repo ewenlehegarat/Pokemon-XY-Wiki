@@ -1,206 +1,223 @@
 [
     {
         "ID": 0,
-        "Name": "-----\r"
+        "Name": "-----",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 1,
         "Name": "Bulbasaur",
-        "[Method|Param|Target]": "[LevelingUp|16|Ivysaur]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Ivysaur]"
     },
     {
         "ID": 2,
         "Name": "Ivysaur",
-        "[Method|Param|Target]": "[LevelingUp|32|Venusaur]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Venusaur]"
     },
     {
         "ID": 3,
-        "Name": "Venusaur\r"
+        "Name": "Venusaur",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 4,
         "Name": "Charmander",
-        "[Method|Param|Target]": "[LevelingUp|16|Charmeleon]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Charmeleon]"
     },
     {
         "ID": 5,
         "Name": "Charmeleon",
-        "[Method|Param|Target]": "[LevelingUp|36|Charizard]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Charizard]"
     },
     {
         "ID": 6,
-        "Name": "Charizard\r"
+        "Name": "Charizard",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 7,
         "Name": "Squirtle",
-        "[Method|Param|Target]": "[LevelingUp|16|Wartortle]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Wartortle]"
     },
     {
         "ID": 8,
         "Name": "Wartortle",
-        "[Method|Param|Target]": "[LevelingUp|36|Blastoise]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Blastoise]"
     },
     {
         "ID": 9,
-        "Name": "Blastoise\r"
+        "Name": "Blastoise",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 10,
         "Name": "Caterpie",
-        "[Method|Param|Target]": "[LevelingUp|7|Metapod]\r"
+        "[Method|Param|Target]": "[LevelingUp|7|Metapod]"
     },
     {
         "ID": 11,
         "Name": "Metapod",
-        "[Method|Param|Target]": "[LevelingUp|10|Butterfree]\r"
+        "[Method|Param|Target]": "[LevelingUp|10|Butterfree]"
     },
     {
         "ID": 12,
-        "Name": "Butterfree\r"
+        "Name": "Butterfree",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 13,
         "Name": "Weedle",
-        "[Method|Param|Target]": "[LevelingUp|7|Kakuna]\r"
+        "[Method|Param|Target]": "[LevelingUp|7|Kakuna]"
     },
     {
         "ID": 14,
         "Name": "Kakuna",
-        "[Method|Param|Target]": "[LevelingUp|10|Beedrill]\r"
+        "[Method|Param|Target]": "[LevelingUp|10|Beedrill]"
     },
     {
         "ID": 15,
-        "Name": "Beedrill\r"
+        "Name": "Beedrill",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 16,
         "Name": "Pidgey",
-        "[Method|Param|Target]": "[LevelingUp|18|Pidgeotto]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Pidgeotto]"
     },
     {
         "ID": 17,
         "Name": "Pidgeotto",
-        "[Method|Param|Target]": "[LevelingUp|36|Pidgeot]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Pidgeot]"
     },
     {
         "ID": 18,
-        "Name": "Pidgeot\r"
+        "Name": "Pidgeot",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 19,
         "Name": "Rattata",
-        "[Method|Param|Target]": "[LevelingUp|20|Raticate]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Raticate]"
     },
     {
         "ID": 20,
-        "Name": "Raticate\r"
+        "Name": "Raticate",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 21,
         "Name": "Spearow",
-        "[Method|Param|Target]": "[LevelingUp|20|Fearow]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Fearow]"
     },
     {
         "ID": 22,
-        "Name": "Fearow\r"
+        "Name": "Fearow",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 23,
         "Name": "Ekans",
-        "[Method|Param|Target]": "[LevelingUp|22|Arbok]\r"
+        "[Method|Param|Target]": "[LevelingUp|22|Arbok]"
     },
     {
         "ID": 24,
-        "Name": "Arbok\r"
+        "Name": "Arbok",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 25,
         "Name": "Pikachu",
-        "[Method|Param|Target]": "[Item|Thunderstone|Raichu]\r"
+        "[Method|Param|Target]": "[Item|Thunderstone|Raichu]"
     },
     {
         "ID": 26,
-        "Name": "Raichu\r"
+        "Name": "Raichu",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 27,
         "Name": "Sandshrew",
-        "[Method|Param|Target]": "[LevelingUp|22|Sandslash]\r"
+        "[Method|Param|Target]": "[LevelingUp|22|Sandslash]"
     },
     {
         "ID": 28,
-        "Name": "Sandslash\r"
+        "Name": "Sandslash",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 29,
         "Name": "Nidoran♀",
-        "[Method|Param|Target]": "[LevelingUp|16|Nidorina]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Nidorina]"
     },
     {
         "ID": 30,
         "Name": "Nidorina",
-        "[Method|Param|Target]": "[Item|Moon Stone|Nidoqueen]\r"
+        "[Method|Param|Target]": "[Item|Moon Stone|Nidoqueen]"
     },
     {
         "ID": 31,
-        "Name": "Nidoqueen\r"
+        "Name": "Nidoqueen",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 32,
         "Name": "Nidoran♂",
-        "[Method|Param|Target]": "[LevelingUp|16|Nidorino]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Nidorino]"
     },
     {
         "ID": 33,
         "Name": "Nidorino",
-        "[Method|Param|Target]": "[Item|Moon Stone|Nidoking]\r"
+        "[Method|Param|Target]": "[Item|Moon Stone|Nidoking]"
     },
     {
         "ID": 34,
-        "Name": "Nidoking\r"
+        "Name": "Nidoking",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 35,
         "Name": "Clefairy",
-        "[Method|Param|Target]": "[Item|Moon Stone|Clefable]\r"
+        "[Method|Param|Target]": "[Item|Moon Stone|Clefable]"
     },
     {
         "ID": 36,
-        "Name": "Clefable\r"
+        "Name": "Clefable",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 37,
         "Name": "Vulpix",
-        "[Method|Param|Target]": "[Item|Fire Stone|Ninetales]\r"
+        "[Method|Param|Target]": "[Item|Fire Stone|Ninetales]"
     },
     {
         "ID": 38,
-        "Name": "Ninetales\r"
+        "Name": "Ninetales",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 39,
         "Name": "Jigglypuff",
-        "[Method|Param|Target]": "[Item|Moon Stone|Wigglytuff]\r"
+        "[Method|Param|Target]": "[Item|Moon Stone|Wigglytuff]"
     },
     {
         "ID": 40,
-        "Name": "Wigglytuff\r"
+        "Name": "Wigglytuff",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 41,
         "Name": "Zubat",
-        "[Method|Param|Target]": "[LevelingUp|22|Golbat]\r"
+        "[Method|Param|Target]": "[LevelingUp|22|Golbat]"
     },
     {
         "ID": 42,
         "Name": "Golbat",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Crobat]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Crobat]"
     },
     {
         "ID": 43,
         "Name": "Oddish",
-        "[Method|Param|Target]": "[LevelingUp|21|Gloom]\r"
+        "[Method|Param|Target]": "[LevelingUp|21|Gloom]"
     },
     {
         "ID": 44,
@@ -209,75 +226,83 @@
     },
     {
         "ID": 45,
-        "Name": "Vileplume\r"
+        "Name": "Vileplume",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 46,
         "Name": "Paras",
-        "[Method|Param|Target]": "[LevelingUp|24|Parasect]\r"
+        "[Method|Param|Target]": "[LevelingUp|24|Parasect]"
     },
     {
         "ID": 47,
-        "Name": "Parasect\r"
+        "Name": "Parasect",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 48,
         "Name": "Venonat",
-        "[Method|Param|Target]": "[LevelingUp|31|Venomoth]\r"
+        "[Method|Param|Target]": "[LevelingUp|31|Venomoth]"
     },
     {
         "ID": 49,
-        "Name": "Venomoth\r"
+        "Name": "Venomoth",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 50,
         "Name": "Diglett",
-        "[Method|Param|Target]": "[LevelingUp|26|Dugtrio]\r"
+        "[Method|Param|Target]": "[LevelingUp|26|Dugtrio]"
     },
     {
         "ID": 51,
-        "Name": "Dugtrio\r"
+        "Name": "Dugtrio",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 52,
         "Name": "Meowth",
-        "[Method|Param|Target]": "[LevelingUp|28|Persian]\r"
+        "[Method|Param|Target]": "[LevelingUp|28|Persian]"
     },
     {
         "ID": 53,
-        "Name": "Persian\r"
+        "Name": "Persian",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 54,
         "Name": "Psyduck",
-        "[Method|Param|Target]": "[LevelingUp|33|Golduck]\r"
+        "[Method|Param|Target]": "[LevelingUp|33|Golduck]"
     },
     {
         "ID": 55,
-        "Name": "Golduck\r"
+        "Name": "Golduck",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 56,
         "Name": "Mankey",
-        "[Method|Param|Target]": "[LevelingUp|28|Primeape]\r"
+        "[Method|Param|Target]": "[LevelingUp|28|Primeape]"
     },
     {
         "ID": 57,
-        "Name": "Primeape\r"
+        "Name": "Primeape",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 58,
         "Name": "Growlithe",
-        "[Method|Param|Target]": "[Item|Fire Stone|Arcanine]\r"
+        "[Method|Param|Target]": "[Item|Fire Stone|Arcanine]"
     },
     {
         "ID": 59,
-        "Name": "Arcanine\r"
+        "Name": "Arcanine",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 60,
         "Name": "Poliwag",
-        "[Method|Param|Target]": "[LevelingUp|25|Poliwhirl]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Poliwhirl]"
     },
     {
         "ID": 61,
@@ -286,12 +311,13 @@
     },
     {
         "ID": 62,
-        "Name": "Poliwrath\r"
+        "Name": "Poliwrath",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 63,
         "Name": "Abra",
-        "[Method|Param|Target]": "[LevelingUp|16|Kadabra]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Kadabra]"
     },
     {
         "ID": 64,
@@ -300,12 +326,13 @@
     },
     {
         "ID": 65,
-        "Name": "Alakazam\r"
+        "Name": "Alakazam",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 66,
         "Name": "Machop",
-        "[Method|Param|Target]": "[LevelingUp|28|Machoke]\r"
+        "[Method|Param|Target]": "[LevelingUp|28|Machoke]"
     },
     {
         "ID": 67,
@@ -314,35 +341,38 @@
     },
     {
         "ID": 68,
-        "Name": "Machamp\r"
+        "Name": "Machamp",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 69,
         "Name": "Bellsprout",
-        "[Method|Param|Target]": "[LevelingUp|21|Weepinbell]\r"
+        "[Method|Param|Target]": "[LevelingUp|21|Weepinbell]"
     },
     {
         "ID": 70,
         "Name": "Weepinbell",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Victreebel]\r"
+        "[Method|Param|Target]": "[Item|Leaf Stone|Victreebel]"
     },
     {
         "ID": 71,
-        "Name": "Victreebel\r"
+        "Name": "Victreebel",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 72,
         "Name": "Tentacool",
-        "[Method|Param|Target]": "[LevelingUp|30|Tentacruel]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Tentacruel]"
     },
     {
         "ID": 73,
-        "Name": "Tentacruel\r"
+        "Name": "Tentacruel",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 74,
         "Name": "Geodude",
-        "[Method|Param|Target]": "[LevelingUp|25|Graveler]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Graveler]"
     },
     {
         "ID": 75,
@@ -351,16 +381,18 @@
     },
     {
         "ID": 76,
-        "Name": "Golem\r"
+        "Name": "Golem",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 77,
         "Name": "Ponyta",
-        "[Method|Param|Target]": "[LevelingUp|40|Rapidash]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Rapidash]"
     },
     {
         "ID": 78,
-        "Name": "Rapidash\r"
+        "Name": "Rapidash",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 79,
@@ -369,62 +401,68 @@
     },
     {
         "ID": 80,
-        "Name": "Slowbro\r"
+        "Name": "Slowbro",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 81,
         "Name": "Magnemite",
-        "[Method|Param|Target]": "[LevelingUp|30|Magneton]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Magneton]"
     },
     {
         "ID": 82,
         "Name": "Magneton",
-        "[Method|Param|Target]": "[Item|Voltaic Ore|Magnezone]\r"
+        "[Method|Param|Target]": "[Item|Voltaic Ore|Magnezone]"
     },
     {
         "ID": 83,
-        "Name": "Farfetch’d\r"
+        "Name": "Farfetch’d",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 84,
         "Name": "Doduo",
-        "[Method|Param|Target]": "[LevelingUp|31|Dodrio]\r"
+        "[Method|Param|Target]": "[LevelingUp|31|Dodrio]"
     },
     {
         "ID": 85,
-        "Name": "Dodrio\r"
+        "Name": "Dodrio",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 86,
         "Name": "Seel",
-        "[Method|Param|Target]": "[LevelingUp|34|Dewgong]\r"
+        "[Method|Param|Target]": "[LevelingUp|34|Dewgong]"
     },
     {
         "ID": 87,
-        "Name": "Dewgong\r"
+        "Name": "Dewgong",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 88,
         "Name": "Grimer",
-        "[Method|Param|Target]": "[LevelingUp|38|Muk]\r"
+        "[Method|Param|Target]": "[LevelingUp|38|Muk]"
     },
     {
         "ID": 89,
-        "Name": "Muk\r"
+        "Name": "Muk",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 90,
         "Name": "Shellder",
-        "[Method|Param|Target]": "[Item|Water Stone|Cloyster]\r"
+        "[Method|Param|Target]": "[Item|Water Stone|Cloyster]"
     },
     {
         "ID": 91,
-        "Name": "Cloyster\r"
+        "Name": "Cloyster",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 92,
         "Name": "Gastly",
-        "[Method|Param|Target]": "[LevelingUp|25|Haunter]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Haunter]"
     },
     {
         "ID": 93,
@@ -433,179 +471,198 @@
     },
     {
         "ID": 94,
-        "Name": "Gengar\r"
+        "Name": "Gengar",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 95,
         "Name": "Onix",
-        "[Method|Param|Target]": "[Item|Metal Coat|Steelix]\r"
+        "[Method|Param|Target]": "[Item|Metal Coat|Steelix]"
     },
     {
         "ID": 96,
         "Name": "Drowzee",
-        "[Method|Param|Target]": "[LevelingUp|26|Hypno]\r"
+        "[Method|Param|Target]": "[LevelingUp|26|Hypno]"
     },
     {
         "ID": 97,
-        "Name": "Hypno\r"
+        "Name": "Hypno",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 98,
         "Name": "Krabby",
-        "[Method|Param|Target]": "[LevelingUp|28|Kingler]\r"
+        "[Method|Param|Target]": "[LevelingUp|28|Kingler]"
     },
     {
         "ID": 99,
-        "Name": "Kingler\r"
+        "Name": "Kingler",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 100,
         "Name": "Voltorb",
-        "[Method|Param|Target]": "[LevelingUp|30|Electrode]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Electrode]"
     },
     {
         "ID": 101,
-        "Name": "Electrode\r"
+        "Name": "Electrode",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 102,
         "Name": "Exeggcute",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Exeggutor]\r"
+        "[Method|Param|Target]": "[Item|Leaf Stone|Exeggutor]"
     },
     {
         "ID": 103,
-        "Name": "Exeggutor\r"
+        "Name": "Exeggutor",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 104,
         "Name": "Cubone",
-        "[Method|Param|Target]": "[LevelingUp|28|Marowak]\r"
+        "[Method|Param|Target]": "[LevelingUp|28|Marowak]"
     },
     {
         "ID": 105,
-        "Name": "Marowak\r"
+        "Name": "Marowak",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 106,
-        "Name": "Hitmonlee\r"
+        "Name": "Hitmonlee",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 107,
-        "Name": "Hitmonchan\r"
+        "Name": "Hitmonchan",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 108,
         "Name": "Lickitung",
-        "[Method|Param|Target]": "[KnowsMove|Rollout|Lickilicky]\r"
+        "[Method|Param|Target]": "[KnowsMove|Rollout|Lickilicky]"
     },
     {
         "ID": 109,
         "Name": "Koffing",
-        "[Method|Param|Target]": "[LevelingUp|35|Weezing]\r"
+        "[Method|Param|Target]": "[LevelingUp|35|Weezing]"
     },
     {
         "ID": 110,
-        "Name": "Weezing\r"
+        "Name": "Weezing",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 111,
         "Name": "Rhyhorn",
-        "[Method|Param|Target]": "[LevelingUp|42|Rhydon]\r"
+        "[Method|Param|Target]": "[LevelingUp|42|Rhydon]"
     },
     {
         "ID": 112,
         "Name": "Rhydon",
-        "[Method|Param|Target]": "[Item|Protector|Rhyperior]\r"
+        "[Method|Param|Target]": "[Item|Protector|Rhyperior]"
     },
     {
         "ID": 113,
         "Name": "Chansey",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Blissey]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Blissey]"
     },
     {
         "ID": 114,
         "Name": "Tangela",
-        "[Method|Param|Target]": "[KnowsMove|AncientPower|Tangrowth]\r"
+        "[Method|Param|Target]": "[KnowsMove|AncientPower|Tangrowth]"
     },
     {
         "ID": 115,
-        "Name": "Kangaskhan\r"
+        "Name": "Kangaskhan",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 116,
         "Name": "Horsea",
-        "[Method|Param|Target]": "[LevelingUp|32|Seadra]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Seadra]"
     },
     {
         "ID": 117,
         "Name": "Seadra",
-        "[Method|Param|Target]": "[Item|Dragon Scale|Kingdra]\r"
+        "[Method|Param|Target]": "[Item|Dragon Scale|Kingdra]"
     },
     {
         "ID": 118,
         "Name": "Goldeen",
-        "[Method|Param|Target]": "[LevelingUp|33|Seaking]\r"
+        "[Method|Param|Target]": "[LevelingUp|33|Seaking]"
     },
     {
         "ID": 119,
-        "Name": "Seaking\r"
+        "Name": "Seaking",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 120,
         "Name": "Staryu",
-        "[Method|Param|Target]": "[Item|Water Stone|Starmie]\r"
+        "[Method|Param|Target]": "[Item|Water Stone|Starmie]"
     },
     {
         "ID": 121,
-        "Name": "Starmie\r"
+        "Name": "Starmie",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 122,
-        "Name": "Mr. Mime\r"
+        "Name": "Mr. Mime",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 123,
         "Name": "Scyther",
-        "[Method|Param|Target]": "[Item|Metal Coat|Scizor]\r"
+        "[Method|Param|Target]": "[Item|Metal Coat|Scizor]"
     },
     {
         "ID": 124,
-        "Name": "Jynx\r"
+        "Name": "Jynx",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 125,
         "Name": "Electabuzz",
-        "[Method|Param|Target]": "[Item|Electirizer|Electivire]\r"
+        "[Method|Param|Target]": "[Item|Electirizer|Electivire]"
     },
     {
         "ID": 126,
         "Name": "Magmar",
-        "[Method|Param|Target]": "[Item|Magmarizer|Magmortar]\r"
+        "[Method|Param|Target]": "[Item|Magmarizer|Magmortar]"
     },
     {
         "ID": 127,
-        "Name": "Pinsir\r"
+        "Name": "Pinsir",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 128,
-        "Name": "Tauros\r"
+        "Name": "Tauros",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 129,
         "Name": "Magikarp",
-        "[Method|Param|Target]": "[LevelingUp|20|Gyarados]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Gyarados]"
     },
     {
         "ID": 130,
-        "Name": "Gyarados\r"
+        "Name": "Gyarados",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 131,
-        "Name": "Lapras\r"
+        "Name": "Lapras",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 132,
-        "Name": "Ditto\r"
+        "Name": "Ditto",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 133,
@@ -614,456 +671,513 @@
     },
     {
         "ID": 134,
-        "Name": "Vaporeon\r"
+        "Name": "Vaporeon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 135,
-        "Name": "Jolteon\r"
+        "Name": "Jolteon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 136,
-        "Name": "Flareon\r"
+        "Name": "Flareon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 137,
         "Name": "Porygon",
-        "[Method|Param|Target]": "[Item|Up-Grade|Porygon2]\r"
+        "[Method|Param|Target]": "[Item|Up-Grade|Porygon2]"
     },
     {
         "ID": 138,
         "Name": "Omanyte",
-        "[Method|Param|Target]": "[LevelingUp|40|Omastar]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Omastar]"
     },
     {
         "ID": 139,
-        "Name": "Omastar\r"
+        "Name": "Omastar",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 140,
         "Name": "Kabuto",
-        "[Method|Param|Target]": "[LevelingUp|40|Kabutops]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Kabutops]"
     },
     {
         "ID": 141,
-        "Name": "Kabutops\r"
+        "Name": "Kabutops",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 142,
-        "Name": "Aerodactyl\r"
+        "Name": "Aerodactyl",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 143,
-        "Name": "Snorlax\r"
+        "Name": "Snorlax",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 144,
-        "Name": "Articuno\r"
+        "Name": "Articuno",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 145,
-        "Name": "Zapdos\r"
+        "Name": "Zapdos",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 146,
-        "Name": "Moltres\r"
+        "Name": "Moltres",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 147,
         "Name": "Dratini",
-        "[Method|Param|Target]": "[LevelingUp|30|Dragonair]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Dragonair]"
     },
     {
         "ID": 148,
         "Name": "Dragonair",
-        "[Method|Param|Target]": "[LevelingUp|55|Dragonite]\r"
+        "[Method|Param|Target]": "[LevelingUp|55|Dragonite]"
     },
     {
         "ID": 149,
-        "Name": "Dragonite\r"
+        "Name": "Dragonite",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 150,
-        "Name": "Mewtwo\r"
+        "Name": "Mewtwo",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 151,
-        "Name": "Mew\r"
+        "Name": "Mew",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 152,
         "Name": "Chikorita",
-        "[Method|Param|Target]": "[LevelingUp|16|Bayleef]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Bayleef]"
     },
     {
         "ID": 153,
         "Name": "Bayleef",
-        "[Method|Param|Target]": "[LevelingUp|32|Meganium]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Meganium]"
     },
     {
         "ID": 154,
-        "Name": "Meganium\r"
+        "Name": "Meganium",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 155,
         "Name": "Cyndaquil",
-        "[Method|Param|Target]": "[LevelingUp|14|Quilava]\r"
+        "[Method|Param|Target]": "[LevelingUp|14|Quilava]"
     },
     {
         "ID": 156,
         "Name": "Quilava",
-        "[Method|Param|Target]": "[LevelingUp|36|Typhlosion]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Typhlosion]"
     },
     {
         "ID": 157,
-        "Name": "Typhlosion\r"
+        "Name": "Typhlosion",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 158,
         "Name": "Totodile",
-        "[Method|Param|Target]": "[LevelingUp|18|Croconaw]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Croconaw]"
     },
     {
         "ID": 159,
         "Name": "Croconaw",
-        "[Method|Param|Target]": "[LevelingUp|30|Feraligatr]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Feraligatr]"
     },
     {
         "ID": 160,
-        "Name": "Feraligatr\r"
+        "Name": "Feraligatr",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 161,
         "Name": "Sentret",
-        "[Method|Param|Target]": "[LevelingUp|15|Furret]\r"
+        "[Method|Param|Target]": "[LevelingUp|15|Furret]"
     },
     {
         "ID": 162,
-        "Name": "Furret\r"
+        "Name": "Furret",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 163,
         "Name": "Hoothoot",
-        "[Method|Param|Target]": "[LevelingUp|20|Noctowl]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Noctowl]"
     },
     {
         "ID": 164,
-        "Name": "Noctowl\r"
+        "Name": "Noctowl",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 165,
         "Name": "Ledyba",
-        "[Method|Param|Target]": "[LevelingUp|18|Ledian]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Ledian]"
     },
     {
         "ID": 166,
-        "Name": "Ledian\r"
+        "Name": "Ledian",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 167,
         "Name": "Spinarak",
-        "[Method|Param|Target]": "[LevelingUp|22|Ariados]\r"
+        "[Method|Param|Target]": "[LevelingUp|22|Ariados]"
     },
     {
         "ID": 168,
-        "Name": "Ariados\r"
+        "Name": "Ariados",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 169,
-        "Name": "Crobat\r"
+        "Name": "Crobat",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 170,
         "Name": "Chinchou",
-        "[Method|Param|Target]": "[LevelingUp|27|Lanturn]\r"
+        "[Method|Param|Target]": "[LevelingUp|27|Lanturn]"
     },
     {
         "ID": 171,
-        "Name": "Lanturn\r"
+        "Name": "Lanturn",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 172,
         "Name": "Pichu",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Pikachu]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Pikachu]"
     },
     {
         "ID": 173,
         "Name": "Cleffa",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Clefairy]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Clefairy]"
     },
     {
         "ID": 174,
         "Name": "Igglybuff",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Jigglypuff]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Jigglypuff]"
     },
     {
         "ID": 175,
         "Name": "Togepi",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Togetic]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Togetic]"
     },
     {
         "ID": 176,
         "Name": "Togetic",
-        "[Method|Param|Target]": "[Item|Shiny Stone|Togekiss]\r"
+        "[Method|Param|Target]": "[Item|Shiny Stone|Togekiss]"
     },
     {
         "ID": 177,
         "Name": "Natu",
-        "[Method|Param|Target]": "[LevelingUp|25|Xatu]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Xatu]"
     },
     {
         "ID": 178,
-        "Name": "Xatu\r"
+        "Name": "Xatu",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 179,
         "Name": "Mareep",
-        "[Method|Param|Target]": "[LevelingUp|15|Flaaffy]\r"
+        "[Method|Param|Target]": "[LevelingUp|15|Flaaffy]"
     },
     {
         "ID": 180,
         "Name": "Flaaffy",
-        "[Method|Param|Target]": "[LevelingUp|30|Ampharos]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Ampharos]"
     },
     {
         "ID": 181,
-        "Name": "Ampharos\r"
+        "Name": "Ampharos",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 182,
-        "Name": "Bellossom\r"
+        "Name": "Bellossom",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 183,
         "Name": "Marill",
-        "[Method|Param|Target]": "[LevelingUp|18|Azumarill]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Azumarill]"
     },
     {
         "ID": 184,
-        "Name": "Azumarill\r"
+        "Name": "Azumarill",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 185,
-        "Name": "Sudowoodo\r"
+        "Name": "Sudowoodo",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 186,
-        "Name": "Politoed\r"
+        "Name": "Politoed",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 187,
         "Name": "Hoppip",
-        "[Method|Param|Target]": "[LevelingUp|18|Skiploom]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Skiploom]"
     },
     {
         "ID": 188,
         "Name": "Skiploom",
-        "[Method|Param|Target]": "[LevelingUp|27|Jumpluff]\r"
+        "[Method|Param|Target]": "[LevelingUp|27|Jumpluff]"
     },
     {
         "ID": 189,
-        "Name": "Jumpluff\r"
+        "Name": "Jumpluff",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 190,
         "Name": "Aipom",
-        "[Method|Param|Target]": "[KnowsMove|Double Hit|Ambipom]\r"
+        "[Method|Param|Target]": "[KnowsMove|Double Hit|Ambipom]"
     },
     {
         "ID": 191,
         "Name": "Sunkern",
-        "[Method|Param|Target]": "[Item|Sun Stone|Sunflora]\r"
+        "[Method|Param|Target]": "[Item|Sun Stone|Sunflora]"
     },
     {
         "ID": 192,
-        "Name": "Sunflora\r"
+        "Name": "Sunflora",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 193,
         "Name": "Yanma",
-        "[Method|Param|Target]": "[KnowsMove|AncientPower|Yanmega]\r"
+        "[Method|Param|Target]": "[KnowsMove|AncientPower|Yanmega]"
     },
     {
         "ID": 194,
         "Name": "Wooper",
-        "[Method|Param|Target]": "[LevelingUp|20|Quagsire]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Quagsire]"
     },
     {
         "ID": 195,
-        "Name": "Quagsire\r"
+        "Name": "Quagsire",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 196,
-        "Name": "Espeon\r"
+        "Name": "Espeon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 197,
-        "Name": "Umbreon\r"
+        "Name": "Umbreon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 198,
         "Name": "Murkrow",
-        "[Method|Param|Target]": "[Item|Dusk Stone|Honchkrow]\r"
+        "[Method|Param|Target]": "[Item|Dusk Stone|Honchkrow]"
     },
     {
         "ID": 199,
-        "Name": "Slowking\r"
+        "Name": "Slowking",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 200,
         "Name": "Misdreavus",
-        "[Method|Param|Target]": "[Item|Dusk Stone|Mismagius]\r"
+        "[Method|Param|Target]": "[Item|Dusk Stone|Mismagius]"
     },
     {
         "ID": 201,
-        "Name": "Unown\r"
+        "Name": "Unown",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 202,
-        "Name": "Wobbuffet\r"
+        "Name": "Wobbuffet",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 203,
-        "Name": "Girafarig\r"
+        "Name": "Girafarig",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 204,
         "Name": "Pineco",
-        "[Method|Param|Target]": "[LevelingUp|31|Forretress]\r"
+        "[Method|Param|Target]": "[LevelingUp|31|Forretress]"
     },
     {
         "ID": 205,
-        "Name": "Forretress\r"
+        "Name": "Forretress",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 206,
-        "Name": "Dunsparce\r"
+        "Name": "Dunsparce",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 207,
         "Name": "Gligar",
-        "[Method|Param|Target]": "[HeldItem_Night|Razor Fang|Gliscor]\r"
+        "[Method|Param|Target]": "[HeldItem_Night|Razor Fang|Gliscor]"
     },
     {
         "ID": 208,
-        "Name": "Steelix\r"
+        "Name": "Steelix",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 209,
         "Name": "Snubbull",
-        "[Method|Param|Target]": "[LevelingUp|23|Granbull]\r"
+        "[Method|Param|Target]": "[LevelingUp|23|Granbull]"
     },
     {
         "ID": 210,
-        "Name": "Granbull\r"
+        "Name": "Granbull",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 211,
-        "Name": "Qwilfish\r"
+        "Name": "Qwilfish",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 212,
-        "Name": "Scizor\r"
+        "Name": "Scizor",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 213,
-        "Name": "Shuckle\r"
+        "Name": "Shuckle",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 214,
-        "Name": "Heracross\r"
+        "Name": "Heracross",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 215,
         "Name": "Sneasel",
-        "[Method|Param|Target]": "[HeldItem_Night|Razor Claw|Weavile]\r"
+        "[Method|Param|Target]": "[HeldItem_Night|Razor Claw|Weavile]"
     },
     {
         "ID": 216,
         "Name": "Teddiursa",
-        "[Method|Param|Target]": "[LevelingUp|30|Ursaring]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Ursaring]"
     },
     {
         "ID": 217,
-        "Name": "Ursaring\r"
+        "Name": "Ursaring",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 218,
         "Name": "Slugma",
-        "[Method|Param|Target]": "[LevelingUp|38|Magcargo]\r"
+        "[Method|Param|Target]": "[LevelingUp|38|Magcargo]"
     },
     {
         "ID": 219,
-        "Name": "Magcargo\r"
+        "Name": "Magcargo",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 220,
         "Name": "Swinub",
-        "[Method|Param|Target]": "[LevelingUp|33|Piloswine]\r"
+        "[Method|Param|Target]": "[LevelingUp|33|Piloswine]"
     },
     {
         "ID": 221,
         "Name": "Piloswine",
-        "[Method|Param|Target]": "[KnowsMove|AncientPower|Mamoswine]\r"
+        "[Method|Param|Target]": "[KnowsMove|AncientPower|Mamoswine]"
     },
     {
         "ID": 222,
-        "Name": "Corsola\r"
+        "Name": "Corsola",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 223,
         "Name": "Remoraid",
-        "[Method|Param|Target]": "[LevelingUp|25|Octillery]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Octillery]"
     },
     {
         "ID": 224,
-        "Name": "Octillery\r"
+        "Name": "Octillery",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 225,
-        "Name": "Delibird\r"
+        "Name": "Delibird",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 226,
-        "Name": "Mantine\r"
+        "Name": "Mantine",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 227,
-        "Name": "Skarmory\r"
+        "Name": "Skarmory",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 228,
         "Name": "Houndour",
-        "[Method|Param|Target]": "[LevelingUp|24|Houndoom]\r"
+        "[Method|Param|Target]": "[LevelingUp|24|Houndoom]"
     },
     {
         "ID": 229,
-        "Name": "Houndoom\r"
+        "Name": "Houndoom",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 230,
-        "Name": "Kingdra\r"
+        "Name": "Kingdra",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 231,
         "Name": "Phanpy",
-        "[Method|Param|Target]": "[LevelingUp|25|Donphan]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Donphan]"
     },
     {
         "ID": 232,
-        "Name": "Donphan\r"
+        "Name": "Donphan",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 233,
         "Name": "Porygon2",
-        "[Method|Param|Target]": "[Item|Dubious Disc|Porygon-Z]\r"
+        "[Method|Param|Target]": "[Item|Dubious Disc|Porygon-Z]"
     },
     {
         "ID": 234,
-        "Name": "Stantler\r"
+        "Name": "Stantler",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 235,
-        "Name": "Smeargle\r"
+        "Name": "Smeargle",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 236,
@@ -1072,128 +1186,143 @@
     },
     {
         "ID": 237,
-        "Name": "Hitmontop\r"
+        "Name": "Hitmontop",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 238,
         "Name": "Smoochum",
-        "[Method|Param|Target]": "[LevelingUp|30|Jynx]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Jynx]"
     },
     {
         "ID": 239,
         "Name": "Elekid",
-        "[Method|Param|Target]": "[LevelingUp|30|Electabuzz]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Electabuzz]"
     },
     {
         "ID": 240,
         "Name": "Magby",
-        "[Method|Param|Target]": "[LevelingUp|30|Magmar]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Magmar]"
     },
     {
         "ID": 241,
-        "Name": "Miltank\r"
+        "Name": "Miltank",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 242,
-        "Name": "Blissey\r"
+        "Name": "Blissey",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 243,
-        "Name": "Raikou\r"
+        "Name": "Raikou",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 244,
-        "Name": "Entei\r"
+        "Name": "Entei",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 245,
-        "Name": "Suicune\r"
+        "Name": "Suicune",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 246,
         "Name": "Larvitar",
-        "[Method|Param|Target]": "[LevelingUp|30|Pupitar]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Pupitar]"
     },
     {
         "ID": 247,
         "Name": "Pupitar",
-        "[Method|Param|Target]": "[LevelingUp|55|Tyranitar]\r"
+        "[Method|Param|Target]": "[LevelingUp|55|Tyranitar]"
     },
     {
         "ID": 248,
-        "Name": "Tyranitar\r"
+        "Name": "Tyranitar",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 249,
-        "Name": "Lugia\r"
+        "Name": "Lugia",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 250,
-        "Name": "Ho-oh\r"
+        "Name": "Ho-oh",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 251,
-        "Name": "Celebi\r"
+        "Name": "Celebi",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 252,
         "Name": "Treecko",
-        "[Method|Param|Target]": "[LevelingUp|16|Grovyle]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Grovyle]"
     },
     {
         "ID": 253,
         "Name": "Grovyle",
-        "[Method|Param|Target]": "[LevelingUp|36|Sceptile]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Sceptile]"
     },
     {
         "ID": 254,
-        "Name": "Sceptile\r"
+        "Name": "Sceptile",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 255,
         "Name": "Torchic",
-        "[Method|Param|Target]": "[LevelingUp|16|Combusken]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Combusken]"
     },
     {
         "ID": 256,
         "Name": "Combusken",
-        "[Method|Param|Target]": "[LevelingUp|36|Blaziken]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Blaziken]"
     },
     {
         "ID": 257,
-        "Name": "Blaziken\r"
+        "Name": "Blaziken",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 258,
         "Name": "Mudkip",
-        "[Method|Param|Target]": "[LevelingUp|16|Marshtomp]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Marshtomp]"
     },
     {
         "ID": 259,
         "Name": "Marshtomp",
-        "[Method|Param|Target]": "[LevelingUp|36|Swampert]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Swampert]"
     },
     {
         "ID": 260,
-        "Name": "Swampert\r"
+        "Name": "Swampert",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 261,
         "Name": "Poochyena",
-        "[Method|Param|Target]": "[LevelingUp|18|Mightyena]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Mightyena]"
     },
     {
         "ID": 262,
-        "Name": "Mightyena\r"
+        "Name": "Mightyena",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 263,
         "Name": "Zigzagoon",
-        "[Method|Param|Target]": "[LevelingUp|20|Linoone]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Linoone]"
     },
     {
         "ID": 264,
-        "Name": "Linoone\r"
+        "Name": "Linoone",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 265,
@@ -1203,71 +1332,77 @@
     {
         "ID": 266,
         "Name": "Silcoon",
-        "[Method|Param|Target]": "[LevelingUp|10|Beautifly]\r"
+        "[Method|Param|Target]": "[LevelingUp|10|Beautifly]"
     },
     {
         "ID": 267,
-        "Name": "Beautifly\r"
+        "Name": "Beautifly",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 268,
         "Name": "Cascoon",
-        "[Method|Param|Target]": "[LevelingUp|10|Dustox]\r"
+        "[Method|Param|Target]": "[LevelingUp|10|Dustox]"
     },
     {
         "ID": 269,
-        "Name": "Dustox\r"
+        "Name": "Dustox",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 270,
         "Name": "Lotad",
-        "[Method|Param|Target]": "[LevelingUp|14|Lombre]\r"
+        "[Method|Param|Target]": "[LevelingUp|14|Lombre]"
     },
     {
         "ID": 271,
         "Name": "Lombre",
-        "[Method|Param|Target]": "[Item|Water Stone|Ludicolo]\r"
+        "[Method|Param|Target]": "[Item|Water Stone|Ludicolo]"
     },
     {
         "ID": 272,
-        "Name": "Ludicolo\r"
+        "Name": "Ludicolo",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 273,
         "Name": "Seedot",
-        "[Method|Param|Target]": "[LevelingUp|14|Nuzleaf]\r"
+        "[Method|Param|Target]": "[LevelingUp|14|Nuzleaf]"
     },
     {
         "ID": 274,
         "Name": "Nuzleaf",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Shiftry]\r"
+        "[Method|Param|Target]": "[Item|Leaf Stone|Shiftry]"
     },
     {
         "ID": 275,
-        "Name": "Shiftry\r"
+        "Name": "Shiftry",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 276,
         "Name": "Taillow",
-        "[Method|Param|Target]": "[LevelingUp|22|Swellow]\r"
+        "[Method|Param|Target]": "[LevelingUp|22|Swellow]"
     },
     {
         "ID": 277,
-        "Name": "Swellow\r"
+        "Name": "Swellow",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 278,
         "Name": "Wingull",
-        "[Method|Param|Target]": "[LevelingUp|25|Pelipper]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Pelipper]"
     },
     {
         "ID": 279,
-        "Name": "Pelipper\r"
+        "Name": "Pelipper",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 280,
         "Name": "Ralts",
-        "[Method|Param|Target]": "[LevelingUp|20|Kirlia]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Kirlia]"
     },
     {
         "ID": 281,
@@ -1276,39 +1411,43 @@
     },
     {
         "ID": 282,
-        "Name": "Gardevoir\r"
+        "Name": "Gardevoir",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 283,
         "Name": "Surskit",
-        "[Method|Param|Target]": "[LevelingUp|22|Masquerain]\r"
+        "[Method|Param|Target]": "[LevelingUp|22|Masquerain]"
     },
     {
         "ID": 284,
-        "Name": "Masquerain\r"
+        "Name": "Masquerain",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 285,
         "Name": "Shroomish",
-        "[Method|Param|Target]": "[LevelingUp|23|Breloom]\r"
+        "[Method|Param|Target]": "[LevelingUp|23|Breloom]"
     },
     {
         "ID": 286,
-        "Name": "Breloom\r"
+        "Name": "Breloom",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 287,
         "Name": "Slakoth",
-        "[Method|Param|Target]": "[LevelingUp|18|Vigoroth]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Vigoroth]"
     },
     {
         "ID": 288,
         "Name": "Vigoroth",
-        "[Method|Param|Target]": "[LevelingUp|36|Slaking]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Slaking]"
     },
     {
         "ID": 289,
-        "Name": "Slaking\r"
+        "Name": "Slaking",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 290,
@@ -1317,313 +1456,353 @@
     },
     {
         "ID": 291,
-        "Name": "Ninjask\r"
+        "Name": "Ninjask",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 292,
-        "Name": "Shedinja\r"
+        "Name": "Shedinja",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 293,
         "Name": "Whismur",
-        "[Method|Param|Target]": "[LevelingUp|20|Loudred]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Loudred]"
     },
     {
         "ID": 294,
         "Name": "Loudred",
-        "[Method|Param|Target]": "[LevelingUp|40|Exploud]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Exploud]"
     },
     {
         "ID": 295,
-        "Name": "Exploud\r"
+        "Name": "Exploud",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 296,
         "Name": "Makuhita",
-        "[Method|Param|Target]": "[LevelingUp|24|Hariyama]\r"
+        "[Method|Param|Target]": "[LevelingUp|24|Hariyama]"
     },
     {
         "ID": 297,
-        "Name": "Hariyama\r"
+        "Name": "Hariyama",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 298,
         "Name": "Azurill",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Marill]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Marill]"
     },
     {
         "ID": 299,
         "Name": "Nosepass",
-        "[Method|Param|Target]": "[Item|Voltaic Ore|Probopass]\r"
+        "[Method|Param|Target]": "[Item|Voltaic Ore|Probopass]"
     },
     {
         "ID": 300,
         "Name": "Skitty",
-        "[Method|Param|Target]": "[Item|Moon Stone|Delcatty]\r"
+        "[Method|Param|Target]": "[Item|Moon Stone|Delcatty]"
     },
     {
         "ID": 301,
-        "Name": "Delcatty\r"
+        "Name": "Delcatty",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 302,
-        "Name": "Sableye\r"
+        "Name": "Sableye",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 303,
-        "Name": "Mawile\r"
+        "Name": "Mawile",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 304,
         "Name": "Aron",
-        "[Method|Param|Target]": "[LevelingUp|32|Lairon]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Lairon]"
     },
     {
         "ID": 305,
         "Name": "Lairon",
-        "[Method|Param|Target]": "[LevelingUp|42|Aggron]\r"
+        "[Method|Param|Target]": "[LevelingUp|42|Aggron]"
     },
     {
         "ID": 306,
-        "Name": "Aggron\r"
+        "Name": "Aggron",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 307,
         "Name": "Meditite",
-        "[Method|Param|Target]": "[LevelingUp|37|Medicham]\r"
+        "[Method|Param|Target]": "[LevelingUp|37|Medicham]"
     },
     {
         "ID": 308,
-        "Name": "Medicham\r"
+        "Name": "Medicham",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 309,
         "Name": "Electrike",
-        "[Method|Param|Target]": "[LevelingUp|26|Manectric]\r"
+        "[Method|Param|Target]": "[LevelingUp|26|Manectric]"
     },
     {
         "ID": 310,
-        "Name": "Manectric\r"
+        "Name": "Manectric",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 311,
-        "Name": "Plusle\r"
+        "Name": "Plusle",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 312,
-        "Name": "Minun\r"
+        "Name": "Minun",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 313,
-        "Name": "Volbeat\r"
+        "Name": "Volbeat",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 314,
-        "Name": "Illumise\r"
+        "Name": "Illumise",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 315,
         "Name": "Roselia",
-        "[Method|Param|Target]": "[Item|Shiny Stone|Roserade]\r"
+        "[Method|Param|Target]": "[Item|Shiny Stone|Roserade]"
     },
     {
         "ID": 316,
         "Name": "Gulpin",
-        "[Method|Param|Target]": "[LevelingUp|26|Swalot]\r"
+        "[Method|Param|Target]": "[LevelingUp|26|Swalot]"
     },
     {
         "ID": 317,
-        "Name": "Swalot\r"
+        "Name": "Swalot",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 318,
         "Name": "Carvanha",
-        "[Method|Param|Target]": "[LevelingUp|30|Sharpedo]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Sharpedo]"
     },
     {
         "ID": 319,
-        "Name": "Sharpedo\r"
+        "Name": "Sharpedo",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 320,
         "Name": "Wailmer",
-        "[Method|Param|Target]": "[LevelingUp|40|Wailord]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Wailord]"
     },
     {
         "ID": 321,
-        "Name": "Wailord\r"
+        "Name": "Wailord",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 322,
         "Name": "Numel",
-        "[Method|Param|Target]": "[LevelingUp|33|Camerupt]\r"
+        "[Method|Param|Target]": "[LevelingUp|33|Camerupt]"
     },
     {
         "ID": 323,
-        "Name": "Camerupt\r"
+        "Name": "Camerupt",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 324,
-        "Name": "Torkoal\r"
+        "Name": "Torkoal",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 325,
         "Name": "Spoink",
-        "[Method|Param|Target]": "[LevelingUp|32|Grumpig]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Grumpig]"
     },
     {
         "ID": 326,
-        "Name": "Grumpig\r"
+        "Name": "Grumpig",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 327,
-        "Name": "Spinda\r"
+        "Name": "Spinda",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 328,
         "Name": "Trapinch",
-        "[Method|Param|Target]": "[LevelingUp|35|Vibrava]\r"
+        "[Method|Param|Target]": "[LevelingUp|35|Vibrava]"
     },
     {
         "ID": 329,
         "Name": "Vibrava",
-        "[Method|Param|Target]": "[LevelingUp|45|Flygon]\r"
+        "[Method|Param|Target]": "[LevelingUp|45|Flygon]"
     },
     {
         "ID": 330,
-        "Name": "Flygon\r"
+        "Name": "Flygon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 331,
         "Name": "Cacnea",
-        "[Method|Param|Target]": "[LevelingUp|32|Cacturne]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Cacturne]"
     },
     {
         "ID": 332,
-        "Name": "Cacturne\r"
+        "Name": "Cacturne",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 333,
         "Name": "Swablu",
-        "[Method|Param|Target]": "[LevelingUp|35|Altaria]\r"
+        "[Method|Param|Target]": "[LevelingUp|35|Altaria]"
     },
     {
         "ID": 334,
-        "Name": "Altaria\r"
+        "Name": "Altaria",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 335,
-        "Name": "Zangoose\r"
+        "Name": "Zangoose",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 336,
-        "Name": "Seviper\r"
+        "Name": "Seviper",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 337,
-        "Name": "Lunatone\r"
+        "Name": "Lunatone",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 338,
-        "Name": "Solrock\r"
+        "Name": "Solrock",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 339,
         "Name": "Barboach",
-        "[Method|Param|Target]": "[LevelingUp|30|Whiscash]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Whiscash]"
     },
     {
         "ID": 340,
-        "Name": "Whiscash\r"
+        "Name": "Whiscash",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 341,
         "Name": "Corphish",
-        "[Method|Param|Target]": "[LevelingUp|30|Crawdaunt]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Crawdaunt]"
     },
     {
         "ID": 342,
-        "Name": "Crawdaunt\r"
+        "Name": "Crawdaunt",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 343,
         "Name": "Baltoy",
-        "[Method|Param|Target]": "[LevelingUp|36|Claydol]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Claydol]"
     },
     {
         "ID": 344,
-        "Name": "Claydol\r"
+        "Name": "Claydol",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 345,
         "Name": "Lileep",
-        "[Method|Param|Target]": "[LevelingUp|40|Cradily]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Cradily]"
     },
     {
         "ID": 346,
-        "Name": "Cradily\r"
+        "Name": "Cradily",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 347,
         "Name": "Anorith",
-        "[Method|Param|Target]": "[LevelingUp|40|Armaldo]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Armaldo]"
     },
     {
         "ID": 348,
-        "Name": "Armaldo\r"
+        "Name": "Armaldo",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 349,
         "Name": "Feebas",
-        "[Method|Param|Target]": "[BeautyThreshold|0|Milotic]\r"
+        "[Method|Param|Target]": "[BeautyThreshold|0|Milotic]"
     },
     {
         "ID": 350,
-        "Name": "Milotic\r"
+        "Name": "Milotic",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 351,
-        "Name": "Castform\r"
+        "Name": "Castform",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 352,
-        "Name": "Kecleon\r"
+        "Name": "Kecleon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 353,
         "Name": "Shuppet",
-        "[Method|Param|Target]": "[LevelingUp|37|Banette]\r"
+        "[Method|Param|Target]": "[LevelingUp|37|Banette]"
     },
     {
         "ID": 354,
-        "Name": "Banette\r"
+        "Name": "Banette",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 355,
         "Name": "Duskull",
-        "[Method|Param|Target]": "[LevelingUp|37|Dusclops]\r"
+        "[Method|Param|Target]": "[LevelingUp|37|Dusclops]"
     },
     {
         "ID": 356,
         "Name": "Dusclops",
-        "[Method|Param|Target]": "[Item|Reaper Cloth|Dusknoir]\r"
+        "[Method|Param|Target]": "[Item|Reaper Cloth|Dusknoir]"
     },
     {
         "ID": 357,
-        "Name": "Tropius\r"
+        "Name": "Tropius",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 358,
-        "Name": "Chimecho\r"
+        "Name": "Chimecho",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 359,
-        "Name": "Absol\r"
+        "Name": "Absol",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 360,
         "Name": "Wynaut",
-        "[Method|Param|Target]": "[LevelingUp|15|Wobbuffet]\r"
+        "[Method|Param|Target]": "[LevelingUp|15|Wobbuffet]"
     },
     {
         "ID": 361,
@@ -1632,21 +1811,23 @@
     },
     {
         "ID": 362,
-        "Name": "Glalie\r"
+        "Name": "Glalie",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 363,
         "Name": "Spheal",
-        "[Method|Param|Target]": "[LevelingUp|32|Sealeo]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Sealeo]"
     },
     {
         "ID": 364,
         "Name": "Sealeo",
-        "[Method|Param|Target]": "[LevelingUp|44|Walrein]\r"
+        "[Method|Param|Target]": "[LevelingUp|44|Walrein]"
     },
     {
         "ID": 365,
-        "Name": "Walrein\r"
+        "Name": "Walrein",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 366,
@@ -1655,202 +1836,228 @@
     },
     {
         "ID": 367,
-        "Name": "Huntail\r"
+        "Name": "Huntail",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 368,
-        "Name": "Gorebyss\r"
+        "Name": "Gorebyss",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 369,
-        "Name": "Relicanth\r"
+        "Name": "Relicanth",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 370,
-        "Name": "Luvdisc\r"
+        "Name": "Luvdisc",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 371,
         "Name": "Bagon",
-        "[Method|Param|Target]": "[LevelingUp|30|Shelgon]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Shelgon]"
     },
     {
         "ID": 372,
         "Name": "Shelgon",
-        "[Method|Param|Target]": "[LevelingUp|50|Salamence]\r"
+        "[Method|Param|Target]": "[LevelingUp|50|Salamence]"
     },
     {
         "ID": 373,
-        "Name": "Salamence\r"
+        "Name": "Salamence",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 374,
         "Name": "Beldum",
-        "[Method|Param|Target]": "[LevelingUp|20|Metang]\r"
+        "[Method|Param|Target]": "[LevelingUp|20|Metang]"
     },
     {
         "ID": 375,
         "Name": "Metang",
-        "[Method|Param|Target]": "[LevelingUp|45|Metagross]\r"
+        "[Method|Param|Target]": "[LevelingUp|45|Metagross]"
     },
     {
         "ID": 376,
-        "Name": "Metagross\r"
+        "Name": "Metagross",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 377,
-        "Name": "Regirock\r"
+        "Name": "Regirock",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 378,
-        "Name": "Regice\r"
+        "Name": "Regice",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 379,
-        "Name": "Registeel\r"
+        "Name": "Registeel",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 380,
-        "Name": "Latias\r"
+        "Name": "Latias",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 381,
-        "Name": "Latios\r"
+        "Name": "Latios",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 382,
-        "Name": "Kyogre\r"
+        "Name": "Kyogre",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 383,
-        "Name": "Groudon\r"
+        "Name": "Groudon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 384,
-        "Name": "Rayquaza\r"
+        "Name": "Rayquaza",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 385,
-        "Name": "Jirachi\r"
+        "Name": "Jirachi",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 386,
-        "Name": "Deoxys\r"
+        "Name": "Deoxys",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 387,
         "Name": "Turtwig",
-        "[Method|Param|Target]": "[LevelingUp|18|Grotle]\r"
+        "[Method|Param|Target]": "[LevelingUp|18|Grotle]"
     },
     {
         "ID": 388,
         "Name": "Grotle",
-        "[Method|Param|Target]": "[LevelingUp|32|Torterra]\r"
+        "[Method|Param|Target]": "[LevelingUp|32|Torterra]"
     },
     {
         "ID": 389,
-        "Name": "Torterra\r"
+        "Name": "Torterra",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 390,
         "Name": "Chimchar",
-        "[Method|Param|Target]": "[LevelingUp|14|Monferno]\r"
+        "[Method|Param|Target]": "[LevelingUp|14|Monferno]"
     },
     {
         "ID": 391,
         "Name": "Monferno",
-        "[Method|Param|Target]": "[LevelingUp|36|Infernape]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Infernape]"
     },
     {
         "ID": 392,
-        "Name": "Infernape\r"
+        "Name": "Infernape",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 393,
         "Name": "Piplup",
-        "[Method|Param|Target]": "[LevelingUp|16|Prinplup]\r"
+        "[Method|Param|Target]": "[LevelingUp|16|Prinplup]"
     },
     {
         "ID": 394,
         "Name": "Prinplup",
-        "[Method|Param|Target]": "[LevelingUp|36|Empoleon]\r"
+        "[Method|Param|Target]": "[LevelingUp|36|Empoleon]"
     },
     {
         "ID": 395,
-        "Name": "Empoleon\r"
+        "Name": "Empoleon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 396,
         "Name": "Starly",
-        "[Method|Param|Target]": "[LevelingUp|14|Staravia]\r"
+        "[Method|Param|Target]": "[LevelingUp|14|Staravia]"
     },
     {
         "ID": 397,
         "Name": "Staravia",
-        "[Method|Param|Target]": "[LevelingUp|34|Staraptor]\r"
+        "[Method|Param|Target]": "[LevelingUp|34|Staraptor]"
     },
     {
         "ID": 398,
-        "Name": "Staraptor\r"
+        "Name": "Staraptor",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 399,
         "Name": "Bidoof",
-        "[Method|Param|Target]": "[LevelingUp|15|Bibarel]\r"
+        "[Method|Param|Target]": "[LevelingUp|15|Bibarel]"
     },
     {
         "ID": 400,
-        "Name": "Bibarel\r"
+        "Name": "Bibarel",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 401,
         "Name": "Kricketot",
-        "[Method|Param|Target]": "[LevelingUp|10|Kricketune]\r"
+        "[Method|Param|Target]": "[LevelingUp|10|Kricketune]"
     },
     {
         "ID": 402,
-        "Name": "Kricketune\r"
+        "Name": "Kricketune",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 403,
         "Name": "Shinx",
-        "[Method|Param|Target]": "[LevelingUp|15|Luxio]\r"
+        "[Method|Param|Target]": "[LevelingUp|15|Luxio]"
     },
     {
         "ID": 404,
         "Name": "Luxio",
-        "[Method|Param|Target]": "[LevelingUp|30|Luxray]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Luxray]"
     },
     {
         "ID": 405,
-        "Name": "Luxray\r"
+        "Name": "Luxray",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 406,
         "Name": "Budew",
-        "[Method|Param|Target]": "[Friendship220_Day|Ignored|Roselia]\r"
+        "[Method|Param|Target]": "[Friendship220_Day|Ignored|Roselia]"
     },
     {
         "ID": 407,
-        "Name": "Roserade\r"
+        "Name": "Roserade",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 408,
         "Name": "Cranidos",
-        "[Method|Param|Target]": "[LevelingUp|30|Rampardos]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Rampardos]"
     },
     {
         "ID": 409,
-        "Name": "Rampardos\r"
+        "Name": "Rampardos",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 410,
         "Name": "Shieldon",
-        "[Method|Param|Target]": "[LevelingUp|30|Bastiodon]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Bastiodon]"
     },
     {
         "ID": 411,
-        "Name": "Bastiodon\r"
+        "Name": "Bastiodon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 412,
@@ -1859,405 +2066,477 @@
     },
     {
         "ID": 413,
-        "Name": "Wormadam\r"
+        "Name": "Wormadam",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 414,
-        "Name": "Mothim\r"
+        "Name": "Mothim",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 415,
         "Name": "Combee",
-        "[Method|Param|Target]": "[LevelingUp_Female|0|Vespiquen]\r"
+        "[Method|Param|Target]": "[LevelingUp_Female|0|Vespiquen]"
     },
     {
         "ID": 416,
-        "Name": "Vespiquen\r"
+        "Name": "Vespiquen",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 417,
-        "Name": "Pachirisu\r"
+        "Name": "Pachirisu",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 418,
         "Name": "Buizel",
-        "[Method|Param|Target]": "[LevelingUp|26|Floatzel]\r"
+        "[Method|Param|Target]": "[LevelingUp|26|Floatzel]"
     },
     {
         "ID": 419,
-        "Name": "Floatzel\r"
+        "Name": "Floatzel",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 420,
         "Name": "Cherubi",
-        "[Method|Param|Target]": "[LevelingUp|25|Cherrim]\r"
+        "[Method|Param|Target]": "[LevelingUp|25|Cherrim]"
     },
     {
         "ID": 421,
-        "Name": "Cherrim\r"
+        "Name": "Cherrim",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 422,
         "Name": "Shellos",
-        "[Method|Param|Target]": "[LevelingUp|30|Gastrodon]\r"
+        "[Method|Param|Target]": "[LevelingUp|30|Gastrodon]"
     },
     {
         "ID": 423,
-        "Name": "Gastrodon\r"
+        "Name": "Gastrodon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 424,
-        "Name": "Ambipom\r"
+        "Name": "Ambipom",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 425,
         "Name": "Drifloon",
-        "[Method|Param|Target]": "[LevelingUp|28|Drifblim]\r"
+        "[Method|Param|Target]": "[LevelingUp|28|Drifblim]"
     },
     {
         "ID": 426,
-        "Name": "Drifblim\r"
+        "Name": "Drifblim",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 427,
         "Name": "Buneary",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Lopunny]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Lopunny]"
     },
     {
         "ID": 428,
-        "Name": "Lopunny\r"
+        "Name": "Lopunny",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 429,
-        "Name": "Mismagius\r"
+        "Name": "Mismagius",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 430,
-        "Name": "Honchkrow\r"
+        "Name": "Honchkrow",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 431,
         "Name": "Glameow",
-        "[Method|Param|Target]": "[LevelingUp|38|Purugly]\r"
+        "[Method|Param|Target]": "[LevelingUp|38|Purugly]"
     },
     {
         "ID": 432,
-        "Name": "Purugly\r"
+        "Name": "Purugly",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 433,
         "Name": "Chingling",
-        "[Method|Param|Target]": "[Friendship220_Night|Ignored|Chimecho]\r"
+        "[Method|Param|Target]": "[Friendship220_Night|Ignored|Chimecho]"
     },
     {
         "ID": 434,
         "Name": "Stunky",
-        "[Method|Param|Target]": "[LevelingUp|34|Skuntank]\r"
+        "[Method|Param|Target]": "[LevelingUp|34|Skuntank]"
     },
     {
         "ID": 435,
-        "Name": "Skuntank\r"
+        "Name": "Skuntank",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 436,
         "Name": "Bronzor",
-        "[Method|Param|Target]": "[LevelingUp|33|Bronzong]\r"
+        "[Method|Param|Target]": "[LevelingUp|33|Bronzong]"
     },
     {
         "ID": 437,
-        "Name": "Bronzong\r"
+        "Name": "Bronzong",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 438,
         "Name": "Bonsly",
-        "[Method|Param|Target]": "[KnowsMove|Mimic|Sudowoodo]\r"
+        "[Method|Param|Target]": "[KnowsMove|Mimic|Sudowoodo]"
     },
     {
         "ID": 439,
         "Name": "Mime Jr.",
-        "[Method|Param|Target]": "[KnowsMove|Mimic|Mr. Mime]\r"
+        "[Method|Param|Target]": "[KnowsMove|Mimic|Mr. Mime]"
     },
     {
         "ID": 440,
         "Name": "Happiny",
-        "[Method|Param|Target]": "[HeldItem_Day|Oval Stone|Chansey]\r"
+        "[Method|Param|Target]": "[HeldItem_Day|Oval Stone|Chansey]"
     },
     {
         "ID": 441,
-        "Name": "Chatot\r"
+        "Name": "Chatot",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 442,
-        "Name": "Spiritomb\r"
+        "Name": "Spiritomb",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 443,
         "Name": "Gible",
-        "[Method|Param|Target]": "[LevelingUp|24|Gabite]\r"
+        "[Method|Param|Target]": "[LevelingUp|24|Gabite]"
     },
     {
         "ID": 444,
         "Name": "Gabite",
-        "[Method|Param|Target]": "[LevelingUp|48|Garchomp]\r"
+        "[Method|Param|Target]": "[LevelingUp|48|Garchomp]"
     },
     {
         "ID": 445,
-        "Name": "Garchomp\r"
+        "Name": "Garchomp",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 446,
         "Name": "Munchlax",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Snorlax]\r"
+        "[Method|Param|Target]": "[Friendship220|Ignored|Snorlax]"
     },
     {
         "ID": 447,
         "Name": "Riolu",
-        "[Method|Param|Target]": "[Friendship220_Day|Ignored|Lucario]\r"
+        "[Method|Param|Target]": "[Friendship220_Day|Ignored|Lucario]"
     },
     {
         "ID": 448,
-        "Name": "Lucario\r"
+        "Name": "Lucario",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 449,
         "Name": "Hippopotas",
-        "[Method|Param|Target]": "[LevelingUp|34|Hippowdon]\r"
+        "[Method|Param|Target]": "[LevelingUp|34|Hippowdon]"
     },
     {
         "ID": 450,
-        "Name": "Hippowdon\r"
+        "Name": "Hippowdon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 451,
         "Name": "Skorupi",
-        "[Method|Param|Target]": "[LevelingUp|40|Drapion]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Drapion]"
     },
     {
         "ID": 452,
-        "Name": "Drapion\r"
+        "Name": "Drapion",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 453,
         "Name": "Croagunk",
-        "[Method|Param|Target]": "[LevelingUp|37|Toxicroak]\r"
+        "[Method|Param|Target]": "[LevelingUp|37|Toxicroak]"
     },
     {
         "ID": 454,
-        "Name": "Toxicroak\r"
+        "Name": "Toxicroak",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 455,
-        "Name": "Carnivine\r"
+        "Name": "Carnivine",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 456,
         "Name": "Finneon",
-        "[Method|Param|Target]": "[LevelingUp|31|Lumineon]\r"
+        "[Method|Param|Target]": "[LevelingUp|31|Lumineon]"
     },
     {
         "ID": 457,
-        "Name": "Lumineon\r"
+        "Name": "Lumineon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 458,
         "Name": "Mantyke",
-        "[Method|Param|Target]": "[PartyPokemonPresence|Voltorb|Mantine]\r"
+        "[Method|Param|Target]": "[PartyPokemonPresence|Voltorb|Mantine]"
     },
     {
         "ID": 459,
         "Name": "Snover",
-        "[Method|Param|Target]": "[LevelingUp|40|Abomasnow]\r"
+        "[Method|Param|Target]": "[LevelingUp|40|Abomasnow]"
     },
     {
         "ID": 460,
-        "Name": "Abomasnow\r"
+        "Name": "Abomasnow",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 461,
-        "Name": "Weavile\r"
+        "Name": "Weavile",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 462,
-        "Name": "Magnezone\r"
+        "Name": "Magnezone",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 463,
-        "Name": "Lickilicky\r"
+        "Name": "Lickilicky",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 464,
-        "Name": "Rhyperior\r"
+        "Name": "Rhyperior",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 465,
-        "Name": "Tangrowth\r"
+        "Name": "Tangrowth",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 466,
-        "Name": "Electivire\r"
+        "Name": "Electivire",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 467,
-        "Name": "Magmortar\r"
+        "Name": "Magmortar",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 468,
-        "Name": "Togekiss\r"
+        "Name": "Togekiss",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 469,
-        "Name": "Yanmega\r"
+        "Name": "Yanmega",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 470,
-        "Name": "Leafeon\r"
+        "Name": "Leafeon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 471,
-        "Name": "Glaceon\r"
+        "Name": "Glaceon",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 472,
-        "Name": "Gliscor\r"
+        "Name": "Gliscor",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 473,
-        "Name": "Mamoswine\r"
+        "Name": "Mamoswine",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 474,
-        "Name": "Porygon-Z\r"
+        "Name": "Porygon-Z",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 475,
-        "Name": "Gallade\r"
+        "Name": "Gallade",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 476,
-        "Name": "Probopass\r"
+        "Name": "Probopass",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 477,
-        "Name": "Dusknoir\r"
+        "Name": "Dusknoir",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 478,
-        "Name": "Froslass\r"
+        "Name": "Froslass",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 479,
-        "Name": "Rotom\r"
+        "Name": "Rotom",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 480,
-        "Name": "Uxie\r"
+        "Name": "Uxie",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 481,
-        "Name": "Mesprit\r"
+        "Name": "Mesprit",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 482,
-        "Name": "Azelf\r"
+        "Name": "Azelf",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 483,
-        "Name": "Dialga\r"
+        "Name": "Dialga",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 484,
-        "Name": "Palkia\r"
+        "Name": "Palkia",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 485,
-        "Name": "Heatran\r"
+        "Name": "Heatran",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 486,
-        "Name": "Regigigas\r"
+        "Name": "Regigigas",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 487,
-        "Name": "Giratina\r"
+        "Name": "Giratina",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 488,
-        "Name": "Cresselia\r"
+        "Name": "Cresselia",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 489,
-        "Name": "Phione\r"
+        "Name": "Phione",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 490,
-        "Name": "Manaphy\r"
+        "Name": "Manaphy",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 491,
-        "Name": "Darkrai\r"
+        "Name": "Darkrai",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 492,
-        "Name": "Shaymin\r"
+        "Name": "Shaymin",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 493,
-        "Name": "Arceus\r"
+        "Name": "Arceus",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 494,
-        "Name": "Egg\r"
+        "Name": "Egg",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 495,
-        "Name": "Bad Egg\r"
+        "Name": "Bad Egg",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 496,
-        "Name": "Deoxys - Attack\r"
+        "Name": "Deoxys - Attack",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 497,
-        "Name": "Deoxys - Defense\r"
+        "Name": "Deoxys - Defense",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 498,
-        "Name": "Deoxys - Speed\r"
+        "Name": "Deoxys - Speed",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 499,
-        "Name": "Wormadam - Sandy\r"
+        "Name": "Wormadam - Sandy",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 500,
-        "Name": "Wormadam - Trash\r"
+        "Name": "Wormadam - Trash",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 501,
-        "Name": "Giratina - Origin\r"
+        "Name": "Giratina - Origin",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 502,
-        "Name": "Shaymin - Sky\r"
+        "Name": "Shaymin - Sky",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 503,
-        "Name": "Rotom - Heat\r"
+        "Name": "Rotom - Heat",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 504,
-        "Name": "Rotom - Wash\r"
+        "Name": "Rotom - Wash",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 505,
-        "Name": "Rotom - Frost\r"
+        "Name": "Rotom - Frost",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 506,
-        "Name": "Rotom - Fan\r"
+        "Name": "Rotom - Fan",
+        "[Method|Param|Target]": ""
     },
     {
         "ID": 507,
-        "Name": "Rotom - Mow\r"
+        "Name": "Rotom - Mow",
+        "[Method|Param|Target]": ""
     }
 ]
