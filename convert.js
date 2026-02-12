@@ -56,6 +56,53 @@ fs.readdirSync(inputFolder).forEach(file => {
       return;
     }
 
+    // Special parsing for EvolutionData.csv to handle multiple evolutions
+    if (file === 'EvolutionData.csv') {
+      const result = [];
+      for (let i = 1; i < lines.length; i++) {
+        const line = lines[i];
+        const firstComma = line.indexOf(',');
+        if (firstComma === -1) continue;
+        const secondComma = line.indexOf(',', firstComma + 1);
+
+        let idStr, name, rest;
+        if (secondComma === -1) {
+          idStr = line.slice(0, firstComma);
+          name = line.slice(firstComma + 1);
+          rest = '';
+        } else {
+          idStr = line.slice(0, firstComma);
+          name = line.slice(firstComma + 1, secondComma);
+          rest = line.slice(secondComma + 1);
+        }
+
+        const obj = {
+          ID: Number(idStr.trim()),
+          Name: name.trim()
+        };
+
+        // Capture all evolutions in format [Method|Param|Target]
+        const evolutions = [];
+        const evoRegex = /\[([^\|]+)\|([^\|]*)\|([^\]]+)\]/g;
+        let m;
+        while ((m = evoRegex.exec(rest)) !== null) {
+          evolutions.push({
+            Method: m[1],
+            Param: m[2],
+            Target: m[3]
+          });
+        }
+
+        obj.Evolutions = evolutions;
+        result.push(obj);
+      }
+
+      const jsonFile = file.replace(".csv", ".json");
+      fs.writeFileSync(path.join(outputFolder, jsonFile), JSON.stringify(result, null, 4));
+      console.log(`${file} → ${jsonFile} ✔`);
+      return;
+    }
+
     // Fallback generic CSV parsing (naive split by comma)
     const headers = lines[0].split(",");
     const result = [];

@@ -1,2542 +1,4021 @@
 [
     {
-        "ID": 0,
-        "Name": "-----",
-        "[Method|Param|Target]": ""
-    },
-    {
         "ID": 1,
         "Name": "Bulbasaur",
-        "[Method|Param|Target]": "[LevelingUp|16|Ivysaur]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Ivysaur"
+            }
+        ]
     },
     {
         "ID": 2,
         "Name": "Ivysaur",
-        "[Method|Param|Target]": "[LevelingUp|32|Venusaur]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Venusaur"
+            }
+        ]
     },
     {
         "ID": 3,
         "Name": "Venusaur",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 4,
         "Name": "Charmander",
-        "[Method|Param|Target]": "[LevelingUp|16|Charmeleon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Charmeleon"
+            }
+        ]
     },
     {
         "ID": 5,
         "Name": "Charmeleon",
-        "[Method|Param|Target]": "[LevelingUp|36|Charizard]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Charizard"
+            }
+        ]
     },
     {
         "ID": 6,
         "Name": "Charizard",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 7,
         "Name": "Squirtle",
-        "[Method|Param|Target]": "[LevelingUp|16|Wartortle]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Wartortle"
+            }
+        ]
     },
     {
         "ID": 8,
         "Name": "Wartortle",
-        "[Method|Param|Target]": "[LevelingUp|36|Blastoise]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Blastoise"
+            }
+        ]
     },
     {
         "ID": 9,
         "Name": "Blastoise",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 10,
         "Name": "Caterpie",
-        "[Method|Param|Target]": "[LevelingUp|7|Metapod]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "7",
+                "Target": "Metapod"
+            }
+        ]
     },
     {
         "ID": 11,
         "Name": "Metapod",
-        "[Method|Param|Target]": "[LevelingUp|10|Butterfree]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "10",
+                "Target": "Butterfree"
+            }
+        ]
     },
     {
         "ID": 12,
         "Name": "Butterfree",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 13,
         "Name": "Weedle",
-        "[Method|Param|Target]": "[LevelingUp|7|Kakuna]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "7",
+                "Target": "Kakuna"
+            }
+        ]
     },
     {
         "ID": 14,
         "Name": "Kakuna",
-        "[Method|Param|Target]": "[LevelingUp|10|Beedrill]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "10",
+                "Target": "Beedrill"
+            }
+        ]
     },
     {
         "ID": 15,
         "Name": "Beedrill",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 16,
         "Name": "Pidgey",
-        "[Method|Param|Target]": "[LevelingUp|18|Pidgeotto]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Pidgeotto"
+            }
+        ]
     },
     {
         "ID": 17,
         "Name": "Pidgeotto",
-        "[Method|Param|Target]": "[LevelingUp|36|Pidgeot]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Pidgeot"
+            }
+        ]
     },
     {
         "ID": 18,
         "Name": "Pidgeot",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 19,
         "Name": "Rattata",
-        "[Method|Param|Target]": "[LevelingUp|20|Raticate]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Raticate"
+            }
+        ]
     },
     {
         "ID": 20,
         "Name": "Raticate",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 21,
         "Name": "Spearow",
-        "[Method|Param|Target]": "[LevelingUp|20|Fearow]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Fearow"
+            }
+        ]
     },
     {
         "ID": 22,
         "Name": "Fearow",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 23,
         "Name": "Ekans",
-        "[Method|Param|Target]": "[LevelingUp|22|Arbok]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "22",
+                "Target": "Arbok"
+            }
+        ]
     },
     {
         "ID": 24,
         "Name": "Arbok",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 25,
         "Name": "Pikachu",
-        "[Method|Param|Target]": "[Item|Thunderstone|Raichu]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Thunder Stone",
+                "Target": "Raichu"
+            }
+        ]
     },
     {
         "ID": 26,
         "Name": "Raichu",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 27,
         "Name": "Sandshrew",
-        "[Method|Param|Target]": "[LevelingUp|22|Sandslash]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "22",
+                "Target": "Sandslash"
+            }
+        ]
     },
     {
         "ID": 28,
         "Name": "Sandslash",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 29,
         "Name": "Nidoran♀",
-        "[Method|Param|Target]": "[LevelingUp|16|Nidorina]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Nidorina"
+            }
+        ]
     },
     {
         "ID": 30,
         "Name": "Nidorina",
-        "[Method|Param|Target]": "[Item|Moon Stone|Nidoqueen]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Moon Stone",
+                "Target": "Nidoqueen"
+            }
+        ]
     },
     {
         "ID": 31,
         "Name": "Nidoqueen",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 32,
         "Name": "Nidoran♂",
-        "[Method|Param|Target]": "[LevelingUp|16|Nidorino]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Nidorino"
+            }
+        ]
     },
     {
         "ID": 33,
         "Name": "Nidorino",
-        "[Method|Param|Target]": "[Item|Moon Stone|Nidoking]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Moon Stone",
+                "Target": "Nidoking"
+            }
+        ]
     },
     {
         "ID": 34,
         "Name": "Nidoking",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 35,
         "Name": "Clefairy",
-        "[Method|Param|Target]": "[Item|Moon Stone|Clefable]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Moon Stone",
+                "Target": "Clefable"
+            }
+        ]
     },
     {
         "ID": 36,
         "Name": "Clefable",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 37,
         "Name": "Vulpix",
-        "[Method|Param|Target]": "[Item|Fire Stone|Ninetales]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Fire Stone",
+                "Target": "Ninetales"
+            }
+        ]
     },
     {
         "ID": 38,
         "Name": "Ninetales",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 39,
         "Name": "Jigglypuff",
-        "[Method|Param|Target]": "[Item|Moon Stone|Wigglytuff]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Moon Stone",
+                "Target": "Wigglytuff"
+            }
+        ]
     },
     {
         "ID": 40,
         "Name": "Wigglytuff",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 41,
         "Name": "Zubat",
-        "[Method|Param|Target]": "[LevelingUp|22|Golbat]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "22",
+                "Target": "Golbat"
+            }
+        ]
     },
     {
         "ID": 42,
         "Name": "Golbat",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Crobat]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Crobat"
+            }
+        ]
     },
     {
         "ID": 43,
         "Name": "Oddish",
-        "[Method|Param|Target]": "[LevelingUp|21|Gloom]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "21",
+                "Target": "Gloom"
+            }
+        ]
     },
     {
         "ID": 44,
         "Name": "Gloom",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Vileplume]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Leaf Stone",
+                "Target": "Vileplume"
+            },
+            {
+                "Method": "Item",
+                "Param": "Sun Stone",
+                "Target": "Bellossom"
+            }
+        ]
     },
     {
         "ID": 45,
         "Name": "Vileplume",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 46,
         "Name": "Paras",
-        "[Method|Param|Target]": "[LevelingUp|24|Parasect]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "24",
+                "Target": "Parasect"
+            }
+        ]
     },
     {
         "ID": 47,
         "Name": "Parasect",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 48,
         "Name": "Venonat",
-        "[Method|Param|Target]": "[LevelingUp|31|Venomoth]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "31",
+                "Target": "Venomoth"
+            }
+        ]
     },
     {
         "ID": 49,
         "Name": "Venomoth",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 50,
         "Name": "Diglett",
-        "[Method|Param|Target]": "[LevelingUp|26|Dugtrio]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "26",
+                "Target": "Dugtrio"
+            }
+        ]
     },
     {
         "ID": 51,
         "Name": "Dugtrio",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 52,
         "Name": "Meowth",
-        "[Method|Param|Target]": "[LevelingUp|28|Persian]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "28",
+                "Target": "Persian"
+            }
+        ]
     },
     {
         "ID": 53,
         "Name": "Persian",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 54,
         "Name": "Psyduck",
-        "[Method|Param|Target]": "[LevelingUp|33|Golduck]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "33",
+                "Target": "Golduck"
+            }
+        ]
     },
     {
         "ID": 55,
         "Name": "Golduck",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 56,
         "Name": "Mankey",
-        "[Method|Param|Target]": "[LevelingUp|28|Primeape]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "28",
+                "Target": "Primeape"
+            }
+        ]
     },
     {
         "ID": 57,
         "Name": "Primeape",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 58,
         "Name": "Growlithe",
-        "[Method|Param|Target]": "[Item|Fire Stone|Arcanine]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Fire Stone",
+                "Target": "Arcanine"
+            }
+        ]
     },
     {
         "ID": 59,
         "Name": "Arcanine",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 60,
         "Name": "Poliwag",
-        "[Method|Param|Target]": "[LevelingUp|25|Poliwhirl]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Poliwhirl"
+            }
+        ]
     },
     {
         "ID": 61,
         "Name": "Poliwhirl",
-        "[Method|Param|Target]": "[Item|Water Stone|Poliwrath]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Water Stone",
+                "Target": "Poliwrath"
+            },
+            {
+                "Method": "Item",
+                "Param": "Kings Rock",
+                "Target": "Politoed"
+            }
+        ]
     },
     {
         "ID": 62,
         "Name": "Poliwrath",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 63,
         "Name": "Abra",
-        "[Method|Param|Target]": "[LevelingUp|16|Kadabra]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Kadabra"
+            }
+        ]
     },
     {
         "ID": 64,
         "Name": "Kadabra",
-        "[Method|Param|Target]": "[Trade|Ignored|Alakazam]"
+        "Evolutions": [
+            {
+                "Method": "Trade",
+                "Param": "Ignored",
+                "Target": "Alakazam"
+            },
+            {
+                "Method": "Item",
+                "Param": "Covenant Orb",
+                "Target": "Alakazam"
+            }
+        ]
     },
     {
         "ID": 65,
         "Name": "Alakazam",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 66,
         "Name": "Machop",
-        "[Method|Param|Target]": "[LevelingUp|28|Machoke]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "28",
+                "Target": "Machoke"
+            }
+        ]
     },
     {
         "ID": 67,
         "Name": "Machoke",
-        "[Method|Param|Target]": "[Trade|Ignored|Machamp]"
+        "Evolutions": [
+            {
+                "Method": "Trade",
+                "Param": "Ignored",
+                "Target": "Machamp"
+            },
+            {
+                "Method": "Item",
+                "Param": "Covenant Orb",
+                "Target": "Machamp"
+            }
+        ]
     },
     {
         "ID": 68,
         "Name": "Machamp",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 69,
         "Name": "Bellsprout",
-        "[Method|Param|Target]": "[LevelingUp|21|Weepinbell]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "21",
+                "Target": "Weepinbell"
+            }
+        ]
     },
     {
         "ID": 70,
         "Name": "Weepinbell",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Victreebel]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Leaf Stone",
+                "Target": "Victreebel"
+            }
+        ]
     },
     {
         "ID": 71,
         "Name": "Victreebel",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 72,
         "Name": "Tentacool",
-        "[Method|Param|Target]": "[LevelingUp|30|Tentacruel]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Tentacruel"
+            }
+        ]
     },
     {
         "ID": 73,
         "Name": "Tentacruel",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 74,
         "Name": "Geodude",
-        "[Method|Param|Target]": "[LevelingUp|25|Graveler]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Graveler"
+            }
+        ]
     },
     {
         "ID": 75,
         "Name": "Graveler",
-        "[Method|Param|Target]": "[Trade|Ignored|Golem]"
+        "Evolutions": [
+            {
+                "Method": "Trade",
+                "Param": "Ignored",
+                "Target": "Golem"
+            },
+            {
+                "Method": "Item",
+                "Param": "Covenant Orb",
+                "Target": "Golem"
+            }
+        ]
     },
     {
         "ID": 76,
         "Name": "Golem",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 77,
         "Name": "Ponyta",
-        "[Method|Param|Target]": "[LevelingUp|40|Rapidash]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Rapidash"
+            }
+        ]
     },
     {
         "ID": 78,
         "Name": "Rapidash",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 79,
         "Name": "Slowpoke",
-        "[Method|Param|Target]": "[LevelingUp|37|Slowbro]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "37",
+                "Target": "Slowbro"
+            },
+            {
+                "Method": "Item",
+                "Param": "King’s Rock",
+                "Target": "Slowking"
+            }
+        ]
     },
     {
         "ID": 80,
         "Name": "Slowbro",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 81,
         "Name": "Magnemite",
-        "[Method|Param|Target]": "[LevelingUp|30|Magneton]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Magneton"
+            }
+        ]
     },
     {
         "ID": 82,
         "Name": "Magneton",
-        "[Method|Param|Target]": "[Item|Voltaic Ore|Magnezone]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Voltaic Ore",
+                "Target": "Magnezone"
+            }
+        ]
     },
     {
         "ID": 83,
         "Name": "Farfetch’d",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 84,
         "Name": "Doduo",
-        "[Method|Param|Target]": "[LevelingUp|31|Dodrio]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "31",
+                "Target": "Dodrio"
+            }
+        ]
     },
     {
         "ID": 85,
         "Name": "Dodrio",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 86,
         "Name": "Seel",
-        "[Method|Param|Target]": "[LevelingUp|34|Dewgong]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "34",
+                "Target": "Dewgong"
+            }
+        ]
     },
     {
         "ID": 87,
         "Name": "Dewgong",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 88,
         "Name": "Grimer",
-        "[Method|Param|Target]": "[LevelingUp|38|Muk]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "38",
+                "Target": "Muk"
+            }
+        ]
     },
     {
         "ID": 89,
         "Name": "Muk",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 90,
         "Name": "Shellder",
-        "[Method|Param|Target]": "[Item|Water Stone|Cloyster]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Water Stone",
+                "Target": "Cloyster"
+            }
+        ]
     },
     {
         "ID": 91,
         "Name": "Cloyster",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 92,
         "Name": "Gastly",
-        "[Method|Param|Target]": "[LevelingUp|25|Haunter]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Haunter"
+            }
+        ]
     },
     {
         "ID": 93,
         "Name": "Haunter",
-        "[Method|Param|Target]": "[Trade|Ignored|Gengar]"
+        "Evolutions": [
+            {
+                "Method": "Trade",
+                "Param": "Ignored",
+                "Target": "Gengar"
+            },
+            {
+                "Method": "Item",
+                "Param": "Covenant Orb",
+                "Target": "Gengar"
+            }
+        ]
     },
     {
         "ID": 94,
         "Name": "Gengar",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 95,
         "Name": "Onix",
-        "[Method|Param|Target]": "[Item|Metal Coat|Steelix]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Metal Coat",
+                "Target": "Steelix"
+            }
+        ]
     },
     {
         "ID": 96,
         "Name": "Drowzee",
-        "[Method|Param|Target]": "[LevelingUp|26|Hypno]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "26",
+                "Target": "Hypno"
+            }
+        ]
     },
     {
         "ID": 97,
         "Name": "Hypno",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 98,
         "Name": "Krabby",
-        "[Method|Param|Target]": "[LevelingUp|28|Kingler]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "28",
+                "Target": "Kingler"
+            }
+        ]
     },
     {
         "ID": 99,
         "Name": "Kingler",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 100,
         "Name": "Voltorb",
-        "[Method|Param|Target]": "[LevelingUp|30|Electrode]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Electrode"
+            }
+        ]
     },
     {
         "ID": 101,
         "Name": "Electrode",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 102,
         "Name": "Exeggcute",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Exeggutor]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Leaf Stone",
+                "Target": "Exeggutor"
+            }
+        ]
     },
     {
         "ID": 103,
         "Name": "Exeggutor",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 104,
         "Name": "Cubone",
-        "[Method|Param|Target]": "[LevelingUp|28|Marowak]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "28",
+                "Target": "Marowak"
+            }
+        ]
     },
     {
         "ID": 105,
         "Name": "Marowak",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 106,
         "Name": "Hitmonlee",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 107,
         "Name": "Hitmonchan",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 108,
         "Name": "Lickitung",
-        "[Method|Param|Target]": "[KnowsMove|Rollout|Lickilicky]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "Rollout",
+                "Target": "Lickilicky"
+            }
+        ]
     },
     {
         "ID": 109,
         "Name": "Koffing",
-        "[Method|Param|Target]": "[LevelingUp|35|Weezing]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "35",
+                "Target": "Weezing"
+            }
+        ]
     },
     {
         "ID": 110,
         "Name": "Weezing",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 111,
         "Name": "Rhyhorn",
-        "[Method|Param|Target]": "[LevelingUp|42|Rhydon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "42",
+                "Target": "Rhydon"
+            }
+        ]
     },
     {
         "ID": 112,
         "Name": "Rhydon",
-        "[Method|Param|Target]": "[Item|Protector|Rhyperior]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Protector",
+                "Target": "Rhyperior"
+            }
+        ]
     },
     {
         "ID": 113,
         "Name": "Chansey",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Blissey]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Blissey"
+            }
+        ]
     },
     {
         "ID": 114,
         "Name": "Tangela",
-        "[Method|Param|Target]": "[KnowsMove|AncientPower|Tangrowth]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "AncientPower",
+                "Target": "Tangrowth"
+            }
+        ]
     },
     {
         "ID": 115,
         "Name": "Kangaskhan",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 116,
         "Name": "Horsea",
-        "[Method|Param|Target]": "[LevelingUp|32|Seadra]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Seadra"
+            }
+        ]
     },
     {
         "ID": 117,
         "Name": "Seadra",
-        "[Method|Param|Target]": "[Item|Dragon Scale|Kingdra]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Dragon Scale",
+                "Target": "Kingdra"
+            }
+        ]
     },
     {
         "ID": 118,
         "Name": "Goldeen",
-        "[Method|Param|Target]": "[LevelingUp|33|Seaking]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "33",
+                "Target": "Seaking"
+            }
+        ]
     },
     {
         "ID": 119,
         "Name": "Seaking",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 120,
         "Name": "Staryu",
-        "[Method|Param|Target]": "[Item|Water Stone|Starmie]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Water Stone",
+                "Target": "Starmie"
+            }
+        ]
     },
     {
         "ID": 121,
         "Name": "Starmie",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 122,
         "Name": "Mr. Mime",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 123,
         "Name": "Scyther",
-        "[Method|Param|Target]": "[Item|Metal Coat|Scizor]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Metal Coat",
+                "Target": "Scizor"
+            }
+        ]
     },
     {
         "ID": 124,
         "Name": "Jynx",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 125,
         "Name": "Electabuzz",
-        "[Method|Param|Target]": "[Item|Electirizer|Electivire]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Electirizer",
+                "Target": "Electivire"
+            }
+        ]
     },
     {
         "ID": 126,
         "Name": "Magmar",
-        "[Method|Param|Target]": "[Item|Magmarizer|Magmortar]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Magmarizer",
+                "Target": "Magmortar"
+            }
+        ]
     },
     {
         "ID": 127,
         "Name": "Pinsir",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 128,
         "Name": "Tauros",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 129,
         "Name": "Magikarp",
-        "[Method|Param|Target]": "[LevelingUp|20|Gyarados]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Gyarados"
+            }
+        ]
     },
     {
         "ID": 130,
         "Name": "Gyarados",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 131,
         "Name": "Lapras",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 132,
         "Name": "Ditto",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 133,
         "Name": "Eevee",
-        "[Method|Param|Target]": "[Item|Woodland Ore|Leafeon]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Leaf Stone",
+                "Target": "Leafeon"
+            },
+            {
+                "Method": "Item",
+                "Param": "Ice Stone",
+                "Target": "Glaceon"
+            },
+            {
+                "Method": "Item",
+                "Param": "Thunder Stone",
+                "Target": "Jolteon"
+            },
+            {
+                "Method": "Item",
+                "Param": "Water Stone",
+                "Target": "Vaporeon"
+            },
+            {
+                "Method": "Item",
+                "Param": "Fire Stone",
+                "Target": "Flareon"
+            },
+            {
+                "Method": "Item",
+                "Param": "Aubade Orb",
+                "Target": "Espeon"
+            },
+            {
+                "Method": "Item",
+                "Param": "Serenade Orb",
+                "Target": "Umbreon"
+            }
+        ]
     },
     {
         "ID": 134,
         "Name": "Vaporeon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 135,
         "Name": "Jolteon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 136,
         "Name": "Flareon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 137,
         "Name": "Porygon",
-        "[Method|Param|Target]": "[Item|Up-Grade|Porygon2]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Up-Grade",
+                "Target": "Porygon2"
+            },
+            {
+                "Method": "Item",
+                "Param": "Dubious Disc",
+                "Target": "Porygon-Z"
+            }
+        ]
     },
     {
         "ID": 138,
         "Name": "Omanyte",
-        "[Method|Param|Target]": "[LevelingUp|40|Omastar]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Omastar"
+            }
+        ]
     },
     {
         "ID": 139,
         "Name": "Omastar",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 140,
         "Name": "Kabuto",
-        "[Method|Param|Target]": "[LevelingUp|40|Kabutops]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Kabutops"
+            }
+        ]
     },
     {
         "ID": 141,
         "Name": "Kabutops",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 142,
         "Name": "Aerodactyl",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 143,
         "Name": "Snorlax",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 144,
         "Name": "Articuno",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 145,
         "Name": "Zapdos",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 146,
         "Name": "Moltres",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 147,
         "Name": "Dratini",
-        "[Method|Param|Target]": "[LevelingUp|30|Dragonair]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Dragonair"
+            }
+        ]
     },
     {
         "ID": 148,
         "Name": "Dragonair",
-        "[Method|Param|Target]": "[LevelingUp|55|Dragonite]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "55",
+                "Target": "Dragonite"
+            }
+        ]
     },
     {
         "ID": 149,
         "Name": "Dragonite",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 150,
         "Name": "Mewtwo",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 151,
         "Name": "Mew",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 152,
         "Name": "Chikorita",
-        "[Method|Param|Target]": "[LevelingUp|16|Bayleef]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Bayleef"
+            }
+        ]
     },
     {
         "ID": 153,
         "Name": "Bayleef",
-        "[Method|Param|Target]": "[LevelingUp|32|Meganium]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Meganium"
+            }
+        ]
     },
     {
         "ID": 154,
         "Name": "Meganium",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 155,
         "Name": "Cyndaquil",
-        "[Method|Param|Target]": "[LevelingUp|14|Quilava]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "14",
+                "Target": "Quilava"
+            }
+        ]
     },
     {
         "ID": 156,
         "Name": "Quilava",
-        "[Method|Param|Target]": "[LevelingUp|36|Typhlosion]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Typhlosion"
+            }
+        ]
     },
     {
         "ID": 157,
         "Name": "Typhlosion",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 158,
         "Name": "Totodile",
-        "[Method|Param|Target]": "[LevelingUp|18|Croconaw]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Croconaw"
+            }
+        ]
     },
     {
         "ID": 159,
         "Name": "Croconaw",
-        "[Method|Param|Target]": "[LevelingUp|30|Feraligatr]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Feraligatr"
+            }
+        ]
     },
     {
         "ID": 160,
         "Name": "Feraligatr",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 161,
         "Name": "Sentret",
-        "[Method|Param|Target]": "[LevelingUp|15|Furret]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "15",
+                "Target": "Furret"
+            }
+        ]
     },
     {
         "ID": 162,
         "Name": "Furret",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 163,
         "Name": "Hoothoot",
-        "[Method|Param|Target]": "[LevelingUp|20|Noctowl]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Noctowl"
+            }
+        ]
     },
     {
         "ID": 164,
         "Name": "Noctowl",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 165,
         "Name": "Ledyba",
-        "[Method|Param|Target]": "[LevelingUp|18|Ledian]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Ledian"
+            }
+        ]
     },
     {
         "ID": 166,
         "Name": "Ledian",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 167,
         "Name": "Spinarak",
-        "[Method|Param|Target]": "[LevelingUp|22|Ariados]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "22",
+                "Target": "Ariados"
+            }
+        ]
     },
     {
         "ID": 168,
         "Name": "Ariados",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 169,
         "Name": "Crobat",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 170,
         "Name": "Chinchou",
-        "[Method|Param|Target]": "[LevelingUp|27|Lanturn]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "27",
+                "Target": "Lanturn"
+            }
+        ]
     },
     {
         "ID": 171,
         "Name": "Lanturn",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 172,
         "Name": "Pichu",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Pikachu]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Pikachu"
+            }
+        ]
     },
     {
         "ID": 173,
         "Name": "Cleffa",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Clefairy]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Clefairy"
+            }
+        ]
     },
     {
         "ID": 174,
         "Name": "Igglybuff",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Jigglypuff]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Jigglypuff"
+            }
+        ]
     },
     {
         "ID": 175,
         "Name": "Togepi",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Togetic]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Togetic"
+            }
+        ]
     },
     {
         "ID": 176,
         "Name": "Togetic",
-        "[Method|Param|Target]": "[Item|Shiny Stone|Togekiss]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Shiny Stone",
+                "Target": "Togekiss"
+            }
+        ]
     },
     {
         "ID": 177,
         "Name": "Natu",
-        "[Method|Param|Target]": "[LevelingUp|25|Xatu]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Xatu"
+            }
+        ]
     },
     {
         "ID": 178,
         "Name": "Xatu",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 179,
         "Name": "Mareep",
-        "[Method|Param|Target]": "[LevelingUp|15|Flaaffy]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "15",
+                "Target": "Flaaffy"
+            }
+        ]
     },
     {
         "ID": 180,
         "Name": "Flaaffy",
-        "[Method|Param|Target]": "[LevelingUp|30|Ampharos]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Ampharos"
+            }
+        ]
     },
     {
         "ID": 181,
         "Name": "Ampharos",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 182,
         "Name": "Bellossom",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 183,
         "Name": "Marill",
-        "[Method|Param|Target]": "[LevelingUp|18|Azumarill]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Azumarill"
+            }
+        ]
     },
     {
         "ID": 184,
         "Name": "Azumarill",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 185,
         "Name": "Sudowoodo",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 186,
         "Name": "Politoed",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 187,
         "Name": "Hoppip",
-        "[Method|Param|Target]": "[LevelingUp|18|Skiploom]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Skiploom"
+            }
+        ]
     },
     {
         "ID": 188,
         "Name": "Skiploom",
-        "[Method|Param|Target]": "[LevelingUp|27|Jumpluff]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "27",
+                "Target": "Jumpluff"
+            }
+        ]
     },
     {
         "ID": 189,
         "Name": "Jumpluff",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 190,
         "Name": "Aipom",
-        "[Method|Param|Target]": "[KnowsMove|Double Hit|Ambipom]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "Double Hit",
+                "Target": "Ambipom"
+            }
+        ]
     },
     {
         "ID": 191,
         "Name": "Sunkern",
-        "[Method|Param|Target]": "[Item|Sun Stone|Sunflora]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Sun Stone",
+                "Target": "Sunflora"
+            }
+        ]
     },
     {
         "ID": 192,
         "Name": "Sunflora",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 193,
         "Name": "Yanma",
-        "[Method|Param|Target]": "[KnowsMove|AncientPower|Yanmega]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "AncientPower",
+                "Target": "Yanmega"
+            }
+        ]
     },
     {
         "ID": 194,
         "Name": "Wooper",
-        "[Method|Param|Target]": "[LevelingUp|20|Quagsire]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Quagsire"
+            }
+        ]
     },
     {
         "ID": 195,
         "Name": "Quagsire",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 196,
         "Name": "Espeon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 197,
         "Name": "Umbreon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 198,
         "Name": "Murkrow",
-        "[Method|Param|Target]": "[Item|Dusk Stone|Honchkrow]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Dusk Stone",
+                "Target": "Honchkrow"
+            }
+        ]
     },
     {
         "ID": 199,
         "Name": "Slowking",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 200,
         "Name": "Misdreavus",
-        "[Method|Param|Target]": "[Item|Dusk Stone|Mismagius]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Dusk Stone",
+                "Target": "Mismagius"
+            }
+        ]
     },
     {
         "ID": 201,
         "Name": "Unown",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 202,
         "Name": "Wobbuffet",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 203,
         "Name": "Girafarig",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 204,
         "Name": "Pineco",
-        "[Method|Param|Target]": "[LevelingUp|31|Forretress]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "31",
+                "Target": "Forretress"
+            }
+        ]
     },
     {
         "ID": 205,
         "Name": "Forretress",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 206,
         "Name": "Dunsparce",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 207,
         "Name": "Gligar",
-        "[Method|Param|Target]": "[HeldItem_Night|Razor Fang|Gliscor]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Razor Fang",
+                "Target": "Gliscor"
+            }
+        ]
     },
     {
         "ID": 208,
         "Name": "Steelix",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 209,
         "Name": "Snubbull",
-        "[Method|Param|Target]": "[LevelingUp|23|Granbull]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "23",
+                "Target": "Granbull"
+            }
+        ]
     },
     {
         "ID": 210,
         "Name": "Granbull",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 211,
         "Name": "Qwilfish",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 212,
         "Name": "Scizor",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 213,
         "Name": "Shuckle",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 214,
         "Name": "Heracross",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 215,
         "Name": "Sneasel",
-        "[Method|Param|Target]": "[HeldItem_Night|Razor Claw|Weavile]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Razor Claw",
+                "Target": "Weavile"
+            }
+        ]
     },
     {
         "ID": 216,
         "Name": "Teddiursa",
-        "[Method|Param|Target]": "[LevelingUp|30|Ursaring]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Ursaring"
+            }
+        ]
     },
     {
         "ID": 217,
         "Name": "Ursaring",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 218,
         "Name": "Slugma",
-        "[Method|Param|Target]": "[LevelingUp|38|Magcargo]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "38",
+                "Target": "Magcargo"
+            }
+        ]
     },
     {
         "ID": 219,
         "Name": "Magcargo",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 220,
         "Name": "Swinub",
-        "[Method|Param|Target]": "[LevelingUp|33|Piloswine]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "33",
+                "Target": "Piloswine"
+            }
+        ]
     },
     {
         "ID": 221,
         "Name": "Piloswine",
-        "[Method|Param|Target]": "[KnowsMove|AncientPower|Mamoswine]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "AncientPower",
+                "Target": "Mamoswine"
+            }
+        ]
     },
     {
         "ID": 222,
         "Name": "Corsola",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 223,
         "Name": "Remoraid",
-        "[Method|Param|Target]": "[LevelingUp|25|Octillery]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Octillery"
+            }
+        ]
     },
     {
         "ID": 224,
         "Name": "Octillery",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 225,
         "Name": "Delibird",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 226,
         "Name": "Mantine",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 227,
         "Name": "Skarmory",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 228,
         "Name": "Houndour",
-        "[Method|Param|Target]": "[LevelingUp|24|Houndoom]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "24",
+                "Target": "Houndoom"
+            }
+        ]
     },
     {
         "ID": 229,
         "Name": "Houndoom",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 230,
         "Name": "Kingdra",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 231,
         "Name": "Phanpy",
-        "[Method|Param|Target]": "[LevelingUp|25|Donphan]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Donphan"
+            }
+        ]
     },
     {
         "ID": 232,
         "Name": "Donphan",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 233,
         "Name": "Porygon2",
-        "[Method|Param|Target]": "[Item|Dubious Disc|Porygon-Z]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Dubious Disc",
+                "Target": "Porygon-Z"
+            }
+        ]
     },
     {
         "ID": 234,
         "Name": "Stantler",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 235,
         "Name": "Smeargle",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 236,
         "Name": "Tyrogue",
-        "[Method|Param|Target]": "[Def_Greater_Atk|20|Hitmonchan]"
+        "Evolutions": [
+            {
+                "Method": "Def_Greater_Atk",
+                "Param": "20",
+                "Target": "Hitmonchan"
+            },
+            {
+                "Method": "Atk_Greater_Def",
+                "Param": "20",
+                "Target": "Hitmonlee"
+            },
+            {
+                "Method": "Atk_Equal_Def",
+                "Param": "20",
+                "Target": "Hitmontop"
+            }
+        ]
     },
     {
         "ID": 237,
         "Name": "Hitmontop",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 238,
         "Name": "Smoochum",
-        "[Method|Param|Target]": "[LevelingUp|30|Jynx]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Jynx"
+            }
+        ]
     },
     {
         "ID": 239,
         "Name": "Elekid",
-        "[Method|Param|Target]": "[LevelingUp|30|Electabuzz]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Electabuzz"
+            }
+        ]
     },
     {
         "ID": 240,
         "Name": "Magby",
-        "[Method|Param|Target]": "[LevelingUp|30|Magmar]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Magmar"
+            }
+        ]
     },
     {
         "ID": 241,
         "Name": "Miltank",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 242,
         "Name": "Blissey",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 243,
         "Name": "Raikou",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 244,
         "Name": "Entei",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 245,
         "Name": "Suicune",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 246,
         "Name": "Larvitar",
-        "[Method|Param|Target]": "[LevelingUp|30|Pupitar]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Pupitar"
+            }
+        ]
     },
     {
         "ID": 247,
         "Name": "Pupitar",
-        "[Method|Param|Target]": "[LevelingUp|55|Tyranitar]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "55",
+                "Target": "Tyranitar"
+            }
+        ]
     },
     {
         "ID": 248,
         "Name": "Tyranitar",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 249,
         "Name": "Lugia",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 250,
         "Name": "Ho-oh",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 251,
         "Name": "Celebi",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 252,
         "Name": "Treecko",
-        "[Method|Param|Target]": "[LevelingUp|16|Grovyle]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Grovyle"
+            }
+        ]
     },
     {
         "ID": 253,
         "Name": "Grovyle",
-        "[Method|Param|Target]": "[LevelingUp|36|Sceptile]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Sceptile"
+            }
+        ]
     },
     {
         "ID": 254,
         "Name": "Sceptile",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 255,
         "Name": "Torchic",
-        "[Method|Param|Target]": "[LevelingUp|16|Combusken]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Combusken"
+            }
+        ]
     },
     {
         "ID": 256,
         "Name": "Combusken",
-        "[Method|Param|Target]": "[LevelingUp|36|Blaziken]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Blaziken"
+            }
+        ]
     },
     {
         "ID": 257,
         "Name": "Blaziken",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 258,
         "Name": "Mudkip",
-        "[Method|Param|Target]": "[LevelingUp|16|Marshtomp]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Marshtomp"
+            }
+        ]
     },
     {
         "ID": 259,
         "Name": "Marshtomp",
-        "[Method|Param|Target]": "[LevelingUp|36|Swampert]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Swampert"
+            }
+        ]
     },
     {
         "ID": 260,
         "Name": "Swampert",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 261,
         "Name": "Poochyena",
-        "[Method|Param|Target]": "[LevelingUp|18|Mightyena]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Mightyena"
+            }
+        ]
     },
     {
         "ID": 262,
         "Name": "Mightyena",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 263,
         "Name": "Zigzagoon",
-        "[Method|Param|Target]": "[LevelingUp|20|Linoone]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Linoone"
+            }
+        ]
     },
     {
         "ID": 264,
         "Name": "Linoone",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 265,
         "Name": "Wurmple",
-        "[Method|Param|Target]": "[Personality1|7|Silcoon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "7",
+                "Target": "Silcoon"
+            },
+            {
+                "Method": "LevelingUp",
+                "Param": "7",
+                "Target": "Cascoon"
+            }
+        ]
     },
     {
         "ID": 266,
         "Name": "Silcoon",
-        "[Method|Param|Target]": "[LevelingUp|10|Beautifly]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "10",
+                "Target": "Beautifly"
+            }
+        ]
     },
     {
         "ID": 267,
         "Name": "Beautifly",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 268,
         "Name": "Cascoon",
-        "[Method|Param|Target]": "[LevelingUp|10|Dustox]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "10",
+                "Target": "Dustox"
+            }
+        ]
     },
     {
         "ID": 269,
         "Name": "Dustox",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 270,
         "Name": "Lotad",
-        "[Method|Param|Target]": "[LevelingUp|14|Lombre]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "14",
+                "Target": "Lombre"
+            }
+        ]
     },
     {
         "ID": 271,
         "Name": "Lombre",
-        "[Method|Param|Target]": "[Item|Water Stone|Ludicolo]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Water Stone",
+                "Target": "Ludicolo"
+            }
+        ]
     },
     {
         "ID": 272,
         "Name": "Ludicolo",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 273,
         "Name": "Seedot",
-        "[Method|Param|Target]": "[LevelingUp|14|Nuzleaf]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "14",
+                "Target": "Nuzleaf"
+            }
+        ]
     },
     {
         "ID": 274,
         "Name": "Nuzleaf",
-        "[Method|Param|Target]": "[Item|Leaf Stone|Shiftry]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Leaf Stone",
+                "Target": "Shiftry"
+            }
+        ]
     },
     {
         "ID": 275,
         "Name": "Shiftry",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 276,
         "Name": "Taillow",
-        "[Method|Param|Target]": "[LevelingUp|22|Swellow]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "22",
+                "Target": "Swellow"
+            }
+        ]
     },
     {
         "ID": 277,
         "Name": "Swellow",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 278,
         "Name": "Wingull",
-        "[Method|Param|Target]": "[LevelingUp|25|Pelipper]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Pelipper"
+            }
+        ]
     },
     {
         "ID": 279,
         "Name": "Pelipper",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 280,
         "Name": "Ralts",
-        "[Method|Param|Target]": "[LevelingUp|20|Kirlia]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Kirlia"
+            }
+        ]
     },
     {
         "ID": 281,
         "Name": "Kirlia",
-        "[Method|Param|Target]": "[LevelingUp|30|Gardevoir]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Gardevoir"
+            },
+            {
+                "Method": "ItemMale",
+                "Param": "Dawn Stone",
+                "Target": "Gallade"
+            }
+        ]
     },
     {
         "ID": 282,
         "Name": "Gardevoir",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 283,
         "Name": "Surskit",
-        "[Method|Param|Target]": "[LevelingUp|22|Masquerain]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "22",
+                "Target": "Masquerain"
+            }
+        ]
     },
     {
         "ID": 284,
         "Name": "Masquerain",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 285,
         "Name": "Shroomish",
-        "[Method|Param|Target]": "[LevelingUp|23|Breloom]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "23",
+                "Target": "Breloom"
+            }
+        ]
     },
     {
         "ID": 286,
         "Name": "Breloom",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 287,
         "Name": "Slakoth",
-        "[Method|Param|Target]": "[LevelingUp|18|Vigoroth]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Vigoroth"
+            }
+        ]
     },
     {
         "ID": 288,
         "Name": "Vigoroth",
-        "[Method|Param|Target]": "[LevelingUp|36|Slaking]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Slaking"
+            }
+        ]
     },
     {
         "ID": 289,
         "Name": "Slaking",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 290,
         "Name": "Nincada",
-        "[Method|Param|Target]": "[FreeSpaceCheck|20|Ninjask]"
+        "Evolutions": [
+            {
+                "Method": "FreeSpaceCheck",
+                "Param": "20",
+                "Target": "Ninjask"
+            },
+            {
+                "Method": "Shedinja",
+                "Param": "20",
+                "Target": "Shedinja"
+            }
+        ]
     },
     {
         "ID": 291,
         "Name": "Ninjask",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 292,
         "Name": "Shedinja",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 293,
         "Name": "Whismur",
-        "[Method|Param|Target]": "[LevelingUp|20|Loudred]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Loudred"
+            }
+        ]
     },
     {
         "ID": 294,
         "Name": "Loudred",
-        "[Method|Param|Target]": "[LevelingUp|40|Exploud]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Exploud"
+            }
+        ]
     },
     {
         "ID": 295,
         "Name": "Exploud",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 296,
         "Name": "Makuhita",
-        "[Method|Param|Target]": "[LevelingUp|24|Hariyama]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "24",
+                "Target": "Hariyama"
+            }
+        ]
     },
     {
         "ID": 297,
         "Name": "Hariyama",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 298,
         "Name": "Azurill",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Marill]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Marill"
+            }
+        ]
     },
     {
         "ID": 299,
         "Name": "Nosepass",
-        "[Method|Param|Target]": "[Item|Voltaic Ore|Probopass]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Voltaic Ore",
+                "Target": "Probopass"
+            }
+        ]
     },
     {
         "ID": 300,
         "Name": "Skitty",
-        "[Method|Param|Target]": "[Item|Moon Stone|Delcatty]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Moon Stone",
+                "Target": "Delcatty"
+            }
+        ]
     },
     {
         "ID": 301,
         "Name": "Delcatty",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 302,
         "Name": "Sableye",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 303,
         "Name": "Mawile",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 304,
         "Name": "Aron",
-        "[Method|Param|Target]": "[LevelingUp|32|Lairon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Lairon"
+            }
+        ]
     },
     {
         "ID": 305,
         "Name": "Lairon",
-        "[Method|Param|Target]": "[LevelingUp|42|Aggron]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "42",
+                "Target": "Aggron"
+            }
+        ]
     },
     {
         "ID": 306,
         "Name": "Aggron",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 307,
         "Name": "Meditite",
-        "[Method|Param|Target]": "[LevelingUp|37|Medicham]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "37",
+                "Target": "Medicham"
+            }
+        ]
     },
     {
         "ID": 308,
         "Name": "Medicham",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 309,
         "Name": "Electrike",
-        "[Method|Param|Target]": "[LevelingUp|26|Manectric]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "26",
+                "Target": "Manectric"
+            }
+        ]
     },
     {
         "ID": 310,
         "Name": "Manectric",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 311,
         "Name": "Plusle",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 312,
         "Name": "Minun",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 313,
         "Name": "Volbeat",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 314,
         "Name": "Illumise",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 315,
         "Name": "Roselia",
-        "[Method|Param|Target]": "[Item|Shiny Stone|Roserade]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Shiny Stone",
+                "Target": "Roserade"
+            }
+        ]
     },
     {
         "ID": 316,
         "Name": "Gulpin",
-        "[Method|Param|Target]": "[LevelingUp|26|Swalot]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "26",
+                "Target": "Swalot"
+            }
+        ]
     },
     {
         "ID": 317,
         "Name": "Swalot",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 318,
         "Name": "Carvanha",
-        "[Method|Param|Target]": "[LevelingUp|30|Sharpedo]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Sharpedo"
+            }
+        ]
     },
     {
         "ID": 319,
         "Name": "Sharpedo",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 320,
         "Name": "Wailmer",
-        "[Method|Param|Target]": "[LevelingUp|40|Wailord]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Wailord"
+            }
+        ]
     },
     {
         "ID": 321,
         "Name": "Wailord",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 322,
         "Name": "Numel",
-        "[Method|Param|Target]": "[LevelingUp|33|Camerupt]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "33",
+                "Target": "Camerupt"
+            }
+        ]
     },
     {
         "ID": 323,
         "Name": "Camerupt",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 324,
         "Name": "Torkoal",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 325,
         "Name": "Spoink",
-        "[Method|Param|Target]": "[LevelingUp|32|Grumpig]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Grumpig"
+            }
+        ]
     },
     {
         "ID": 326,
         "Name": "Grumpig",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 327,
         "Name": "Spinda",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 328,
         "Name": "Trapinch",
-        "[Method|Param|Target]": "[LevelingUp|35|Vibrava]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "35",
+                "Target": "Vibrava"
+            }
+        ]
     },
     {
         "ID": 329,
         "Name": "Vibrava",
-        "[Method|Param|Target]": "[LevelingUp|45|Flygon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "45",
+                "Target": "Flygon"
+            }
+        ]
     },
     {
         "ID": 330,
         "Name": "Flygon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 331,
         "Name": "Cacnea",
-        "[Method|Param|Target]": "[LevelingUp|32|Cacturne]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Cacturne"
+            }
+        ]
     },
     {
         "ID": 332,
         "Name": "Cacturne",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 333,
         "Name": "Swablu",
-        "[Method|Param|Target]": "[LevelingUp|35|Altaria]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "35",
+                "Target": "Altaria"
+            }
+        ]
     },
     {
         "ID": 334,
         "Name": "Altaria",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 335,
         "Name": "Zangoose",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 336,
         "Name": "Seviper",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 337,
         "Name": "Lunatone",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 338,
         "Name": "Solrock",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 339,
         "Name": "Barboach",
-        "[Method|Param|Target]": "[LevelingUp|30|Whiscash]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Whiscash"
+            }
+        ]
     },
     {
         "ID": 340,
         "Name": "Whiscash",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 341,
         "Name": "Corphish",
-        "[Method|Param|Target]": "[LevelingUp|30|Crawdaunt]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Crawdaunt"
+            }
+        ]
     },
     {
         "ID": 342,
         "Name": "Crawdaunt",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 343,
         "Name": "Baltoy",
-        "[Method|Param|Target]": "[LevelingUp|36|Claydol]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Claydol"
+            }
+        ]
     },
     {
         "ID": 344,
         "Name": "Claydol",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 345,
         "Name": "Lileep",
-        "[Method|Param|Target]": "[LevelingUp|40|Cradily]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Cradily"
+            }
+        ]
     },
     {
         "ID": 346,
         "Name": "Cradily",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 347,
         "Name": "Anorith",
-        "[Method|Param|Target]": "[LevelingUp|40|Armaldo]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Armaldo"
+            }
+        ]
     },
     {
         "ID": 348,
         "Name": "Armaldo",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 349,
         "Name": "Feebas",
-        "[Method|Param|Target]": "[BeautyThreshold|0|Milotic]"
+        "Evolutions": [
+            {
+                "Method": "Beauty",
+                "Param": "170",
+                "Target": "Milotic"
+            }
+        ]
     },
     {
         "ID": 350,
         "Name": "Milotic",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 351,
         "Name": "Castform",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 352,
         "Name": "Kecleon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 353,
         "Name": "Shuppet",
-        "[Method|Param|Target]": "[LevelingUp|37|Banette]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "37",
+                "Target": "Banette"
+            }
+        ]
     },
     {
         "ID": 354,
         "Name": "Banette",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 355,
         "Name": "Duskull",
-        "[Method|Param|Target]": "[LevelingUp|37|Dusclops]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "37",
+                "Target": "Dusclops"
+            }
+        ]
     },
     {
         "ID": 356,
         "Name": "Dusclops",
-        "[Method|Param|Target]": "[Item|Reaper Cloth|Dusknoir]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Reaper Cloth",
+                "Target": "Dusknoir"
+            }
+        ]
     },
     {
         "ID": 357,
         "Name": "Tropius",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 358,
         "Name": "Chimecho",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 359,
         "Name": "Absol",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 360,
         "Name": "Wynaut",
-        "[Method|Param|Target]": "[LevelingUp|15|Wobbuffet]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "15",
+                "Target": "Wobbuffet"
+            }
+        ]
     },
     {
         "ID": 361,
         "Name": "Snorunt",
-        "[Method|Param|Target]": "[LevelingUp|42|Glalie]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "42",
+                "Target": "Glalie"
+            },
+            {
+                "Method": "Item",
+                "Param": "Dawn Stone",
+                "Target": "Froslass"
+            }
+        ]
     },
     {
         "ID": 362,
         "Name": "Glalie",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 363,
         "Name": "Spheal",
-        "[Method|Param|Target]": "[LevelingUp|32|Sealeo]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Sealeo"
+            }
+        ]
     },
     {
         "ID": 364,
         "Name": "Sealeo",
-        "[Method|Param|Target]": "[LevelingUp|44|Walrein]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "44",
+                "Target": "Walrein"
+            }
+        ]
     },
     {
         "ID": 365,
         "Name": "Walrein",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 366,
         "Name": "Clamperl",
-        "[Method|Param|Target]": "[Item|DeepSeaTooth|Huntail]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "Deep-Sea-Tooth",
+                "Target": "Huntail"
+            },
+            {
+                "Method": "Item",
+                "Param": "Deep-Sea-Scale",
+                "Target": "Gorebyss"
+            }
+        ]
     },
     {
         "ID": 367,
         "Name": "Huntail",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 368,
         "Name": "Gorebyss",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 369,
         "Name": "Relicanth",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 370,
         "Name": "Luvdisc",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 371,
         "Name": "Bagon",
-        "[Method|Param|Target]": "[LevelingUp|30|Shelgon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Shelgon"
+            }
+        ]
     },
     {
         "ID": 372,
         "Name": "Shelgon",
-        "[Method|Param|Target]": "[LevelingUp|50|Salamence]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "50",
+                "Target": "Salamence"
+            }
+        ]
     },
     {
         "ID": 373,
         "Name": "Salamence",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 374,
         "Name": "Beldum",
-        "[Method|Param|Target]": "[LevelingUp|20|Metang]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "20",
+                "Target": "Metang"
+            }
+        ]
     },
     {
         "ID": 375,
         "Name": "Metang",
-        "[Method|Param|Target]": "[LevelingUp|45|Metagross]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "45",
+                "Target": "Metagross"
+            }
+        ]
     },
     {
         "ID": 376,
         "Name": "Metagross",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 377,
         "Name": "Regirock",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 378,
         "Name": "Regice",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 379,
         "Name": "Registeel",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 380,
         "Name": "Latias",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 381,
         "Name": "Latios",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 382,
         "Name": "Kyogre",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 383,
         "Name": "Groudon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 384,
         "Name": "Rayquaza",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 385,
         "Name": "Jirachi",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 386,
         "Name": "Deoxys",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 387,
         "Name": "Turtwig",
-        "[Method|Param|Target]": "[LevelingUp|18|Grotle]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "18",
+                "Target": "Grotle"
+            }
+        ]
     },
     {
         "ID": 388,
         "Name": "Grotle",
-        "[Method|Param|Target]": "[LevelingUp|32|Torterra]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "32",
+                "Target": "Torterra"
+            }
+        ]
     },
     {
         "ID": 389,
         "Name": "Torterra",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 390,
         "Name": "Chimchar",
-        "[Method|Param|Target]": "[LevelingUp|14|Monferno]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "14",
+                "Target": "Monferno"
+            }
+        ]
     },
     {
         "ID": 391,
         "Name": "Monferno",
-        "[Method|Param|Target]": "[LevelingUp|36|Infernape]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Infernape"
+            }
+        ]
     },
     {
         "ID": 392,
         "Name": "Infernape",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 393,
         "Name": "Piplup",
-        "[Method|Param|Target]": "[LevelingUp|16|Prinplup]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "16",
+                "Target": "Prinplup"
+            }
+        ]
     },
     {
         "ID": 394,
         "Name": "Prinplup",
-        "[Method|Param|Target]": "[LevelingUp|36|Empoleon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "36",
+                "Target": "Empoleon"
+            }
+        ]
     },
     {
         "ID": 395,
         "Name": "Empoleon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 396,
         "Name": "Starly",
-        "[Method|Param|Target]": "[LevelingUp|14|Staravia]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "14",
+                "Target": "Staravia"
+            }
+        ]
     },
     {
         "ID": 397,
         "Name": "Staravia",
-        "[Method|Param|Target]": "[LevelingUp|34|Staraptor]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "34",
+                "Target": "Staraptor"
+            }
+        ]
     },
     {
         "ID": 398,
         "Name": "Staraptor",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 399,
         "Name": "Bidoof",
-        "[Method|Param|Target]": "[LevelingUp|15|Bibarel]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "15",
+                "Target": "Bibarel"
+            }
+        ]
     },
     {
         "ID": 400,
         "Name": "Bibarel",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 401,
         "Name": "Kricketot",
-        "[Method|Param|Target]": "[LevelingUp|10|Kricketune]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "10",
+                "Target": "Kricketune"
+            }
+        ]
     },
     {
         "ID": 402,
         "Name": "Kricketune",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 403,
         "Name": "Shinx",
-        "[Method|Param|Target]": "[LevelingUp|15|Luxio]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "15",
+                "Target": "Luxio"
+            }
+        ]
     },
     {
         "ID": 404,
         "Name": "Luxio",
-        "[Method|Param|Target]": "[LevelingUp|30|Luxray]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Luxray"
+            }
+        ]
     },
     {
         "ID": 405,
         "Name": "Luxray",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 406,
         "Name": "Budew",
-        "[Method|Param|Target]": "[Friendship220_Day|Ignored|Roselia]"
+        "Evolutions": [
+            {
+                "Method": "Friendship at Day",
+                "Param": "220",
+                "Target": "Roselia"
+            }
+        ]
     },
     {
         "ID": 407,
         "Name": "Roserade",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 408,
         "Name": "Cranidos",
-        "[Method|Param|Target]": "[LevelingUp|30|Rampardos]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Rampardos"
+            }
+        ]
     },
     {
         "ID": 409,
         "Name": "Rampardos",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 410,
         "Name": "Shieldon",
-        "[Method|Param|Target]": "[LevelingUp|30|Bastiodon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Bastiodon"
+            }
+        ]
     },
     {
         "ID": 411,
         "Name": "Bastiodon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 412,
         "Name": "Burmy",
-        "[Method|Param|Target]": "[LevelingUp_Female|0|Wormadam]"
+        "Evolutions": [
+            {
+                "Method": "Leveling up Female",
+                "Param": "20",
+                "Target": "Wormadam"
+            },
+            {
+                "Method": "Leveling up Male",
+                "Param": "20",
+                "Target": "Mothim"
+            }
+        ]
     },
     {
         "ID": 413,
         "Name": "Wormadam",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 414,
         "Name": "Mothim",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 415,
         "Name": "Combee",
-        "[Method|Param|Target]": "[LevelingUp_Female|0|Vespiquen]"
+        "Evolutions": [
+            {
+                "Method": "Leveling up Female",
+                "Param": "21",
+                "Target": "Vespiquen"
+            }
+        ]
     },
     {
         "ID": 416,
         "Name": "Vespiquen",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 417,
         "Name": "Pachirisu",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 418,
         "Name": "Buizel",
-        "[Method|Param|Target]": "[LevelingUp|26|Floatzel]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "26",
+                "Target": "Floatzel"
+            }
+        ]
     },
     {
         "ID": 419,
         "Name": "Floatzel",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 420,
         "Name": "Cherubi",
-        "[Method|Param|Target]": "[LevelingUp|25|Cherrim]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "25",
+                "Target": "Cherrim"
+            }
+        ]
     },
     {
         "ID": 421,
         "Name": "Cherrim",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 422,
         "Name": "Shellos",
-        "[Method|Param|Target]": "[LevelingUp|30|Gastrodon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "30",
+                "Target": "Gastrodon"
+            }
+        ]
     },
     {
         "ID": 423,
         "Name": "Gastrodon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 424,
         "Name": "Ambipom",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 425,
         "Name": "Drifloon",
-        "[Method|Param|Target]": "[LevelingUp|28|Drifblim]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "28",
+                "Target": "Drifblim"
+            }
+        ]
     },
     {
         "ID": 426,
         "Name": "Drifblim",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 427,
         "Name": "Buneary",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Lopunny]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Lopunny"
+            }
+        ]
     },
     {
         "ID": 428,
         "Name": "Lopunny",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 429,
         "Name": "Mismagius",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 430,
         "Name": "Honchkrow",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 431,
         "Name": "Glameow",
-        "[Method|Param|Target]": "[LevelingUp|38|Purugly]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "38",
+                "Target": "Purugly"
+            }
+        ]
     },
     {
         "ID": 432,
         "Name": "Purugly",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 433,
         "Name": "Chingling",
-        "[Method|Param|Target]": "[Friendship220_Night|Ignored|Chimecho]"
+        "Evolutions": [
+            {
+                "Method": "Friendship at Night",
+                "Param": "220",
+                "Target": "Chimecho"
+            }
+        ]
     },
     {
         "ID": 434,
         "Name": "Stunky",
-        "[Method|Param|Target]": "[LevelingUp|34|Skuntank]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "34",
+                "Target": "Skuntank"
+            }
+        ]
     },
     {
         "ID": 435,
         "Name": "Skuntank",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 436,
         "Name": "Bronzor",
-        "[Method|Param|Target]": "[LevelingUp|33|Bronzong]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "33",
+                "Target": "Bronzong"
+            }
+        ]
     },
     {
         "ID": 437,
         "Name": "Bronzong",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 438,
         "Name": "Bonsly",
-        "[Method|Param|Target]": "[KnowsMove|Mimic|Sudowoodo]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "Mimic",
+                "Target": "Sudowoodo"
+            }
+        ]
     },
     {
         "ID": 439,
         "Name": "Mime Jr.",
-        "[Method|Param|Target]": "[KnowsMove|Mimic|Mr. Mime]"
+        "Evolutions": [
+            {
+                "Method": "KnowsMove",
+                "Param": "Mimic",
+                "Target": "Mr. Mime"
+            }
+        ]
     },
     {
         "ID": 440,
         "Name": "Happiny",
-        "[Method|Param|Target]": "[HeldItem_Day|Oval Stone|Chansey]"
+        "Evolutions": [
+            {
+                "Method": "Item",
+                "Param": "oval-stone",
+                "Target": "Chansey"
+            }
+        ]
     },
     {
         "ID": 441,
         "Name": "Chatot",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 442,
         "Name": "Spiritomb",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 443,
         "Name": "Gible",
-        "[Method|Param|Target]": "[LevelingUp|24|Gabite]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "24",
+                "Target": "Gabite"
+            }
+        ]
     },
     {
         "ID": 444,
         "Name": "Gabite",
-        "[Method|Param|Target]": "[LevelingUp|48|Garchomp]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "48",
+                "Target": "Garchomp"
+            }
+        ]
     },
     {
         "ID": 445,
         "Name": "Garchomp",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 446,
         "Name": "Munchlax",
-        "[Method|Param|Target]": "[Friendship220|Ignored|Snorlax]"
+        "Evolutions": [
+            {
+                "Method": "Friendship",
+                "Param": "220",
+                "Target": "Snorlax"
+            }
+        ]
     },
     {
         "ID": 447,
         "Name": "Riolu",
-        "[Method|Param|Target]": "[Friendship220_Day|Ignored|Lucario]"
+        "Evolutions": [
+            {
+                "Method": "Friendship at Day",
+                "Param": "220",
+                "Target": "Lucario"
+            }
+        ]
     },
     {
         "ID": 448,
         "Name": "Lucario",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 449,
         "Name": "Hippopotas",
-        "[Method|Param|Target]": "[LevelingUp|34|Hippowdon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "34",
+                "Target": "Hippowdon"
+            }
+        ]
     },
     {
         "ID": 450,
         "Name": "Hippowdon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 451,
         "Name": "Skorupi",
-        "[Method|Param|Target]": "[LevelingUp|40|Drapion]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Drapion"
+            }
+        ]
     },
     {
         "ID": 452,
         "Name": "Drapion",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 453,
         "Name": "Croagunk",
-        "[Method|Param|Target]": "[LevelingUp|37|Toxicroak]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "37",
+                "Target": "Toxicroak"
+            }
+        ]
     },
     {
         "ID": 454,
         "Name": "Toxicroak",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 455,
         "Name": "Carnivine",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 456,
         "Name": "Finneon",
-        "[Method|Param|Target]": "[LevelingUp|31|Lumineon]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "31",
+                "Target": "Lumineon"
+            }
+        ]
     },
     {
         "ID": 457,
         "Name": "Lumineon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 458,
         "Name": "Mantyke",
-        "[Method|Param|Target]": "[PartyPokemonPresence|Voltorb|Mantine]"
+        "Evolutions": [
+            {
+                "Method": "PartyPokemonPresence",
+                "Param": "Remoraid",
+                "Target": "Mantine"
+            }
+        ]
     },
     {
         "ID": 459,
         "Name": "Snover",
-        "[Method|Param|Target]": "[LevelingUp|40|Abomasnow]"
+        "Evolutions": [
+            {
+                "Method": "LevelingUp",
+                "Param": "40",
+                "Target": "Abomasnow"
+            }
+        ]
     },
     {
         "ID": 460,
         "Name": "Abomasnow",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 461,
         "Name": "Weavile",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 462,
         "Name": "Magnezone",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 463,
         "Name": "Lickilicky",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 464,
         "Name": "Rhyperior",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 465,
         "Name": "Tangrowth",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 466,
         "Name": "Electivire",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 467,
         "Name": "Magmortar",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 468,
         "Name": "Togekiss",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 469,
         "Name": "Yanmega",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 470,
         "Name": "Leafeon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 471,
         "Name": "Glaceon",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 472,
         "Name": "Gliscor",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 473,
         "Name": "Mamoswine",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 474,
         "Name": "Porygon-Z",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 475,
         "Name": "Gallade",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 476,
         "Name": "Probopass",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 477,
         "Name": "Dusknoir",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 478,
         "Name": "Froslass",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 479,
         "Name": "Rotom",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 480,
         "Name": "Uxie",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 481,
         "Name": "Mesprit",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 482,
         "Name": "Azelf",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 483,
         "Name": "Dialga",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 484,
         "Name": "Palkia",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 485,
         "Name": "Heatran",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 486,
         "Name": "Regigigas",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 487,
         "Name": "Giratina",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 488,
         "Name": "Cresselia",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 489,
         "Name": "Phione",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 490,
         "Name": "Manaphy",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 491,
         "Name": "Darkrai",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 492,
         "Name": "Shaymin",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 493,
         "Name": "Arceus",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 494,
         "Name": "Egg",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 495,
         "Name": "Bad Egg",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 496,
         "Name": "Deoxys - Attack",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 497,
         "Name": "Deoxys - Defense",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 498,
         "Name": "Deoxys - Speed",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 499,
         "Name": "Wormadam - Sandy",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 500,
         "Name": "Wormadam - Trash",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 501,
         "Name": "Giratina - Origin",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 502,
         "Name": "Shaymin - Sky",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 503,
         "Name": "Rotom - Heat",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 504,
         "Name": "Rotom - Wash",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 505,
         "Name": "Rotom - Frost",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 506,
         "Name": "Rotom - Fan",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     },
     {
         "ID": 507,
         "Name": "Rotom - Mow",
-        "[Method|Param|Target]": ""
+        "Evolutions": []
     }
 ]

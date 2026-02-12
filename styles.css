@@ -8,14 +8,22 @@
 }
 
 :root{
+    /* ### Color ### */
     --White: #fff;
-    --Black: #000;
+    --Black: #171716;
+    --Color-1: #D7B957;
+    --Color-2: #9EA5A8;
 }
 
 /* ###### Body ###### */
 body{
-    background-color: rgb(0, 82, 150);
+    background-color: var(--Color-2);
     font-family: "Roboto", sans-serif;
+    color: var(--Black);
+
+    a{
+        color: var(--Black);
+    }
 }
 
 /* ###### Nav ###### */
@@ -25,7 +33,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--White);
+    background-color: var(--Color-1);
     padding: 10px 15px;
     box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
     z-index: 50;
@@ -73,14 +81,14 @@ nav{
         }
     }
     .dropdown_content{
-        border-top: 2px solid var(--Black);
+        border-top: 2px solid var(--White);
         padding: 15px;
         display: flex;
         align-items: center;
         flex-direction: column;
         gap: 15px;
         position: absolute;
-        background-color: var(--White);
+        background-color: var(--Color-1);
         width: 100%;
         top: 50px;
         left: -100%;
@@ -88,7 +96,6 @@ nav{
         box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
         
         a{
-            color: var(--Black);
             font-size: 20px;
             font-weight: 600;
             text-decoration: none;
@@ -139,7 +146,6 @@ main{
                 position: relative;
                 text-decoration: none;
                 font-size: 20px;
-                color: var(--Black);
                 cursor: pointer;
             }
             a::after{

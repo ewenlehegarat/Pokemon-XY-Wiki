@@ -1,12 +1,18 @@
 async function getPokemon() {
   try {
     const response = await fetch("../json/PokemonPersonalData.json");
-    const reponseTwo = await fetch("../json/LearnsetData.json");
+    const responseLearn = await fetch("../json/LearnsetData.json");
+    const responseEvo = await fetch("../json/EvolutionData.json");
+    const responseTM = await fetch("../json/TMHMData.json");
     const data = await response.json();
-    const dataTwo = await reponseTwo.json()
+    const dataLearn = await responseLearn.json();
+    const dataEvo = await responseEvo.json();
+    const dataTM = await responseTM.json();
 
     const resultat = data;
-    const resultatTwo = dataTwo
+    const resultatLearn = dataLearn;
+    const resultatEvo = dataEvo;
+    const resultatTM = dataTM;
 
     const pokemonContainer = document.querySelector('.pokemon_container');
 
@@ -29,7 +35,7 @@ async function getPokemon() {
       const pokemonNom = document.createElement('h2');
       pokemonNom.textContent = pokemon.Name;
 
-      const pokemonPokedexId = document.createElement('h3');
+      const pokemonPokedexId = document.createElement('h2');
       pokemonPokedexId.textContent = '#' + String(pokemon.ID).padStart(3, '0');
 
       pokemonTop.append(pokemonNom, pokemonPokedexId);
@@ -39,7 +45,8 @@ async function getPokemon() {
       pokemonImg.classList.add('pokemon_sprite');
       
       // Gérer les formes alternatives (Deoxys-Attack, etc.)
-      if (pokemon.Name.includes('-')) {
+      // Exception pour les pokémon avec tiret dans le nom (Ho-Oh, Nidoran-M, Porygon-Z, etc.)
+      if (pokemon.Name.includes('-') && !['Ho-Oh', 'Ho-oh', 'Nidoran-M', 'Nidoran-F', 'Porygon-Z', 'Porygon-z'].includes(pokemon.Name)) {
         const forme = pokemon.Name.split('-')[1].toLowerCase();
         pokemonImg.src = `img/pokemon_animated_sprite/${pokemon.ID}-${forme}.gif`;
       } else {
@@ -75,7 +82,7 @@ async function getPokemon() {
       const typesContainer = document.createElement('div');
       typesContainer.classList.add('types_container');
 
-      const types = [pokemon.Type1, pokemon.Type2].filter(t => t && t !== '-');
+      const types = [pokemon.Type1, pokemon.Type2].filter((t, index, arr) => t && t !== '-' && arr.indexOf(t) === index);
       types.forEach(type => {
         const typeImg = document.createElement('img');
         typeImg.src = `./img/type/${type.toLowerCase()}.png`;
@@ -121,7 +128,7 @@ async function getPokemon() {
       );
       
       // Ajouter le learnset correspondant au Pokémon courant
-      const learnEntry = resultatTwo.find(entry => entry.ID === pokemon.ID || entry.Name === pokemon.Name);
+      const learnEntry = resultatLearn.find(entry => entry.ID === pokemon.ID || entry.Name === pokemon.Name);
       if (learnEntry && Array.isArray(learnEntry.Learnset) && learnEntry.Learnset.length) {
         const learnDiv = document.createElement('div');
         learnDiv.classList.add('learnset');
@@ -139,6 +146,119 @@ async function getPokemon() {
 
         learnDiv.appendChild(ul);
         pokemonDiv.appendChild(learnDiv);
+
+        // Ajouter la liste des TM / HM pour ce pokémon
+        const tmEntry = resultatTM.find(entry => entry.ID === pokemon.ID || entry.Name === pokemon.Name);
+        if (tmEntry) {
+          const tmDiv = document.createElement('div');
+          tmDiv.classList.add('tmhm');
+
+          const tmTitle = document.createElement('h3');
+          tmTitle.textContent = 'TM / HM :';
+          tmDiv.appendChild(tmTitle);
+
+          const ulTm = document.createElement('ul');
+          Object.keys(tmEntry).forEach(key => {
+            if (/^(TM|HM)/i.test(key)) {
+              const val = String(tmEntry[key]).toLowerCase();
+              if (val.includes('true')) {
+                const li = document.createElement('li');
+                const display = key.replace(/\[|\]|"/g, '').trim();
+                li.textContent = display;
+                ulTm.appendChild(li);
+              }
+            }
+          });
+
+          if (ulTm.childElementCount > 0) {
+            tmDiv.appendChild(ulTm);
+            pokemonDiv.appendChild(tmDiv);
+          }
+        }
+      }
+
+      // Ajouter les évolutions
+      const evoEntry = resultatEvo.find(entry => entry.ID === pokemon.ID || entry.Name === pokemon.Name);
+      if (evoEntry && Array.isArray(evoEntry.Evolutions) && evoEntry.Evolutions.length > 0) {
+        const evoDiv = document.createElement('div');
+        evoDiv.classList.add('evolution');
+
+        const evoTitle = document.createElement('h3');
+        evoTitle.textContent = 'Evolutions :';
+        evoDiv.appendChild(evoTitle);
+
+        const evoContainer = document.createElement('div');
+        evoContainer.classList.add('evo_container')
+        evoContainer.style.display = 'flex';
+        evoContainer.style.gap = '10px';
+        evoContainer.style.flexWrap = 'wrap';
+        evoContainer.style.alignItems = 'center';
+        
+        evoEntry.Evolutions.forEach((evo) => {
+          // Trouver le pokémon cible
+          const targetPokemon = resultat.find(p => p.Name === evo.Target);
+          
+          if (targetPokemon) {
+            // Créer une enveloppe pour chaque évolution
+            const itemDiv = document.createElement('div');
+            itemDiv.style.textAlign = 'center';
+            
+            // Ajouter le texte ou l'icône de méthode
+            const itemFileName = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+            let methodElement;
+            if (evo.Method === 'LevelingUp') {
+              methodElement = document.createElement('p');
+              methodElement.style.marginBottom = '10px';
+              methodElement.style.fontSize = '12px';
+              methodElement.textContent = `Level ${evo.Param}`;
+            } else if (evo.Method === 'Item') {
+              // afficher l'image de l'objet si elle existe, sinon fallback texte
+              const itemImg = document.createElement('img');
+              itemImg.alt = evo.Param;
+              itemImg.style.width = '32px';
+              itemImg.style.height = '32px';
+              itemImg.style.objectFit = 'contain';
+              itemImg.style.marginBottom = '8px';
+              itemImg.src = `./img/items/${itemFileName(evo.Param)}.png`;
+              itemImg.addEventListener('error', () => {
+                const span = document.createElement('span');
+                span.textContent = evo.Param;
+                span.style.fontSize = '12px';
+                if (itemImg.parentNode) itemImg.parentNode.replaceChild(span, itemImg);
+              });
+              methodElement = itemImg;
+            } else if (evo.Method === 'Trade') {
+              methodElement = document.createElement('p');
+              methodElement.style.marginBottom = '10px';
+              methodElement.style.fontSize = '12px';
+              methodElement.textContent = 'Trade';
+            } else {
+              methodElement = document.createElement('p');
+              methodElement.style.marginBottom = '10px';
+              methodElement.style.fontSize = '12px';
+              methodElement.textContent = `${evo.Method}${evo.Param ? ' (' + evo.Param + ')' : ''}`;
+            }
+            
+            // Créer l'image du pokémon évolué
+            const evoImg = document.createElement('img');
+            evoImg.alt = evo.Target;
+            evoImg.style.maxWidth = '100px';
+            evoImg.style.maxHeight = '100px';
+            
+            if (targetPokemon.Name.includes('-') && !['Ho-Oh', 'Ho-oh', 'Nidoran-M', 'Nidoran-F', 'Porygon-Z'].includes(targetPokemon.Name)) {
+              const forme = targetPokemon.Name.split('-')[1].toLowerCase();
+              evoImg.src = `img/pokemon_animated_sprite/${targetPokemon.ID}-${forme}.gif`;
+            } else {
+              evoImg.src = `img/pokemon_animated_sprite/${targetPokemon.ID}.gif`;
+            }
+            
+            itemDiv.append(methodElement, evoImg);
+            evoContainer.appendChild(itemDiv);
+          }
+        });
+        
+        evoDiv.appendChild(evoContainer);
+        pokemonDiv.appendChild(evoDiv);
       }
 
       pokemonContainer.appendChild(pokemonDiv);
