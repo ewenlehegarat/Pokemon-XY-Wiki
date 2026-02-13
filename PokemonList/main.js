@@ -126,6 +126,10 @@ async function getPokemon() {
         typesContainer,
         divStats
       );
+      // ajouter attributs de données pour faciliter la recherche
+      pokemonDiv.dataset.name = String(pokemon.Name || '').toLowerCase();
+      pokemonDiv.dataset.pokedex = String(pokemon.ID).padStart(3, '0');
+      pokemonDiv.dataset.types = types.join(',').toLowerCase();
       
       // Ajouter le learnset correspondant au Pokémon courant
       const learnEntry = resultatLearn.find(entry => entry.ID === pokemon.ID || entry.Name === pokemon.Name);
@@ -291,6 +295,26 @@ async function getPokemon() {
     }
 
     console.log(resultat);
+
+    // Recherche: filtrer les cartes en fonction de l'input
+    const searchInput = document.getElementById('searchInput') || document.querySelector('input[type="text"]');
+    if (searchInput) {
+      searchInput.addEventListener('input', () => {
+        const raw = searchInput.value.trim().toLowerCase();
+        const q = raw.replace('#', '');
+        const cards = pokemonContainer.querySelectorAll('.pokemon_div');
+        cards.forEach(card => {
+          const name = card.dataset.name || '';
+          const pokedex = card.dataset.pokedex || '';
+          const types = card.dataset.types || '';
+          const pokedexNumber = String(Number(pokedex));
+
+          const match = !q || name.includes(q) || pokedex.includes(q.padStart(3, '0')) || pokedexNumber.includes(q) || types.includes(q);
+
+          card.style.display = match ? '' : 'none';
+        });
+      });
+    }
     
 
   } catch (erreur) {

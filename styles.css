@@ -132,6 +132,9 @@ main{
     h1{
         font-size: 25px;
     }
+    .image_1{
+        transform: scaleX(-1);
+    }
 }
 
 @media screen and (min-width: 768px) {
