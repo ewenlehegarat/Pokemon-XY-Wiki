@@ -238,7 +238,7 @@ main{
                 .barre_spe {
                     position: absolute;
                     top: 0;
-                    left: 80px;
+                    left: 100px;
                     height: 20px;
                     max-width: 175px;
                     border: 1px solid var(--Black);

@@ -150,8 +150,7 @@
         "BaseSpecialAttack": 25,
         "BaseSpecialDefense": 25,
         "BaseSpeed": 30,
-        "Ability1": "Shed Skin",
-        "Ability2": "Shed Skin"
+        "Ability1": "Shed Skin"
     },
     {
         "ID": 12,
@@ -165,7 +164,15 @@
         "BaseSpecialDefense": 100,
         "BaseSpeed": 80,
         "Ability1": "Compoundeyes",
-        "Ability2": "Tinted Lens"
+        "Ability2": "Tinted Lens",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 20,
+            "spe": 10
+        }
     },
     {
         "ID": 13,
@@ -192,8 +199,7 @@
         "BaseSpecialAttack": 25,
         "BaseSpecialDefense": 25,
         "BaseSpeed": 35,
-        "Ability1": "Shed Skin",
-        "Ability2": "Shed Skin"
+        "Ability1": "Shed Skin"
     },
     {
         "ID": 15,
@@ -207,7 +213,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 95,
         "Ability1": "Swarm",
-        "Ability2": "Sniper"
+        "Ability2": "Sniper",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": 0,
+            "spd": 10,
+            "spe": 20
+        }
     },
     {
         "ID": 16,
@@ -249,7 +263,15 @@
         "BaseSpecialDefense": 70,
         "BaseSpeed": 91,
         "Ability1": "Keen Eye",
-        "Ability2": "Tangled Feet"
+        "Ability2": "Tangled Feet",
+        "buffs": {
+            "hp": 20,
+            "atk": 11,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 19,
@@ -277,7 +299,15 @@
         "BaseSpecialDefense": 70,
         "BaseSpeed": 107,
         "Ability1": "Hustle",
-        "Ability2": "Guts"
+        "Ability2": "Guts",
+        "buffs": {
+            "hp": 10,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 10
+        }
     },
     {
         "ID": 21,
@@ -305,7 +335,15 @@
         "BaseSpecialDefense": 61,
         "BaseSpeed": 105,
         "Ability1": "Keen Eye",
-        "Ability2": "Sniper"
+        "Ability2": "Sniper",
+        "buffs": {
+            "hp": 0,
+            "atk": 5,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 5
+        }
     },
     {
         "ID": 23,
@@ -333,7 +371,15 @@
         "BaseSpecialDefense": 79,
         "BaseSpeed": 86,
         "Ability1": "Intimidate",
-        "Ability2": "Shed Skin"
+        "Ability2": "Shed Skin",
+        "buffs": {
+            "hp": 0,
+            "atk": 6,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 6
+        }
     },
     {
         "ID": 25,
@@ -347,7 +393,15 @@
         "BaseSpecialDefense": 40,
         "BaseSpeed": 95,
         "Ability1": "Static",
-        "Ability2": "Lightningrod"
+        "Ability2": "Lightningrod",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 5
+        }
     },
     {
         "ID": 26,
@@ -361,7 +415,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 121,
         "Ability1": "Static",
-        "Ability2": "Lightningrod"
+        "Ability2": "Lightningrod",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 21
+        }
     },
     {
         "ID": 27,
@@ -431,7 +493,15 @@
         "BaseSpecialDefense": 85,
         "BaseSpeed": 76,
         "Ability1": "Poison Point",
-        "Ability2": "Rivalry"
+        "Ability2": "Rivalry",
+        "buffs": {
+            "hp": 10,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 32,
@@ -473,7 +543,15 @@
         "BaseSpecialDefense": 75,
         "BaseSpeed": 85,
         "Ability1": "Poison Point",
-        "Ability2": "Rivalry"
+        "Ability2": "Rivalry",
+        "buffs": {
+            "hp": 0,
+            "atk": 15,
+            "def": 0,
+            "spa": 15,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 35,
@@ -557,7 +635,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 45,
         "Ability1": "Cute Charm",
-        "Ability2": "Soundproof"
+        "Ability2": "Soundproof",
+        "buffs": {
+            "hp": 8,
+            "atk": 0,
+            "def": 10,
+            "spa": 10,
+            "spd": 10,
+            "spe": 0
+        }
     },
     {
         "ID": 41,
@@ -627,7 +713,15 @@
         "BaseSpecialDefense": 100,
         "BaseSpeed": 50,
         "Ability1": "Chlorophyll",
-        "Ability2": "Effect Spore"
+        "Ability2": "Effect Spore",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 10,
+            "spe": 0
+        }
     },
     {
         "ID": 46,
@@ -655,7 +749,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 30,
         "Ability1": "Effect Spore",
-        "Ability2": "Dry Skin"
+        "Ability2": "Dry Skin",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 20,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 48,
@@ -683,7 +785,15 @@
         "BaseSpecialDefense": 75,
         "BaseSpeed": 90,
         "Ability1": "Poison Heal",
-        "Ability2": "Tinted Lens"
+        "Ability2": "Tinted Lens",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 25,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 50,
@@ -711,7 +821,15 @@
         "BaseSpecialDefense": 70,
         "BaseSpeed": 120,
         "Ability1": "Sand Veil",
-        "Ability2": "Arena Trap"
+        "Ability2": "Arena Trap",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 52,
@@ -739,7 +857,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 115,
         "Ability1": "Limber",
-        "Ability2": "Technician"
+        "Ability2": "Technician",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 54,
@@ -865,7 +991,15 @@
         "BaseSpecialDefense": 90,
         "BaseSpeed": 70,
         "Ability1": "Water Absorb",
-        "Ability2": "Damp"
+        "Ability2": "Damp",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 5,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 63,
@@ -991,7 +1125,15 @@
         "BaseSpecialDefense": 60,
         "BaseSpeed": 70,
         "Ability1": "Chlorophyll",
-        "Ability2": "Gluttony"
+        "Ability2": "Gluttony",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 72,
@@ -1159,7 +1301,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 105,
         "Ability1": "Super Luck",
-        "Ability2": "Inner Focus"
+        "Ability2": "Inner Focus",
+        "buffs": {
+            "hp": 3,
+            "atk": 45,
+            "def": 0,
+            "spa": 2,
+            "spd": 3,
+            "spe": 40
+        }
     },
     {
         "ID": 84,
@@ -1215,7 +1365,15 @@
         "BaseSpecialDefense": 95,
         "BaseSpeed": 70,
         "Ability1": "Thick Fat",
-        "Ability2": "Hydration"
+        "Ability2": "Hydration",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 88,
@@ -1327,7 +1485,15 @@
         "BaseSpecialDefense": 45,
         "BaseSpeed": 70,
         "Ability1": "Rock Head",
-        "Ability2": "Sturdy"
+        "Ability2": "Sturdy",
+        "buffs": {
+            "hp": 0,
+            "atk": 35,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 96,
@@ -1467,7 +1633,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 70,
         "Ability1": "Rock Head",
-        "Ability2": "Battle Armor"
+        "Ability2": "Battle Armor",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 25
+        }
     },
     {
         "ID": 106,
@@ -1635,7 +1809,15 @@
         "BaseSpecialDefense": 75,
         "BaseSpeed": 85,
         "Ability1": "Poison Point",
-        "Ability2": "Sniper"
+        "Ability2": "Sniper",
+        "buffs": {
+            "hp": 10,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 30,
+            "spe": 0
+        }
     },
     {
         "ID": 118,
@@ -1663,7 +1845,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 88,
         "Ability1": "Swift Swim",
-        "Ability2": "Water Veil"
+        "Ability2": "Water Veil",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 20
+        }
     },
     {
         "ID": 120,
@@ -1733,7 +1923,15 @@
         "BaseSpecialDefense": 95,
         "BaseSpeed": 95,
         "Ability1": "Dry Skin",
-        "Ability2": "Filter"
+        "Ability2": "Filter",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 5,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 125,
@@ -1901,7 +2099,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 95,
         "Ability1": "Flash Fire",
-        "Ability2": "Guts"
+        "Ability2": "Guts",
+        "buffs": {
+            "hp": 45,
+            "atk": 0,
+            "def": 5,
+            "spa": -30,
+            "spd": -45,
+            "spe": 30
+        }
     },
     {
         "ID": 137,
@@ -2265,7 +2471,15 @@
         "BaseSpecialDefense": 55,
         "BaseSpeed": 108,
         "Ability1": "Scrappy",
-        "Ability2": "Keen Eye"
+        "Ability2": "Keen Eye",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 18
+        }
     },
     {
         "ID": 163,
@@ -2293,7 +2507,15 @@
         "BaseSpecialDefense": 96,
         "BaseSpeed": 70,
         "Ability1": "Insomnia",
-        "Ability2": "Tinted Lens"
+        "Ability2": "Tinted Lens",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 165,
@@ -2301,13 +2523,21 @@
         "Type1": "BUG",
         "Type2": "FLYING",
         "BaseHP": 40,
-        "BaseAttack": 20,
+        "BaseAttack": 40,
         "BaseDefense": 30,
-        "BaseSpecialAttack": 40,
+        "BaseSpecialAttack": 20,
         "BaseSpecialDefense": 80,
         "BaseSpeed": 55,
         "Ability1": "Swarm",
-        "Ability2": "Early Bird"
+        "Ability2": "Early Bird",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": -20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 166,
@@ -2321,7 +2551,15 @@
         "BaseSpecialDefense": 110,
         "BaseSpeed": 85,
         "Ability1": "Iron Fist",
-        "Ability2": "Early Bird"
+        "Ability2": "Early Bird",
+        "buffs": {
+            "hp": 0,
+            "atk": 60,
+            "def": 0,
+            "spa": -20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 167,
@@ -2349,7 +2587,15 @@
         "BaseSpecialDefense": 60,
         "BaseSpeed": 80,
         "Ability1": "Sniper",
-        "Ability2": "Insomnia"
+        "Ability2": "Insomnia",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 40
+        }
     },
     {
         "ID": 169,
@@ -2391,7 +2637,15 @@
         "BaseSpecialDefense": 86,
         "BaseSpeed": 67,
         "Ability1": "Volt Absorb",
-        "Ability2": "Water Absorb"
+        "Ability2": "Water Absorb",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 10,
+            "spe": 0
+        }
     },
     {
         "ID": 172,
@@ -2475,7 +2729,15 @@
         "BaseSpecialDefense": 45,
         "BaseSpeed": 70,
         "Ability1": "Synchronize",
-        "Ability2": "Early Bird"
+        "Ability2": "Early Bird",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 5,
+            "spd": 0,
+            "spe": 5
+        }
     },
     {
         "ID": 178,
@@ -2545,7 +2807,15 @@
         "BaseSpecialDefense": 110,
         "BaseSpeed": 50,
         "Ability1": "Chlorophyll",
-        "Ability2": "Own Tempo"
+        "Ability2": "Own Tempo",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 10,
+            "spe": 0
+        }
     },
     {
         "ID": 183,
@@ -2559,7 +2829,15 @@
         "BaseSpecialDefense": 50,
         "BaseSpeed": 40,
         "Ability1": "Thick Fat",
-        "Ability2": "Huge Power"
+        "Ability2": "Huge Power",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 30,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 184,
@@ -2573,7 +2851,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 50,
         "Ability1": "Thick Fat",
-        "Ability2": "Huge Power"
+        "Ability2": "Huge Power",
+        "buffs": {
+            "hp": 10,
+            "atk": 0,
+            "def": 0,
+            "spa": 40,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 185,
@@ -2587,7 +2873,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 30,
         "Ability1": "Sturdy",
-        "Ability2": "Rock Head"
+        "Ability2": "Rock Head",
+        "buffs": {
+            "hp": 5,
+            "atk": 15,
+            "def": 15,
+            "spa": 0,
+            "spd": 15,
+            "spe": 0
+        }
     },
     {
         "ID": 186,
@@ -2601,7 +2895,15 @@
         "BaseSpecialDefense": 100,
         "BaseSpeed": 75,
         "Ability1": "Water Absorb",
-        "Ability2": "Drizzle"
+        "Ability2": "Drizzle",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 10,
+            "spa": 0,
+            "spd": 0,
+            "spe": 5
+        }
     },
     {
         "ID": 187,
@@ -2685,7 +2987,15 @@
         "BaseSpecialDefense": 95,
         "BaseSpeed": 30,
         "Ability1": "Chlorophyll",
-        "Ability2": "Solar Power"
+        "Ability2": "Solar Power",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 35,
+            "spa": 20,
+            "spd": 10,
+            "spe": 0
+        }
     },
     {
         "ID": 193,
@@ -2727,7 +3037,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 35,
         "Ability1": "Unaware",
-        "Ability2": "Water Absorb"
+        "Ability2": "Water Absorb",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 10,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 196,
@@ -2811,7 +3129,15 @@
         "BaseSpecialDefense": 68,
         "BaseSpeed": 68,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 20,
+            "atk": 20,
+            "def": 20,
+            "spa": 20,
+            "spd": 20,
+            "spe": 20
+        }
     },
     {
         "ID": 202,
@@ -2839,7 +3165,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 105,
         "Ability1": "Inner Focus",
-        "Ability2": "Early Bird"
+        "Ability2": "Early Bird",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 20
+        }
     },
     {
         "ID": 204,
@@ -2881,7 +3215,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 45,
         "Ability1": "Serene Grace",
-        "Ability2": "Run Away"
+        "Ability2": "Run Away",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 45,
+            "spd": 0,
+            "spe": 60
+        }
     },
     {
         "ID": 207,
@@ -2909,7 +3251,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 30,
         "Ability1": "Rock Head",
-        "Ability2": "Sturdy"
+        "Ability2": "Sturdy",
+        "buffs": {
+            "hp": 0,
+            "atk": 5,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 209,
@@ -2951,7 +3301,15 @@
         "BaseSpecialDefense": 55,
         "BaseSpeed": 85,
         "Ability1": "Poison Point",
-        "Ability2": "Intimidate"
+        "Ability2": "Intimidate",
+        "buffs": {
+            "hp": 0,
+            "atk": 5,
+            "def": 0,
+            "spa": 25,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 212,
@@ -3063,7 +3421,15 @@
         "BaseSpecialDefense": 115,
         "BaseSpeed": 30,
         "Ability1": "Solid Rock",
-        "Ability2": "Flame Body"
+        "Ability2": "Flame Body",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 15,
+            "spa": 35,
+            "spd": 35,
+            "spe": 0
+        }
     },
     {
         "ID": 220,
@@ -3105,7 +3471,15 @@
         "BaseSpecialDefense": 110,
         "BaseSpeed": 35,
         "Ability1": "Hustle",
-        "Ability2": "Natural Cure"
+        "Ability2": "Natural Cure",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 30,
+            "spa": 55,
+            "spd": 25,
+            "spe": 0
+        }
     },
     {
         "ID": 223,
@@ -3147,7 +3521,15 @@
         "BaseSpecialDefense": 45,
         "BaseSpeed": 75,
         "Ability1": "Vital Spirit",
-        "Ability2": "Technician"
+        "Ability2": "Technician",
+        "buffs": {
+            "hp": 5,
+            "atk": 40,
+            "def": 10,
+            "spa": 55,
+            "spd": 10,
+            "spe": 30
+        }
     },
     {
         "ID": 226,
@@ -3273,7 +3655,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 85,
         "Ability1": "Intimidate",
-        "Ability2": "Frisk"
+        "Ability2": "Frisk",
+        "buffs": {
+            "hp": 0,
+            "atk": 5,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 235,
@@ -3287,7 +3677,15 @@
         "BaseSpecialDefense": 45,
         "BaseSpeed": 110,
         "Ability1": "Own Tempo",
-        "Ability2": "Technician"
+        "Ability2": "Technician",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 35
+        }
     },
     {
         "ID": 236,
@@ -3665,7 +4063,15 @@
         "BaseSpecialDefense": 60,
         "BaseSpeed": 80,
         "Ability1": "Intimidate",
-        "Ability2": "Quick Feet"
+        "Ability2": "Quick Feet",
+        "buffs": {
+            "hp": 0,
+            "atk": 15,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 10
+        }
     },
     {
         "ID": 263,
@@ -3693,7 +4099,15 @@
         "BaseSpecialDefense": 61,
         "BaseSpeed": 105,
         "Ability1": "Pickup",
-        "Ability2": "Gluttony"
+        "Ability2": "Gluttony",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 5
+        }
     },
     {
         "ID": 265,
@@ -3735,7 +4149,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 85,
         "Ability1": "Swarm",
-        "Ability2": "Shield Dust"
+        "Ability2": "Shield Dust",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 15,
+            "spd": 15,
+            "spe": 20
+        }
     },
     {
         "ID": 268,
@@ -3763,7 +4185,15 @@
         "BaseSpecialDefense": 105,
         "BaseSpeed": 65,
         "Ability1": "Shield Dust",
-        "Ability2": "Compoundeyes"
+        "Ability2": "Compoundeyes",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 15,
+            "spd": 15,
+            "spe": 20
+        }
     },
     {
         "ID": 270,
@@ -3875,7 +4305,15 @@
         "BaseSpecialDefense": 50,
         "BaseSpeed": 125,
         "Ability1": "Guts",
-        "Ability2": "Scrappy"
+        "Ability2": "Scrappy",
+        "buffs": {
+            "hp": 10,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 278,
@@ -3903,7 +4341,15 @@
         "BaseSpecialDefense": 70,
         "BaseSpeed": 65,
         "Ability1": "Keen Eye",
-        "Ability2": "Rain Dish"
+        "Ability2": "Rain Dish",
+        "buffs": {
+            "hp": 10,
+            "atk": 45,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 280,
@@ -3917,7 +4363,15 @@
         "BaseSpecialDefense": 35,
         "BaseSpeed": 40,
         "Ability1": "Synchronize",
-        "Ability2": "Trace"
+        "Ability2": "Trace",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 281,
@@ -3931,7 +4385,15 @@
         "BaseSpecialDefense": 55,
         "BaseSpeed": 50,
         "Ability1": "Synchronize",
-        "Ability2": "Trace"
+        "Ability2": "Trace",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 30,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 282,
@@ -3973,7 +4435,14 @@
         "BaseSpecialDefense": 102,
         "BaseSpeed": 90,
         "Ability1": "Levitate",
-        "Ability2": "Levitate"
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 20,
+            "spe": 30
+        }
     },
     {
         "ID": 285,
@@ -4183,7 +4652,15 @@
         "BaseSpecialDefense": 90,
         "BaseSpeed": 30,
         "Ability1": "Sturdy",
-        "Ability2": "Magnet Pull"
+        "Ability2": "Magnet Pull",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 300,
@@ -4205,13 +4682,21 @@
         "Type1": "NORMAL",
         "Type2": "NORMAL",
         "BaseHP": 70,
-        "BaseAttack": 75,
+        "BaseAttack": 65,
         "BaseDefense": 65,
         "BaseSpecialAttack": 95,
         "BaseSpecialDefense": 55,
         "BaseSpeed": 90,
         "Ability1": "Cute Charm",
-        "Ability2": "Normalize"
+        "Ability2": "Normalize",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 40,
+            "spd": 0,
+            "spe": 20
+        }
     },
     {
         "ID": 302,
@@ -4223,9 +4708,17 @@
         "BaseDefense": 95,
         "BaseSpecialAttack": 65,
         "BaseSpecialDefense": 85,
-        "BaseSpeed": 50,
+        "BaseSpeed": 90,
         "Ability1": "Steadfast",
-        "Ability2": "Stall"
+        "Ability2": "Stall",
+        "buffs": {
+            "hp": 10,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 40
+        }
     },
     {
         "ID": 303,
@@ -4239,7 +4732,15 @@
         "BaseSpecialDefense": 90,
         "BaseSpeed": 50,
         "Ability1": "Hyper Cutter",
-        "Ability2": "Intimidate"
+        "Ability2": "Intimidate",
+        "buffs": {
+            "hp": 10,
+            "atk": 20,
+            "def": 5,
+            "spa": 0,
+            "spd": 35,
+            "spe": 0
+        }
     },
     {
         "ID": 304,
@@ -4351,7 +4852,15 @@
         "BaseSpecialDefense": 85,
         "BaseSpeed": 115,
         "Ability1": "Plus",
-        "Ability2": "Static"
+        "Ability2": "Static",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 10,
+            "spa": 5,
+            "spd": 10,
+            "spe": 20
+        }
     },
     {
         "ID": 312,
@@ -4365,7 +4874,15 @@
         "BaseSpecialDefense": 90,
         "BaseSpeed": 115,
         "Ability1": "Minus",
-        "Ability2": "Static"
+        "Ability2": "Static",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 10,
+            "spd": 5,
+            "spe": 20
+        }
     },
     {
         "ID": 313,
@@ -4379,7 +4896,15 @@
         "BaseSpecialDefense": 90,
         "BaseSpeed": 90,
         "Ability1": "Illuminate",
-        "Ability2": "Swarm"
+        "Ability2": "Swarm",
+        "buffs": {
+            "hp": 15,
+            "atk": -43,
+            "def": 5,
+            "spa": 53,
+            "spd": 15,
+            "spe": 5
+        }
     },
     {
         "ID": 314,
@@ -4393,7 +4918,15 @@
         "BaseSpecialDefense": 100,
         "BaseSpeed": 90,
         "Ability1": "Oblivious",
-        "Ability2": "Tinted Lens"
+        "Ability2": "Tinted Lens",
+        "buffs": {
+            "hp": 15,
+            "atk": -17,
+            "def": 5,
+            "spa": 17,
+            "spd": 25,
+            "spe": 5
+        }
     },
     {
         "ID": 315,
@@ -4435,7 +4968,15 @@
         "BaseSpecialDefense": 83,
         "BaseSpeed": 55,
         "Ability1": "Liquid Ooze",
-        "Ability2": "Sticky Hold"
+        "Ability2": "Sticky Hold",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 318,
@@ -4533,7 +5074,15 @@
         "BaseSpecialDefense": 70,
         "BaseSpeed": 20,
         "Ability1": "White Smoke",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 15,
+            "def": 0,
+            "spa": 15,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 325,
@@ -4575,7 +5124,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 80,
         "Ability1": "Own Tempo",
-        "Ability2": "Tangled Feet"
+        "Ability2": "Tangled Feet",
+        "buffs": {
+            "hp": 20,
+            "atk": 20,
+            "def": 20,
+            "spa": 20,
+            "spd": 20,
+            "spe": 20
+        }
     },
     {
         "ID": 328,
@@ -4617,7 +5174,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 100,
         "Ability1": "Levitate",
-        "Ability2": "Levitate"
+        "Ability2": "Levitate",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 331,
@@ -4673,7 +5238,15 @@
         "BaseSpecialDefense": 105,
         "BaseSpeed": 80,
         "Ability1": "Natural Cure",
-        "Ability2": "Cloud Nine"
+        "Ability2": "Cloud Nine",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 10,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 335,
@@ -4715,7 +5288,15 @@
         "BaseSpecialDefense": 85,
         "BaseSpeed": 70,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 338,
@@ -4729,7 +5310,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 70,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 339,
@@ -4911,7 +5500,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 80,
         "Ability1": "Forecast",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 40,
+            "spd": 10,
+            "spe": 10
+        }
     },
     {
         "ID": 352,
@@ -4925,7 +5522,15 @@
         "BaseSpecialDefense": 120,
         "BaseSpeed": 40,
         "Ability1": "Color Change",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 20,
+            "atk": 10,
+            "def": 10,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 353,
@@ -4939,7 +5544,15 @@
         "BaseSpecialDefense": 33,
         "BaseSpeed": 45,
         "Ability1": "Insomnia",
-        "Ability2": "Frisk"
+        "Ability2": "Frisk",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 354,
@@ -4953,7 +5566,15 @@
         "BaseSpecialDefense": 63,
         "BaseSpeed": 65,
         "Ability1": "Insomnia",
-        "Ability2": "Frisk"
+        "Ability2": "Frisk",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 355,
@@ -4995,7 +5616,15 @@
         "BaseSpecialDefense": 90,
         "BaseSpeed": 65,
         "Ability1": "Chlorophyll",
-        "Ability2": "Solar Power"
+        "Ability2": "Solar Power",
+        "buffs": {
+            "hp": 21,
+            "atk": 22,
+            "def": 7,
+            "spa": 18,
+            "spd": 3,
+            "spe": 14
+        }
     },
     {
         "ID": 358,
@@ -5009,7 +5638,15 @@
         "BaseSpecialDefense": 100,
         "BaseSpeed": 90,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 15,
+            "spd": 20,
+            "spe": 25
+        }
     },
     {
         "ID": 359,
@@ -5065,7 +5702,14 @@
         "BaseSpecialDefense": 60,
         "BaseSpeed": 60,
         "Ability1": "Levitate",
-        "Ability2": "Levitate"
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 40,
+            "spa": 0,
+            "spd": -20,
+            "spe": -20
+        }
     },
     {
         "ID": 363,
@@ -5177,7 +5821,15 @@
         "BaseSpecialDefense": 80,
         "BaseSpeed": 125,
         "Ability1": "Swift Swim",
-        "Ability2": "Hydration"
+        "Ability2": "Hydration",
+        "buffs": {
+            "hp": 12,
+            "atk": 0,
+            "def": 5,
+            "spa": 60,
+            "spd": 15,
+            "spe": 28
+        }
     },
     {
         "ID": 371,
@@ -5582,8 +6234,7 @@
         "BaseSpecialAttack": 30,
         "BaseSpecialDefense": 30,
         "BaseSpeed": 60,
-        "Ability1": "Keen Eye",
-        "Ability2": "Keen Eye"
+        "Ability1": "Keen Eye"
     },
     {
         "ID": 397,
@@ -5611,7 +6262,15 @@
         "BaseSpecialDefense": 65,
         "BaseSpeed": 100,
         "Ability1": "Intimidate",
-        "Ability2": "Reckless"
+        "Ability2": "Reckless",
+        "buffs": {
+            "hp": 5,
+            "atk": 0,
+            "def": 5,
+            "spa": 0,
+            "spd": 15,
+            "spe": 0
+        }
     },
     {
         "ID": 399,
@@ -5639,7 +6298,15 @@
         "BaseSpecialDefense": 60,
         "BaseSpeed": 71,
         "Ability1": "Simple",
-        "Ability2": "Unaware"
+        "Ability2": "Unaware",
+        "buffs": {
+            "hp": 10,
+            "atk": 10,
+            "def": 0,
+            "spa": 12,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 401,
@@ -5667,7 +6334,15 @@
         "BaseSpecialDefense": 59,
         "BaseSpeed": 74,
         "Ability1": "Swarm",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 13,
+            "def": 8,
+            "spa": 0,
+            "spd": 8,
+            "spe": 24
+        }
     },
     {
         "ID": 403,
@@ -5709,7 +6384,15 @@
         "BaseSpecialDefense": 79,
         "BaseSpeed": 82,
         "Ability1": "Guts",
-        "Ability2": "Intimidate"
+        "Ability2": "Intimidate",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 12
+        }
     },
     {
         "ID": 406,
@@ -5806,8 +6489,7 @@
         "BaseSpecialAttack": 29,
         "BaseSpecialDefense": 45,
         "BaseSpeed": 36,
-        "Ability1": "Shed Skin",
-        "Ability2": "Shed Skin"
+        "Ability1": "Shed Skin"
     },
     {
         "ID": 413,
@@ -5821,7 +6503,15 @@
         "BaseSpecialDefense": 125,
         "BaseSpeed": 36,
         "Ability1": "Anticipation",
-        "Ability2": "Leaf Guard"
+        "Ability2": "Leaf Guard",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 20,
+            "spe": 0
+        }
     },
     {
         "ID": 413,
@@ -5835,7 +6525,15 @@
         "BaseSpecialDefense": 85,
         "BaseSpeed": 36,
         "Ability1": "Anticipation",
-        "Ability2": "Sand Veil"
+        "Ability2": "Sand Veil",
+        "buffs": {
+            "hp": 0,
+            "atk": 30,
+            "def": 30,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 413,
@@ -5849,7 +6547,15 @@
         "BaseSpecialDefense": 115,
         "BaseSpeed": 36,
         "Ability1": "Anticipation",
-        "Ability2": "Sturdy"
+        "Ability2": "Sturdy",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 10,
+            "spa": 0,
+            "spd": 30,
+            "spe": 0
+        }
     },
     {
         "ID": 414,
@@ -5863,7 +6569,15 @@
         "BaseSpecialDefense": 50,
         "BaseSpeed": 91,
         "Ability1": "Swarm",
-        "Ability2": "Tinted Lens"
+        "Ability2": "Tinted Lens",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 15,
+            "spd": 0,
+            "spe": 25
+        }
     },
     {
         "ID": 415,
@@ -5891,7 +6605,15 @@
         "BaseSpecialDefense": 102,
         "BaseSpeed": 40,
         "Ability1": "Pressure",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 417,
@@ -5961,7 +6683,15 @@
         "BaseSpecialDefense": 78,
         "BaseSpeed": 85,
         "Ability1": "Flower Gift",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 422,
@@ -6073,7 +6803,15 @@
         "BaseSpecialDefense": 110,
         "BaseSpeed": 110,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 5,
+            "spd": 5,
+            "spe": 5
+        }
     },
     {
         "ID": 430,
@@ -6115,7 +6853,15 @@
         "BaseSpecialDefense": 59,
         "BaseSpeed": 112,
         "Ability1": "Thick Fat",
-        "Ability2": "Own Tempo"
+        "Ability2": "Own Tempo",
+        "buffs": {
+            "hp": 29,
+            "atk": 4,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 433,
@@ -6157,7 +6903,15 @@
         "BaseSpecialDefense": 61,
         "BaseSpeed": 84,
         "Ability1": "Stench",
-        "Ability2": "Aftermath"
+        "Ability2": "Aftermath",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 6,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 436,
@@ -6171,7 +6925,15 @@
         "BaseSpecialDefense": 86,
         "BaseSpeed": 23,
         "Ability1": "Levitate",
-        "Ability2": "Heatproof"
+        "Ability2": "Heatproof",
+        "buffs": {
+            "hp": 0,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 437,
@@ -6437,7 +7199,15 @@
         "BaseSpecialDefense": 72,
         "BaseSpeed": 86,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 20,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 40
+        }
     },
     {
         "ID": 456,
@@ -6465,7 +7235,15 @@
         "BaseSpecialDefense": 86,
         "BaseSpeed": 101,
         "Ability1": "Swift Swim",
-        "Ability2": "Storm Drain"
+        "Ability2": "Storm Drain",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 20
+        }
     },
     {
         "ID": 458,
@@ -6507,7 +7285,15 @@
         "BaseSpecialDefense": 85,
         "BaseSpeed": 60,
         "Ability1": "Snow Warning",
-        "Ability2": "Soundproof"
+        "Ability2": "Soundproof",
+        "buffs": {
+            "hp": 10,
+            "atk": 8,
+            "def": 0,
+            "spa": 8,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 461,
@@ -6731,7 +7517,15 @@
         "BaseSpecialDefense": 150,
         "BaseSpeed": 40,
         "Ability1": "Sturdy",
-        "Ability2": "Magnet Pull"
+        "Ability2": "Magnet Pull",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 477,
@@ -6759,7 +7553,14 @@
         "BaseSpecialDefense": 70,
         "BaseSpeed": 110,
         "Ability1": "Levitate",
-        "Ability2": "Levitate"
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 20,
+            "spd": 0,
+            "spe": 0
+        }
     },
     {
         "ID": 479,
@@ -6773,7 +7574,15 @@
         "BaseSpecialDefense": 77,
         "BaseSpeed": 101,
         "Ability1": "Levitate",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 10,
+            "spd": 0,
+            "spe": 10
+        }
     },
     {
         "ID": 479,
@@ -6829,7 +7638,15 @@
         "BaseSpecialDefense": 92,
         "BaseSpeed": 116,
         "Ability1": "Motor Drive",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 0,
+            "atk": 0,
+            "def": -15,
+            "spa": 0,
+            "spd": -15,
+            "spe": 30
+        }
     },
     {
         "ID": 479,
@@ -6997,7 +7814,15 @@
         "BaseSpecialDefense": 85,
         "BaseSpeed": 85,
         "Ability1": "Hydration",
-        "Ability2": "-"
+        "Ability2": "-",
+        "buffs": {
+            "hp": 5,
+            "atk": 5,
+            "def": 5,
+            "spa": 5,
+            "spd": 5,
+            "spe": 5
+        }
     },
     {
         "ID": 490,
