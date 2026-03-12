@@ -11,6 +11,10 @@
     /* ### Color ### */
     --White: #fff;
     --Black: #171716;
+    --Red: #EA9999;
+    --Pink: #F4CCCC;
+    --Blue: #A4C2F4;
+    --Little-Blue: #C9DAF8;
     --Color-1: #D7B957;
     --Color-2: #9EA5A8;
 }
@@ -131,19 +135,6 @@ main{
     padding: 75px 25px;
     gap: 25px;
 
-    input{
-        width: 300px;
-        height: 50px;
-        padding-left: 15px;
-        border-radius: 50px;
-        border: 2px solid var(--Black);
-        box-shadow: 0 1px 5px var(--Black);
-        outline: none;
-        position: sticky;
-        top: 80px;
-        left: 20px;
-        z-index: 20;
-    }
     .divs{
         width: 100%;
         padding: 15px;
@@ -152,72 +143,181 @@ main{
         flex-direction: column;
         gap: 20px;
         border-radius: 10px;
+        overflow-y: hidden;
 
-        .container{
-            display: flex;
-            flex-direction: column;
-            gap: 25px;
-
-            .top_image{
+        table{
+            width: 1500px;
+        }
+    }
+    .first_div{
+        table{
+            thead{
                 width: 100%;
-                border-radius: 5px;
-            }
-            .route_image{
-                object-fit: cover;
-            }
-            .encounter{
-                width: 100%;
-                display: flex;
-                flex-wrap: wrap;
-                gap: 15px;
 
-                .encounters{
-                    display: flex;
-                    align-items: center;
-                    gap: 20px;
-                    flex-wrap: wrap;
+                tr:first-child{
+                    th{
+                        background-color: var(--Black);
+                        color: var(--White);
+                        padding: 4px 0;
+                    }
+                }
+                tr:last-child{
+                    height: 80px;
 
-                    p{
-                        display: flex;
-                        align-items: center;
+                    th:last-child{
+                        background-color: var(--Black);
+                        color: white;
+                    }
+                }
+            }
+            tbody{
+                tr{
+                    th{
+                        padding: 8px 0;
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                        color: white;
+                    }
+                }
+                tr:nth-child(3){
+                    th:first-child{
+                        background-color: var(--Red);
+                    }
+                }
+                tr:nth-child(6){
+                    th:first-child{
+                        background-color: var(--Blue);
                     }
                 }
             }
         }
     }
-}
+    .red_div{
+        
+        table{
 
-.pokemon-table{
-    border-collapse: collapse;
-    width: 900px;
-    text-align: center;
-    font-family: Arial;
-}
+            thead{
+                tr:first-child{
+                    th{
+                        background-color: var(--Black);
+                        color: var(--White);
+                        padding: 4px 0;
+                    }
+                }
+                tr:nth-child(2){
+                    height: 80px;
 
-.pokemon-table th{
-    background: #222;
-    color: white;
-    padding: 8px;
-}
+                    th:last-child{
+                        background-color: var(--Black);
+                        color: white;
+                    }
+                }
+            }
+            tbody{
+                tr{
+                    th{
+                        padding: 8px 0;
+                        width: 12.5%;
+                        height: 40px;
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                        color: white;
+                    }
+                }
+                tr:first-child{
+                    th{
+                        background-color: var(--Red);
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                    }
+                }
+                tr:nth-child(2){
+                    th:first-child{
+                        background-color: var(--White);
+                    }
+                    th{
+                        background-color: var(--Pink);
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                    }
+                }
+                tr:nth-child(4){
+                    th{
+                        background-color: var(--Pink);
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                    }
+                }
+            }
+        }
+    }
+    .blue_div{
+        table{
 
-.pokemon-table td{
-    border: 1px solid #aaa;
-    padding: 6px;
-}
+            thead{
+                tr:first-child{
+                    th{
+                        background-color: var(--Black);
+                        color: var(--White);
+                        padding: 4px 0;
+                    }
+                }
+                tr:nth-child(2){
+                    height: 80px;
 
-.pokemon-table tr:nth-child(even){
-    background-color: #e6b3b3;
-}
-
-.right-info{
-    background:#111;
-    color:white;
-    width:200px;
-    vertical-align: top;
-}
-
-.pokemon_img{
-    width:40px;
+                    th:last-child{
+                        background-color: var(--Black);
+                        color: white;
+                    }
+                }
+            }
+            tbody{
+                tr{
+                    th{
+                        padding: 8px 0;
+                        width: 12.5%;
+                        height: 40px;
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                        color: white;
+                    }
+                }
+                tr:first-child{
+                    th{
+                        background-color: var(--Blue);
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                    }
+                }
+                tr:nth-child(2){
+                    th:first-child{
+                        background-color: var(--White);
+                    }
+                    th{
+                        background-color: var(--Little-Blue);
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                    }
+                }
+                tr:nth-child(4){
+                    th{
+                        background-color: var(--Little-Blue);
+                    }
+                    th:last-child{
+                        background-color: var(--Black);
+                    }
+                }
+            }
+        }
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -258,11 +358,8 @@ main{
     }
     main{
         .divs{
-            .container{
-                flex-direction: row;
-                .encounter{
-                    flex-direction: column;
-                }
+            table{
+                width: 100%;
             }
         }
     }
