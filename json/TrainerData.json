@@ -241,7 +241,7 @@
         "name": "Sprout Tower",
         "trainers": [
           {
-            "name": "Sage Nico",
+            "name": "Sage Nico*",
             "notes": "Rightmost Sage on 2F\n\n0 IVs",
             "pokemon": [
               {
@@ -292,7 +292,7 @@
             ]
           },
           {
-            "name": "Sage Chow",
+            "name": "Sage Chow*",
             "notes": "Leftmost Sage on 1F\n\n0 IVs",
             "pokemon": [
               {
@@ -379,7 +379,7 @@
             ]
           },
           {
-            "name": "Sage Jin",
+            "name": "Sage Jin*",
             "notes": "Rightmost Sage on 3F\n\n0 IVs",
             "pokemon": [
               {
@@ -398,7 +398,7 @@
             ]
           },
           {
-            "name": "Sage Neal",
+            "name": "Sage Neal*",
             "notes": "Leftmost Sage on 3F\n\n0 IVs",
             "pokemon": [
               {
@@ -758,7 +758,7 @@
         "name": "Route 32",
         "trainers": [
           {
-            "name": "Parasol Lady Joan",
+            "name": "Parasol Lady Joan*",
             "notes": "Optional Double Battle w/ Ruin Maniac Gordon\n\n0 IVs",
             "pokemon": [
               {
@@ -790,7 +790,7 @@
             ]
           },
           {
-            "name": "Ruin Maniac Gordon",
+            "name": "Ruin Maniac Gordon*",
             "notes": "Optional Double Battle w/ Parasol Lady Joan\n\n0 IVs",
             "pokemon": [
               {
@@ -1030,7 +1030,7 @@
             ]
           },
           {
-            "name": "Ace Trainer Peter",
+            "name": "Ace Trainer Peter*",
             "notes": "6 IVs",
             "pokemon": [
               {
@@ -1281,7 +1281,7 @@
         "name": "Slowpoke Well",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "0 IVs on Ekans \n\n3 IVs on rest of the team",
             "pokemon": [
               {
@@ -1326,7 +1326,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "3 IVs",
             "pokemon": [
               {
@@ -1371,7 +1371,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "3 IVs",
             "pokemon": [
               {
@@ -1690,7 +1690,7 @@
             ]
           },
           {
-            "name": "Bug Catcher Benny",
+            "name": "Bug Catcher Benny*",
             "notes": "Facing right, below blue switch on first section\n\n1  IV",
             "pokemon": [
               {
@@ -1748,7 +1748,7 @@
             ]
           },
           {
-            "name": "Twins Amy&Mimi",
+            "name": "Twins Amy&Mimi*",
             "notes": "Double Battle\n\n1 IV",
             "pokemon": [
               {
@@ -1919,7 +1919,7 @@
         "name": "Route 34",
         "trainers": [
           {
-            "name": "Gentleman Samuel",
+            "name": "Gentleman Samuel*",
             "notes": "0 IVs",
             "pokemon": [
               {
@@ -2116,7 +2116,7 @@
         "name": "Goldenrod Tunnel - Entrance",
         "trainers": [
           {
-            "name": "PKMN Trainer Lyra",
+            "name": "PKMN Trainer Lyra*",
             "notes": "If you chose Male\n\nMandatory battle if you enter the Goldenrod Tunnel\n\nx1 Lemonade",
             "pokemon": [
               {
@@ -2174,7 +2174,7 @@
             ]
           },
           {
-            "name": "PKMN Trainer Ethan",
+            "name": "PKMN Trainer Ethan*",
             "notes": "If you chose Female\n\nMandatory battle if you enter the Goldenrod Tunnel\n\nx1 Lemonade",
             "pokemon": [
               {
@@ -2396,7 +2396,7 @@
         "name": "Route 35",
         "trainers": [
           {
-            "name": "Lady Kim",
+            "name": "Lady Kim*",
             "notes": "Optional Double Battle w/ Bird Keeper Bryan\n\n0 IVs",
             "pokemon": [
               {
@@ -2428,7 +2428,39 @@
             ]
           },
           {
-            "name": "Camper Ivan",
+            "name": "Bird Keeper Bryan*",
+            "notes": "Optional Double Battle w/ Lady Kim\n\n6 IVs",
+            "pokemon": [
+              {
+                "species": "Hoothoot",
+                "level": "Level 20",
+                "nature": "Quiet \n(+SpA -Spe)",
+                "ability": "Insomnia",
+                "item": "No Item",
+                "moves": [
+                  "Hypnosis",
+                  "Air Cutter",
+                  "Uproar",
+                  "Reflect"
+                ]
+              },
+              {
+                "species": "Noctowl",
+                "level": "Level 20",
+                "nature": "Mild \n(+SpA -Def)",
+                "ability": "Insomnia",
+                "item": "No Item",
+                "moves": [
+                  "Hypnosis",
+                  "Air Cutter",
+                  "Uproar",
+                  "Reflect"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Camper Ivan*",
             "notes": "Leftmost Camper\n\n0 IVs",
             "pokemon": [
               {
@@ -2659,7 +2691,7 @@
             ]
           },
           {
-            "name": "Bug Catcher Arnie",
+            "name": "Bug Catcher Arnie*",
             "notes": "Either this fight or Psychic Mark on Route 36\n\n0 IVs",
             "pokemon": [
               {
@@ -2842,7 +2874,7 @@
         "name": "Route 36",
         "trainers": [
           {
-            "name": "Psychic Mark",
+            "name": "Psychic Mark*",
             "notes": "Either this fight or Bug Catcher Arnie on Route 35\n\n0 IVs",
             "pokemon": [
               {
@@ -3027,7 +3059,7 @@
             ]
           },
           {
-            "name": "Lass Carrie",
+            "name": "Lass Carrie*",
             "notes": "Leftmost Lass\n\n1 iv",
             "pokemon": [
               {
@@ -3085,7 +3117,7 @@
             ]
           },
           {
-            "name": "Lass Cathy",
+            "name": "Lass Cathy*",
             "notes": "Rightmost Lass\n\n1 iv",
             "pokemon": [
               {
@@ -3224,7 +3256,7 @@
         "name": "Route 36",
         "trainers": [
           {
-            "name": "Sudowoodo",
+            "name": "Sudowoodo*",
             "notes": "Squirt Bottle required\n\nWild Pokemon\nCatch Rate = 65\n\nAbility is chosen randomly",
             "pokemon": [
               {
@@ -3309,7 +3341,7 @@
             ]
           },
           {
-            "name": "Beauty Callie",
+            "name": "Beauty Callie*",
             "notes": "Mandatory Double Battle w/\nParasol Lady Kassandra\n\n0 IVs",
             "pokemon": [
               {
@@ -3341,7 +3373,7 @@
             ]
           },
           {
-            "name": "Parasol Lady Kassandra",
+            "name": "Parasol Lady Kassandra*",
             "notes": "Mandatory Double Battle w/\nBeauty Callie\n\n0 IVs",
             "pokemon": [
               {
@@ -3686,7 +3718,7 @@
         "name": "Ecruteak Dance Theater",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Gifted HM03 - Surf \nafter this battle\n\n3 IVs on Koffing \n0 IVs on Golbat",
             "pokemon": [
               {
@@ -3723,7 +3755,7 @@
         "name": "Ecruteak City Gym",
         "trainers": [
           {
-            "name": "Medium Georgina",
+            "name": "Medium Georgina*",
             "notes": "1 IVs",
             "pokemon": [
               {
@@ -3768,7 +3800,7 @@
             ]
           },
           {
-            "name": "Medium Grace",
+            "name": "Medium Grace*",
             "notes": "1 IVs",
             "pokemon": [
               {
@@ -3800,7 +3832,7 @@
             ]
           },
           {
-            "name": "Medium Edith",
+            "name": "Medium Edith*",
             "notes": "1 IVs for Drifloon\n\n0 IVs for the rest of the team",
             "pokemon": [
               {
@@ -3845,7 +3877,7 @@
             ]
           },
           {
-            "name": "Medium Martha",
+            "name": "Medium Martha*",
             "notes": "1 IVs",
             "pokemon": [
               {
@@ -3985,6 +4017,51 @@
                   "Mud Bomb",
                   "Amnesia",
                   "Aqua Tail"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Bird Keeper Toby",
+            "notes": "",
+            "pokemon": [
+              {
+                "species": "Doduo",
+                "level": "Level 27",
+                "nature": "Relaxed \n(+Def -Spe)",
+                "ability": "Tangled Feet",
+                "item": "No Item",
+                "moves": [
+                  "Rage",
+                  "Fury Attack",
+                  "Uproar",
+                  "Pursuit"
+                ]
+              },
+              {
+                "species": "Chatot",
+                "level": "Level 27",
+                "nature": "Lonely \n(+Atk -Def)",
+                "ability": "Soundproof",
+                "item": "No Item",
+                "moves": [
+                  "Sing",
+                  "Fury Attack",
+                  "Chatter",
+                  "Taunt"
+                ]
+              },
+              {
+                "species": "Swellow",
+                "level": "Level 27",
+                "nature": "Quiet \n(+SpA -Spe)",
+                "ability": "Guts",
+                "item": "No Item",
+                "moves": [
+                  "Quick Attack",
+                  "Wing Attack",
+                  "Double Team",
+                  "Extreme Speed"
                 ]
               }
             ]
@@ -4300,7 +4377,7 @@
         "name": "Lighthouse - 1F",
         "trainers": [
           {
-            "name": "Gentleman Alfred",
+            "name": "Gentleman Alfred*",
             "notes": "0 IVs",
             "pokemon": [
               {
@@ -4332,7 +4409,7 @@
             ]
           },
           {
-            "name": "Sailor Huey",
+            "name": "Sailor Huey*",
             "notes": "0 IVs",
             "pokemon": [
               {
@@ -4518,7 +4595,7 @@
         "name": "Lighthouse - 4F",
         "trainers": [
           {
-            "name": "Sailor Terrell",
+            "name": "Sailor Terrell*",
             "notes": "Leftmost Sailor\n\n0 IVs",
             "pokemon": [
               {
@@ -5166,7 +5243,7 @@
             ]
           },
           {
-            "name": "Black Belt Nob",
+            "name": "Black Belt Nob*",
             "notes": "Top leftmost Black Belt\n\n3 IVs on Combusken and Heracross\n\n4 IVs on Machoke and Monferno",
             "pokemon": [
               {
@@ -5224,7 +5301,7 @@
             ]
           },
           {
-            "name": "Black Belt Lao",
+            "name": "Black Belt Lao*",
             "notes": "Bottom rightmost Black Belt\n\n4 IVs on Croagunk\n\n0 IVs on the rest of the team",
             "pokemon": [
               {
@@ -5412,7 +5489,7 @@
         "name": "Secret Potion must be given to Jasmine at Olivine Lighthouse first",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "0 IVs on Golbat \n\n6 IVs on the rest of the team",
             "pokemon": [
               {
@@ -5457,7 +5534,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "0 IVs",
             "pokemon": [
               {
@@ -5489,7 +5566,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "0 IVs on Seviper and Camerupt\n\n3 IVs on Piloswine and Beedrill",
             "pokemon": [
               {
@@ -5552,7 +5629,7 @@
         "name": "Route 47",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Mira\n\n\n0 IVs",
             "pokemon": [
               {
@@ -5597,7 +5674,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Mira\n\n0 IVs",
             "pokemon": [
               {
@@ -5642,7 +5719,7 @@
             ]
           },
           {
-            "name": "PKMN Trainer Mira",
+            "name": "PKMN Trainer Mira/",
             "notes": "Partner in Multi Battle against Team Rocket Grunts shown above\n\n12 IVs",
             "pokemon": [
               {
@@ -5687,7 +5764,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Buck\n\n0 IVs",
             "pokemon": [
               {
@@ -5732,7 +5809,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Buck",
             "pokemon": [
               {
@@ -5777,7 +5854,7 @@
             ]
           },
           {
-            "name": "PKMN Trainer Buck",
+            "name": "PKMN Trainer Buck/",
             "notes": "Partner in Multi Battle against Team Rocket Grunts shown above\n\n12 IVs",
             "pokemon": [
               {
@@ -5890,7 +5967,7 @@
         "name": "Route 47",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Cheryl\n\n0 IVs",
             "pokemon": [
               {
@@ -5935,7 +6012,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Cheryl\n\n0 IVs",
             "pokemon": [
               {
@@ -5980,7 +6057,7 @@
             ]
           },
           {
-            "name": "PKMN Trainer Cheryl",
+            "name": "PKMN Trainer Cheryl/",
             "notes": "Partner in Multi Battle against Team Rocket Grunts shown above\n\n12 IVs",
             "pokemon": [
               {
@@ -6025,7 +6102,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Marley\n\n0 IVs",
             "pokemon": [
               {
@@ -6070,7 +6147,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Multi Battle w/ Team Rocket Grunt and Marley\n\n0 IVs",
             "pokemon": [
               {
@@ -6115,7 +6192,7 @@
             ]
           },
           {
-            "name": "PKMN Trainer Marley",
+            "name": "PKMN Trainer Marley/",
             "notes": "Partner in Multi Battle against Team Rocket Grunts shown above\n\n12 IVs",
             "pokemon": [
               {
@@ -6227,7 +6304,7 @@
         "name": "Cutscene in Pokemon Center has to occur before this battle",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt",
             "notes": "Multi Battle w/ Executive Archer and Riley\n\n0 IVs",
             "pokemon": [
               {
@@ -6317,7 +6394,7 @@
             ]
           },
           {
-            "name": "PKMN Trainer Riley",
+            "name": "PKMN Trainer Riley/",
             "notes": "Partner in Multi Battle against Team Rocket Grunt and Executive Archer shown above\n\n24 IVs",
             "pokemon": [
               {
@@ -7135,7 +7212,7 @@
         "name": "Team Rocket HQ - B1F",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Fought each time you set off the Persian statue alarm\n\n3 IVs",
             "pokemon": [
               {
@@ -7180,7 +7257,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Fought each time you set off the Persian statue alarm, immediately after the first Grunt shown above\n\n3 IVs",
             "pokemon": [
               {
@@ -7339,7 +7416,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Rightmost Grunt, next to stairway leading to B3F\n\n3 IVs on Kingler\n\n6 IVs on Shelgon",
             "pokemon": [
               {
@@ -7376,7 +7453,7 @@
         "name": "Team Rocket HQ - B3F",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Bottom leftmost Grunt, gives Password 1\n\n3 IVs",
             "pokemon": [
               {
@@ -7482,7 +7559,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Near Scientist Ross in computer room, gives Password 2\n\n3 IVs",
             "pokemon": [
               {
@@ -7519,7 +7596,7 @@
         "name": "Team Rocket HQ - B2F (Top Section)",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "3 IVs",
             "pokemon": [
               {
@@ -7713,7 +7790,7 @@
             ]
           },
           {
-            "name": "Lance",
+            "name": "Lance/",
             "notes": "Partner in Multi Battle against Team Rocket Grunt and Executive Ariana shown above\n\n30 IVs",
             "pokemon": [
               {
@@ -7745,7 +7822,7 @@
             ]
           },
           {
-            "name": "Electrode (x3)",
+            "name": "Electrode (x3)*",
             "notes": "3 Static Encounters\n\nWild Pokemon\nCatch Rate = 60\n\nAbility chosen at random",
             "pokemon": [
               {
@@ -7768,7 +7845,7 @@
         "name": "Mahogany Town Gym",
         "trainers": [
           {
-            "name": "Skier Diana",
+            "name": "Skier Diana*",
             "notes": "Either this fight or Boarder Patton\n\n1 IVs on Seel \n\n31 IVs on Delibird",
             "pokemon": [
               {
@@ -7800,7 +7877,7 @@
             ]
           },
           {
-            "name": "Boarder Patton",
+            "name": "Boarder Patton*",
             "notes": "Either this fight or Skier Diana\n\n0 IVs on Smoochum\n\n1 IVs on rest of the team",
             "pokemon": [
               {
@@ -7890,7 +7967,7 @@
             ]
           },
           {
-            "name": "Skier Jill",
+            "name": "Skier Jill*",
             "notes": "31 IV Glaceon\n\n1 IV Snover\n\n0 IV Glalie",
             "pokemon": [
               {
@@ -7935,7 +8012,7 @@
             ]
           },
           {
-            "name": "Boarder Gerardo",
+            "name": "Boarder Gerardo*",
             "notes": "Rightmost Boarder in Pryce room\n\n1 IV",
             "pokemon": [
               {
@@ -8098,7 +8175,7 @@
         "name": "Goldenrod Radio Tower - 2F",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Either this fight or the Team Rocket Grunt standing next to plants\n\n3 IVs",
             "pokemon": [
               {
@@ -8130,7 +8207,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Either this fight or the rightmost Team Rocket Grunt shown above\n\n3 IVs",
             "pokemon": [
               {
@@ -8372,7 +8449,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Bottommost Team Rocket Grunt\n\n3 IVs",
             "pokemon": [
               {
@@ -8864,7 +8941,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Top rightmost Team Rocket Grunt\n\n3 IVs",
             "pokemon": [
               {
@@ -9050,7 +9127,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket F Grunt*",
             "notes": "Standing next to purple switch\n\n3 IVs",
             "pokemon": [
               {
@@ -9138,7 +9215,7 @@
             ]
           },
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Topmost Team Rocket Grunt\n\n3 IVs",
             "pokemon": [
               {
@@ -9175,7 +9252,7 @@
         "name": "Goldenrod Radio Tower - 3F",
         "trainers": [
           {
-            "name": "Team Rocket Grunt",
+            "name": "Team Rocket Grunt*",
             "notes": "Card Key required\n\n3 IVs",
             "pokemon": [
               {
@@ -10223,7 +10300,7 @@
             ]
           },
           {
-            "name": "Ace Trainer Lola",
+            "name": "Ace Trainer Lola*",
             "notes": "On first section\n\n7 IVs",
             "pokemon": [
               {
@@ -10306,7 +10383,7 @@
             ]
           },
           {
-            "name": "Ace Trainer Mike",
+            "name": "Ace Trainer Mike*",
             "notes": "On second section\n\n7 IVs",
             "pokemon": [
               {
@@ -10419,7 +10496,7 @@
         "name": "Dragon's Den",
         "trainers": [
           {
-            "name": "Ace Trainer Kobe",
+            "name": "Ace Trainer Kobe*",
             "notes": "",
             "pokemon": [
               {
@@ -11130,7 +11207,7 @@
             ]
           },
           {
-            "name": "Ace Trainer Gaven",
+            "name": "Ace Trainer Gaven*",
             "notes": "Rightmost Ace Trainer, facing left",
             "pokemon": [
               {
@@ -11201,7 +11278,7 @@
             ]
           },
           {
-            "name": "Ace Trainer Jake",
+            "name": "Ace Trainer Jake*",
             "notes": "After Ace Trainer Gaven, facing downwards\n\n6 IVs",
             "pokemon": [
               {
@@ -11246,7 +11323,7 @@
             ]
           },
           {
-            "name": "Ace Trainer Jamie",
+            "name": "Ace Trainer Jamie*",
             "notes": "Topmost Ace Trainer\n\n6 IVs",
             "pokemon": [
               {

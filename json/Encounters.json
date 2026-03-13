@@ -1454,7 +1454,7 @@
     "id": "sprout_tower_3f",
     "name": "Sprout Tower [3F]",
     "levels": "10-13",
-    "image": "img/Route/sprout_tower_3f.png",
+    "image": "img/tour/sprout_tower_3f.png",
     "methods": {
       "building_morning_day": {
         "label": "Building Morning / Day",
@@ -1555,7 +1555,7 @@
     "id": "union_cave_1f",
     "name": "Union Cave [1F]",
     "levels": "12-15",
-    "image": "img/Route/union_cave_1f.png",
+    "image": "img/cave/union_cave_1f.png",
     "methods": {
       "cave_all": {
         "label": "Cave All Times",
@@ -1691,7 +1691,7 @@
     "id": "union_cave_b1f",
     "name": "Union Cave [B1F]",
     "levels": "13-16",
-    "image": "img/Route/union_cave_b1f.png",
+    "image": "img/cave/union_cave_b1f.png",
     "methods": {
       "cave_all": {
         "label": "Cave All Times",
@@ -1827,7 +1827,7 @@
     "id": "union_cave_b2f",
     "name": "Union Cave [B2F]",
     "levels": "28-30",
-    "image": "img/Route/union_cave_b2f.png",
+    "image": "img/cave/union_cave_b2f.png",
     "methods": {
       "cave_all": {
         "label": "Cave All Times",
@@ -3261,7 +3261,7 @@
     "id": "ecruteak_city",
     "name": "Ecruteak City",
     "levels": "N/A",
-    "image": "img/Route/ecruteak_city.png",
+    "image": "img/city/ecruteak_city.png",
     "methods": {
       "surf": {
         "label": "Surf",
@@ -3445,7 +3445,7 @@
     "id": "dark_cave_blackthorn",
     "name": "Dark Cave (Blackthorn Side)",
     "levels": "26-30",
-    "image": "img/Route/dark_cave_blackthorn.png",
+    "image": "img/cave/dark_cave_blackthorn.png",
     "methods": {
       "cave_all": {
         "label": "Cave All Times",
@@ -3817,7 +3817,7 @@
     "id": "olivine_city",
     "name": "Olivine City",
     "levels": "N/A",
-    "image": "img/Route/olivine_city.png",
+    "image": "img/city/olivine_city.png",
     "methods": {
       "surf": {
         "label": "Surf",
@@ -4065,7 +4065,7 @@
     "id": "cianwood_city",
     "name": "Cianwood City",
     "levels": "N/A",
-    "image": "img/Route/cianwood_city.png",
+    "image": "img/city/cianwood_city.png",
     "methods": {
       "rock_smash": {
         "label": "Rock Smash",
@@ -6075,7 +6075,7 @@
     "id": "blackthorn_city",
     "name": "Blackthorn City",
     "levels": "N/A",
-    "image": "img/Route/blackthorn_city.png",
+    "image": "img/city/blackthorn_city.png",
     "methods": {
       "surf": {
         "label": "Surf",

@@ -46,6 +46,57 @@ function itemFileName(s) {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 }
 
+// ── Filtre + Tri ─────────────────────────────────────────────────────────────
+function applyFiltersAndSort(pokemonContainer, searchInput, sortSelect, filterSelect) {
+  const raw        = (searchInput?.value.trim().toLowerCase() || '').replace('#', '');
+  const sortVal    = sortSelect?.value   || 'pokedex01';
+  const filterVal  = filterSelect?.value || 'alltype';
+
+  // Extraire le type depuis la valeur du filtre (ex: "typegrass" → "grass")
+  const typeFilter = filterVal === 'alltype' ? null : filterVal;
+
+  const cards = [...pokemonContainer.querySelectorAll('.pokemon_div')];
+
+  cards.forEach(card => {
+    const name       = card.dataset.name    || '';
+    const pokedex    = card.dataset.pokedex || '';
+    const types      = card.dataset.types   || '';
+    const pokedexNum = String(Number(pokedex));
+
+    const matchSearch = !raw
+      || name.includes(raw)
+      || pokedex.includes(raw.padStart(3, '0'))
+      || pokedexNum.includes(raw)
+      || types.includes(raw);
+
+    const matchType = !typeFilter || types.split(',').includes(typeFilter);
+
+    card.style.display = (matchSearch && matchType) ? '' : 'none';
+  });
+
+  // Tri uniquement sur les cartes visibles
+  const visible = cards.filter(c => c.style.display !== 'none');
+  const hidden  = cards.filter(c => c.style.display === 'none');
+
+  visible.sort((a, b) => {
+    const numA  = Number(a.dataset.pokedex);
+    const numB  = Number(b.dataset.pokedex);
+    const nameA = a.dataset.name || '';
+    const nameB = b.dataset.name || '';
+
+    switch (sortVal) {
+      case 'pokedex01': return numA - numB;
+      case 'pokedex10': return numB - numA;
+      case 'pokemonaz': return nameA.localeCompare(nameB);
+      case 'pokemonza': return nameB.localeCompare(nameA);
+      default:          return numA - numB;
+    }
+  });
+
+  // Réinsérer dans le DOM dans le bon ordre
+  [...visible, ...hidden].forEach(card => pokemonContainer.appendChild(card));
+}
+
 async function getPokemon() {
   try {
     const [data, dataLearn, dataEvo, dataTM] = await Promise.all([
@@ -58,8 +109,10 @@ async function getPokemon() {
     const pokemonContainer = document.querySelector('.pokemon_container');
     if (!pokemonContainer) throw new Error("Le conteneur '.pokemon_container' n'existe pas dans le DOM");
 
-    // ✅ searchInput déclaré AVANT le forEach pour être accessible dans les callbacks
-    const searchInput = document.getElementById('searchInput') || document.querySelector('input[type="text"]');
+    // ✅ Contrôles déclarés AVANT le forEach
+    const searchInput  = document.getElementById('searchInput') || document.querySelector('input[type="text"]');
+    const sortSelect   = document.getElementById('sort');
+    const filterSelect = document.getElementById('filter');
 
     // ✅ Fonction d'ajustement individuel — chaque sprite s'ajuste dès son chargement
     function adjustSprite(img) {
@@ -92,9 +145,8 @@ async function getPokemon() {
       const pokemonImg = document.createElement('img');
       pokemonImg.alt = pokemon.Name;
       pokemonImg.classList.add('pokemon_sprite');
-      pokemonImg.src = getSpriteUrl(pokemon); // ✅ Utilise la fonction utilitaire
+      pokemonImg.src = getSpriteUrl(pokemon);
 
-      // ✅ Ajustement immédiat dès le chargement — plus d'attente globale
       if (pokemonImg.complete) {
         adjustSprite(pokemonImg);
       } else {
@@ -130,8 +182,8 @@ async function getPokemon() {
 
         const urlName = ability.name.toLowerCase().replace(/\s+/g, '-');
         talentNom.href = `https://pokemondb.net/ability/${urlName}`;
-        talentNom.target = '_blank'; // ✅ Fix : '_blank' avec underscore
-        talentNom.rel = 'noopener noreferrer'; // ✅ Sécurité liens externes
+        talentNom.target = '_blank';
+        talentNom.rel = 'noopener noreferrer';
 
         divNomTalent.appendChild(talentNom);
       });
@@ -167,7 +219,7 @@ async function getPokemon() {
       // — Assemblage principal
       pokemonDiv.append(pokemonTop, pokemonImg, divTalent, typesContainer, divStats);
 
-      // — Attributs de recherche
+      // — Attributs de recherche/tri/filtre
       pokemonDiv.dataset.name    = String(pokemon.Name || '').toLowerCase();
       pokemonDiv.dataset.pokedex = String(pokemon.ID).padStart(3, '0');
       pokemonDiv.dataset.types   = types.join(',').toLowerCase();
@@ -253,9 +305,9 @@ async function getPokemon() {
             const itemImg = document.createElement('img');
             itemImg.alt = evo.Param;
             itemImg.src = `./img/items/${itemFileName(evo.Param)}.png`;
-            itemImg.style.width       = '32px';
-            itemImg.style.height      = '32px';
-            itemImg.style.objectFit   = 'contain';
+            itemImg.style.width        = '32px';
+            itemImg.style.height       = '32px';
+            itemImg.style.objectFit    = 'contain';
             itemImg.style.marginBottom = '8px';
             itemImg.addEventListener('error', () => {
               const span = document.createElement('span');
@@ -283,15 +335,14 @@ async function getPokemon() {
           evoImg.alt = evo.Target;
           evoImg.style.maxWidth  = '100px';
           evoImg.style.maxHeight = '100px';
-          evoImg.style.cursor    = 'pointer'; // ✅ Curseur pour indiquer le clic
-          evoImg.src = getSpriteUrl(targetPokemon); // ✅ Utilise la fonction utilitaire
-          evoImg.title = "Search Evolution"
+          evoImg.style.cursor    = 'pointer';
+          evoImg.src = getSpriteUrl(targetPokemon);
+          evoImg.title = "Search Evolution";
 
-          // ✅ Fix : clic sur l'évolution → remplit la recherche avec le bon nom
           evoImg.addEventListener('click', () => {
             if (searchInput) {
               searchInput.value = evo.Target;
-              searchInput.dispatchEvent(new Event('input')); // ✅ Déclenche le filtre
+              searchInput.dispatchEvent(new Event('input'));
             }
           });
 
@@ -306,25 +357,22 @@ async function getPokemon() {
       pokemonContainer.appendChild(pokemonDiv);
     });
 
-    // — Recherche par nom, type ou #Pokédex
-    if (searchInput) {
-      searchInput.addEventListener('input', () => {
-        const raw = searchInput.value.trim().toLowerCase();
-        const q = raw.replace('#', '');
-        const cards = pokemonContainer.querySelectorAll('.pokemon_div');
-        cards.forEach(card => {
-          const name        = card.dataset.name    || '';
-          const pokedex     = card.dataset.pokedex  || '';
-          const types       = card.dataset.types    || '';
-          const pokedexNum  = String(Number(pokedex));
-          const match = !q
-            || name.includes(q)
-            || pokedex.includes(q.padStart(3, '0'))
-            || pokedexNum.includes(q)
-            || types.includes(q);
-          card.style.display = match ? '' : 'none';
-        });
-      });
+    // — Recherche + Tri + Filtre
+    const refresh = () => applyFiltersAndSort(pokemonContainer, searchInput, sortSelect, filterSelect);
+
+    searchInput?.addEventListener('input',  refresh);
+    sortSelect?.addEventListener('change',  refresh);
+    filterSelect?.addEventListener('change', refresh);
+
+    // Tri initial (pokedex croissant par défaut)
+    refresh();
+
+    // — Lecture du paramètre URL ?search=NomPokemon (venant de la page Fight)
+    const params = new URLSearchParams(window.location.search);
+    const searchParam = params.get('search');
+    if (searchParam && searchInput) {
+      searchInput.value = searchParam;
+      refresh();
     }
 
   } catch (erreur) {

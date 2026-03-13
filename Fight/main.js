@@ -8,31 +8,32 @@ let POKEMON_DEX = {};
 const TRAINER_SPRITES = {
   "Rival":                    "Sprite_Rival.gif",
   "PKMN Trainer Ethan":       "Sprite_Luth_HGSS.png",
-  "PKMN Trainer Lyra":        "Sprite_Luth_HGSS.png",
-  "PKMN Trainer Buck":        "Sprite_Campeur_DP.png",
-  "PKMN Trainer Riley":       "Sprite_Campeur_DP.png",
-  "PKMN Trainer Cheryl":      "Sprite_Pique-Nique_DP.png",
-  "PKMN Trainer Marley":      "Sprite_Fillette_HGSS.png",
-  "PKMN Trainer Mira":        "Sprite_Fillette_HGSS.png",
+  "PKMN Trainer Lyra":        "Sprite_Célesta_HGSS.png",
+  "PKMN Trainer Buck":        "Sprite_Trainer_Buck.png",
+  "PKMN Trainer Riley":       "Sprite_Trainer_Riley.png",
+  "PKMN Trainer Cheryl":      "Sprite_Trainer_Cheryl.png",
+  "PKMN Trainer Marley":      "Sprite_Trainer_Marley.png",
+  "PKMN Trainer Mira":        "Sprite_Trainer_Mira.png",
 
-  "Leader Falkner":           "Sprite_Mortimer_HGSS.gif",
-  "Leader Bugsy":             "Sprite_Clément_HGSS.gif",
-  "Leader Whitney":           "Sprite_Marion_HGSS.gif",
-  "Leader Morty":             "Sprite_Frédo_HGSS.gif",
+  "Leader Falkner":           "Sprite_Albert_HGSS.gif",
+  "Leader Bugsy":             "Sprite_Hector_HGSS.gif",
+  "Leader Whitney":           "Sprite_Blanche_HGSS.gif",
+  "Leader Morty":             "Sprite_Mortimer_HGSS.gif",
   "Leader Chuck":             "Sprite_Chuck_HGSS.gif",
   "Leader Jasmine":           "Sprite_Jasmine_HGSS.gif",
-  "Leader Pryce":             "Sprite_Jeannine_HGSS.gif",
+  "Leader Pryce":             "Sprite_Frédo_HGSS.gif",
   "Leader Clair":             "Sprite_Sandra_HGSS.gif",
 
-  "Elite Four Will":          "Sprite_Intello_HGSS.png",
+  "Elite Four Will":          "Sprite_Clément_HGSS.gif",
   "Elite Four Koga":          "Sprite_Koga_HGSS.gif",
-  "Elite Four Bruno":         "Sprite_Hector_HGSS.gif",
-  "Elite Four Karen":         "Sprite_Morgane_HGSS.gif",
-  "Champion Lance":           "Sprite_Lance_HGSS.gif",
-  "Lance":                    "Sprite_Lance_HGSS.gif",
+  "Elite Four Bruno":         "Sprite_Aldo_HGSS.gif",
+  "Elite Four Karen":         "Sprite_Marion_HGSS.gif",
+  "Champion Lance":           "Sprite_Peter_HGSS.gif",
+  "Lance":                    "Sprite_Peter_HGSS.gif",
 
   "Rocket Boss Giovanni":     "Sprite_Giovanni_HGSS.png",
   "Team Rocket Grunt":        "Sprite_Sbire_Rocket_M_HGSS.png",
+  "Team Rocket F Grunt":      "Sprite_Sbire_Rocket_F_HGSS.png",
   "Executive Archer":         "Sprite_Amos_HGSS.png",
   "Executive Ariana":         "Sprite_Ariane_HGSS.png",
   "Executive Petrel":         "Sprite_Lambda_HGSS.png",
@@ -67,6 +68,8 @@ const TRAINER_SPRITES = {
   "Bird Keeper Rod":          "Sprite_Ornithologue_HGSS.png",
   "Bird Keeper Theo":         "Sprite_Ornithologue_HGSS.png",
   "Bird Keeper Vance":        "Sprite_Ornithologue_HGSS.png",
+  "Bird Keeper Bryan":        "Sprite_Ornithologue_HGSS.png",
+  "Bird Keeper Toby":         "Sprite_Ornithologue_HGSS.png",
 
   "Bug Catcher Wade":         "Sprite_Scout_HGSS.png",
   "Bug Catcher Al":           "Sprite_Scout_HGSS.png",
@@ -84,7 +87,7 @@ const TRAINER_SPRITES = {
   "Hiker Parry":              "Sprite_Montagnard_DP.png",
   "Hiker Russel":             "Sprite_Montagnard_DP.png",
   "Hiker Timothy":            "Sprite_Montagnard_DP.png",
-  "Ruin Maniac Gordon":       "Sprite_Montagnard_DP.png",
+  "Ruin Maniac Gordon":       "Sprite_Ruin_Maniac_Gordon.png",
 
   "Camper Elliot":            "Sprite_Campeur_DP.png",
   "Camper Grant":             "Sprite_Campeur_DP.png",
@@ -99,7 +102,7 @@ const TRAINER_SPRITES = {
   "Picnicker Gina":           "Sprite_Pique-Nique_DP.png",
   "Picnicker Liz":            "Sprite_Pique-Nique_DP.png",
   "Picnicker Tiffany":        "Sprite_Pique-Nique_DP.png",
-  "Cowgirl Tay-Tay":          "Sprite_Pique-Nique_DP.png",
+  "Cowgirl Tay-Tay":          "Sprite_Cowgirl_Tay.png",
 
   "Lass Carrie":              "Sprite_Fillette_HGSS.png",
   "Lass Cathy":               "Sprite_Fillette_HGSS.png",
@@ -107,9 +110,9 @@ const TRAINER_SPRITES = {
   "Lass Dana":                "Sprite_Fillette_HGSS.png",
   "Lass Krise":               "Sprite_Fillette_HGSS.png",
 
-  "School Kid Alan":          "Sprite_Ace_Trainer_F.png",
-  "School Kid Chad":          "Sprite_Ace_Trainer_F.png",
-  "School Kid Jack":          "Sprite_Ace_Trainer_F.png",
+  "School Kid Alan":          "Sprite_Élève_HGSS.png",
+  "School Kid Chad":          "Sprite_Élève_HGSS.png",
+  "School Kid Jack":          "Sprite_Élève_HGSS.png",
   "Ace Trainer Allen":        "Sprite_Ace_Trainer_M.png",
   "Ace Trainer Blake":        "Sprite_Ace_Trainer_M.png",
   "Ace Trainer Brian":        "Sprite_Ace_Trainer_M.png",
@@ -128,7 +131,7 @@ const TRAINER_SPRITES = {
   "Ace Trainer Mike":         "Sprite_Ace_Trainer_M.png",
   "Ace Trainer Paulo":        "Sprite_Ace_Trainer_M.png",
   "Ace Trainer Peter":        "Sprite_Ace_Trainer_M.png",
-  "Ace Trainer Piper":        "Sprite_Ace_Trainer_M.png",
+  "Ace Trainer Piper":        "Sprite_Ace_Trainer_F.png",
   "Ace Trainer Reena":        "Sprite_Ace_Trainer_F.png",
   "Ace Trainer Ryan":         "Sprite_Ace_Trainer_M.png",
 
@@ -170,27 +173,27 @@ const TRAINER_SPRITES = {
   "Black Belt Nob":           "Sprite_Karatéka_HGSS.png",
   "Black Belt Yoshi":         "Sprite_Karatéka_HGSS.png",
 
-  "Boarder Deandre":          "Sprite_Motard_HGSS.png",
-  "Boarder Gerardo":          "Sprite_Motard_HGSS.png",
-  "Boarder Patton":           "Sprite_Motard_HGSS.png",
+  "Boarder Deandre":          "Sprite_Surfer_HGSS.png",
+  "Boarder Gerardo":          "Sprite_Surfer_HGSS.png",
+  "Boarder Patton":           "Sprite_Surfer_HGSS.png",
 
   "Skier Diana":              "Sprite_Skieuse_HGSS.png",
   "Skier Jill":               "Sprite_Skieuse_HGSS.png",
 
-  "Beauty Callie":            "Sprite_Star_DP.png",
-  "Beauty Charlotte":         "Sprite_Star_DP.png",
-  "Beauty Samantha":          "Sprite_Star_DP.png",
-  "Beauty Valerie":           "Sprite_Star_DP.png",
-  "Beauty Victoria":          "Sprite_Star_DP.png",
+  "Beauty Callie":            "Sprite_Beauty_Victoria.png",
+  "Beauty Charlotte":         "Sprite_Beauty_Victoria.png",
+  "Beauty Samantha":          "Sprite_Beauty_Victoria.png",
+  "Beauty Valerie":           "Sprite_Beauty_Victoria.png",
+  "Beauty Victoria":          "Sprite_Beauty_Victoria.png",
 
-  "Gentleman Alfred":         "Sprite_Gentleman_HGSS.png",
-  "Gentleman Preston":        "Sprite_Gentleman_HGSS.png",
-  "Gentleman Samuel":         "Sprite_Gentleman_HGSS.png",
-  "Socialite Brandon":        "Sprite_Gentleman_HGSS.png",
+  "Gentleman Alfred":         "Sprite_Socialite_M.png",
+  "Gentleman Preston":        "Sprite_Socialite_M.png",
+  "Gentleman Samuel":         "Sprite_Socialite_M.png",
+  "Socialite Brandon":        "Sprite_Socialite_F.png",
 
-  "Lady Kim":                 "Sprite_Topdresseur_F_HGSS.png",
-  "Parasol Lady Joan":        "Sprite_Topdresseur_F_HGSS.png",
-  "Parasol Lady Kassandra":   "Sprite_Topdresseur_F_HGSS.png",
+  "Lady Kim":                 "Sprite_Lady_Kim.png",
+  "Parasol Lady Joan":        "Sprite_Parasol_Lady_Joan_HGSS.png",
+  "Parasol Lady Kassandra":   "Sprite_Parasol_Lady_Joan_HGSS.png",
 
   "Poke Maniac Beckett":      "Sprite_Pokémaniac_HGSS.png",
   "Poke Maniac Brent":        "Sprite_Pokémaniac_HGSS.png",
@@ -200,13 +203,13 @@ const TRAINER_SPRITES = {
   "Poke Maniac Larry":        "Sprite_Pokémaniac_HGSS.png",
   "Poke Maniac Ron":          "Sprite_Pokémaniac_HGSS.png",
   "Poke Maniac Shane":        "Sprite_Pokémaniac_HGSS.png",
-  "Poke Maniac Zach":        "Sprite_Pokémaniac_HGSS.png",
-  "Trainer Burnetto":         "Sprite_Éleveur_DP.png",
-  "Pokefan Derek":            "Sprite_Éleveur_DP.png",
-  "Pokefan William":          "Sprite_Éleveur_DP.png",
-  "Pokefan Beverly":          "Sprite_Éleveuse_DP.png",
-  "Pokefan Ruth":             "Sprite_Éleveuse_DP.png",
-  "Rancher Bobbie":           "Sprite_Éleveuse_DP.png",
+  "Poke Maniac Zach":         "Sprite_Pokémaniac_HGSS.png",
+  "Trainer Burnetto":         "Sprite_Pokefan_M.png",
+  "Pokefan Derek":            "Sprite_Pokefan_M.png",
+  "Pokefan William":          "Sprite_Pokefan_M.png",
+  "Pokefan Beverly":          "Sprite_Pokefan_F.png",
+  "Pokefan Ruth":             "Sprite_Pokefan_F.png",
+  "Rancher Bobbie":           "Sprite_Rancher_HGSS.png",
 
   "Psychic Eli":              "Sprite_Kinésiste_M_DP.png",
   "Psychic Greg":             "Sprite_Kinésiste_M_DP.png",
@@ -237,7 +240,7 @@ const TRAINER_SPRITES = {
   "Firebreather Bill":        "Sprite_Crache-Feu_HGSS.png",
   "Firebreather Ned":         "Sprite_Crache-Feu_HGSS.png",
   "Firebreather Ray":         "Sprite_Crache-Feu_HGSS.png",
-  "Firebreather Richard":     "Sprite_Richard_DP.png",
+  "Firebreather Richard":     "Sprite_Crache-Feu_HGSS.png",
   "Firebreather Walt":        "Sprite_Crache-Feu_HGSS.png",
 
   "Twins Amy&Mimi":           "Sprite_Jumelles_HGSS.png",
@@ -258,9 +261,8 @@ function getTrainerSprite(name) {
   return "img/trainer/Sprite_Default.png";
 }
 
-// ── Pokemon Sprite via ID Pokédex ───────────────────────────────────────────
+// ── Pokemon Sprite via ID Pokédex ────────────────────────────────────────────
 function getPokemonSprite(species) {
-  // Recherche insensible à la casse
   const key = Object.keys(POKEMON_DEX).find(
     k => k.toLowerCase() === species.toLowerCase()
   );
@@ -271,14 +273,12 @@ function getPokemonSprite(species) {
   const id = pokemon.ID;
   const name = pokemon.Name.toLowerCase();
 
-  // Noms avec tiret qui ne sont PAS des formes (tiret fait partie du nom)
   const noFormeSuffix = ["ho-oh", "porygon-z", "nidoran-m", "nidoran-f"];
 
   if (noFormeSuffix.includes(name)) {
     return `../PokemonList/img/pokemon_animated_sprite/${id}.gif`;
   }
 
-  // Noms avec tiret = forme alternate (ex: Wormadam-Sandy → wormadam-sandy.gif)
   if (name.includes("-")) {
     const forme = name.split("-").slice(1).join("-");
     return `../PokemonList/img/pokemon_animated_sprite/${id}-${forme}.gif`;
@@ -293,23 +293,18 @@ async function loadPokemonDex() {
   const data = await res.json();
   data.forEach(p => {
     POKEMON_DEX[p.Name] = p;
-    // Indexer aussi en lowercase pour les lookups insensibles
     POKEMON_DEX[p.Name.toLowerCase()] = p;
   });
 }
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
-function getDivClass(trainerName, notes) {
-  const mandatoryKeywords = [
-    "if you chose","leader","elite","champion","professor","elder",
-    "kimono","red","lance","karen","will","koga","bruno", "rocket boss", "executive", "purple switch", "top rightmost", "bottommost", " fight or the", "*"
-  ];
+function getDivClass(trainerName) {
+  const mandatoryKeywords = ["*", "rival", "elder li", "leader", "executive", "boss", "kimono", "ho-oh", "elite four", "champion"];
 
   const name = (trainerName || "").toLowerCase();
-  const note = (notes || "").toLowerCase();
 
-  if (name.includes("pkmn")) return "green_div divs";
-  if (mandatoryKeywords.some(k => name.includes(k) || note.includes(k))) return "red_div divs";
+  if (name.includes("/")) return "green_div divs";
+  if (mandatoryKeywords.some(k => name.includes(k))) return "red_div divs";
   return "blue_div divs";
 }
 
@@ -326,18 +321,37 @@ function buildTrainerTable(trainer, locationName) {
   const spriteCells = pokes.map(p => {
     if (!p) return `<th rowspan="2"></th>`;
     const sprite = getPokemonSprite(p.species);
-    return `<th rowspan="2"><img src="${sprite}" alt="${p.species}"></th>`;
+    return `<th rowspan="2">
+      <a href="../PokemonList/index.html?search=${encodeURIComponent(p.species)}" title="Pokemon info">
+        <img src="${sprite}" alt="${p.species}" style="cursor:pointer;">
+      </a>
+    </th>`;
   }).join("");
 
-  const nameCells = pokes.map(p => cell(p ? p.species : "")).join("");
-  const notesCell = `<th rowspan="8">${(notes || "").replace(/\n/g,"<br>")}</th>`;
-  const levelCells = pokes.map(p => cell(p ? p.level : "")).join("");
-  const natureCells = pokes.map(p => cell(p ? (p.nature || "").replace(/\n/g,"<br>") : "")).join("");
-  const abilityCells = pokes.map(p => cell(p ? p.ability : "")).join("");
-  const itemCells = pokes.map(p => cell(p ? p.item : "")).join("");
+  const nameCells   = pokes.map(p => cell(p ? p.species : "")).join("");
+  const notesCell   = `<th rowspan="8">${(notes || "").replace(/\n/g, "<br>")}</th>`;
+  const levelCells  = pokes.map(p => cell(p ? p.level : "")).join("");
+  const natureCells = pokes.map(p => cell(p ? (p.nature || "").replace(/\n/g, "<br>") : "")).join("");
+  const abilityCells = pokes.map(p => {
+    if (!p) return `<th></th>`;
+    const urlName = (p.ability || '').toLowerCase().replace(/\s+/g, '-');
+    return `<th><a href="https://pokemondb.net/ability/${urlName}" target="_blank" rel="noopener noreferrer" title="Search ability">${p.ability || ''}</a></th>`;
+  }).join("");
+    const itemCells = pokes.map(p => {
+    if (!p || !p.item) return `<th></th>`;
+    const noLink = ['no item', 'none', '-', ''].includes(p.item.toLowerCase());
+    if (noLink) return `<th>${p.item}</th>`;
+    const urlName = p.item.toLowerCase().replace(/\s+/g, '-');
+    return `<th><a href="https://pokemondb.net/item/${urlName}" target="_blank" rel="noopener noreferrer" title="Search item">${p.item}</a></th>`;
+  }).join("");
 
   function moveRow(idx) {
-    const cells = pokes.map(p => cell(p && p.moves ? p.moves[idx] || "" : "")).join("");
+    const cells = pokes.map(p => {
+      const move = p && p.moves ? p.moves[idx] || "" : "";
+      if (!move) return `<th></th>`;
+      const urlName = move.toLowerCase().replace(/\s+/g, '-');
+      return `<th><a href="https://pokemondb.net/move/${urlName}" target="_blank" rel="noopener noreferrer" title="Search move">${move}</a></th>`;
+    }).join("");
     return `<tr>${cells}<th>Move ${idx + 1}</th></tr>`;
   }
 
@@ -381,18 +395,34 @@ async function renderAllSplits() {
       const splitTitle = document.createElement("h2");
       splitTitle.textContent = splitData.split.toUpperCase();
       splitTitle.classList.add("split_title");
+      splitTitle.dataset.split = splitData.split.toLowerCase();
       main.appendChild(splitTitle);
 
       // ── Trainers
       splitData.locations.forEach(location => {
         location.trainers.forEach(trainer => {
           const div = document.createElement("div");
-          div.className = getDivClass(trainer.name, trainer.notes);
+          div.className = getDivClass(trainer.name);
+          div.dataset.split = splitData.split.toLowerCase();
           div.innerHTML = buildTrainerTable(trainer, location.name);
           main.appendChild(div);
         });
       });
     });
+
+    // ── Filtre — branché après que tout le contenu est généré
+    const filterSelect = document.getElementById('filter');
+    if (filterSelect) {
+      filterSelect.addEventListener('change', () => {
+        const val = filterSelect.value;
+        document.querySelectorAll('main .divs').forEach(div => {
+          div.style.display = (val === 'all' || div.dataset.split === val) ? '' : 'none';
+        });
+        document.querySelectorAll('main .split_title').forEach(title => {
+          title.style.display = (val === 'all' || title.dataset.split === val) ? '' : 'none';
+        });
+      });
+    }
 
   } catch(err) {
     console.error("Erreur de chargement :", err);
