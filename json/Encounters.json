@@ -7,7 +7,7 @@
     "methods": {
       "event": {
         "label": "Special Event",
-        "pokemon":[
+        "pokemon": [
           {
             "id": 479
           }
@@ -62,6 +62,20 @@
           {
             "id": 130,
             "pct": "10%"
+          }
+        ]
+      },
+      "starter": {
+        "label": "Starter Gift",
+        "pokemon": [
+          {
+            "id": 152
+          },
+          {
+            "id": 155
+          },
+          {
+            "id": 158
           }
         ]
       }
@@ -328,7 +342,7 @@
       },
       "starter": {
         "label": "Starter Gift",
-        "pokemon":[
+        "pokemon": [
           {
             "id": 1
           },
@@ -350,7 +364,7 @@
     "methods": {
       "gift": {
         "label": "Gifted Pokemon",
-        "pokemon":[
+        "pokemon": [
           {
             "id": 133
           }
@@ -1021,7 +1035,7 @@
     "methods": {
       "starter": {
         "label": "Starter Gift",
-        "pokemon":[
+        "pokemon": [
           {
             "id": 1
           },
@@ -1030,14 +1044,6 @@
           },
           {
             "id": 7
-          }
-        ]
-      },
-      "event": {
-        "label": "Special Event",
-        "pokemon":[
-          {
-            "id": 442
           }
         ]
       },
@@ -1745,6 +1751,14 @@
     "levels": "13-16",
     "image": "img/cave/union_cave_b1f.png",
     "methods": {
+      "event": {
+        "label": "Special Event",
+        "pokemon": [
+          {
+            "id": 131
+          }
+        ]
+      },
       "cave_all": {
         "label": "Cave All Times",
         "pokemon": [
@@ -2111,6 +2125,28 @@
         "pokemon": [
           {
             "id": 271
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "azalea_town",
+    "name": "Azalea Town",
+    "levels": "",
+    "image": "img/city/azalea_town.png",
+    "methods": {
+      "starter": {
+        "label": "Starter Gift",
+        "pokemon": [
+          {
+            "id": 252
+          },
+          {
+            "id": 255
+          },
+          {
+            "id": 258
           }
         ]
       }
@@ -2742,7 +2778,7 @@
     "methods": {
       "starter": {
         "label": "Starter Gift",
-        "pokemon":[
+        "pokemon": [
           {
             "id": 387
           },
@@ -2751,6 +2787,28 @@
           },
           {
             "id": 393
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "saffron_city",
+    "name": "Saffron City",
+    "levels": "",
+    "image": "img/city/saffron_city.png",
+    "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 152
+          },
+          {
+            "id": 155
+          },
+          {
+            "id": 158
           }
         ]
       }
@@ -3117,7 +3175,7 @@
     "methods": {
       "event": {
         "label": "Special Event",
-        "pokemon":[
+        "pokemon": [
           {
             "id": 185
           }
@@ -3344,6 +3402,14 @@
     "levels": "N/A",
     "image": "img/city/ecruteak_city.png",
     "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 351
+          }
+        ]
+      },
       "surf": {
         "label": "Surf",
         "pokemon": [
@@ -4224,6 +4290,14 @@
             "pct": "10%"
           }
         ]
+      },
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 25
+          }
+        ]
       }
     }
   },
@@ -5079,6 +5153,14 @@
     "levels": "33-35",
     "image": "img/Route/mt_mortar_b1f.png",
     "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 236
+          }
+        ]
+      },
       "cave_all": {
         "label": "Cave All Times",
         "pokemon": [
@@ -5335,11 +5417,36 @@
     }
   },
   {
+    "id": "mahogany_town",
+    "name": "Mahogany Town",
+    "levels": "",
+    "image": "img/city/mahogany_town.png",
+    "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 447
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "lake_of_rage",
     "name": "Lake of Rage",
     "levels": "10-50",
     "image": "img/Route/lake_of_rage.png",
     "methods": {
+      "event": {
+        "label": "Special Event",
+        "pokemon": [
+          {
+            "id": 130,
+            "sprite": "130s.gif"
+          }
+        ]
+      },
       "surf": {
         "label": "Surf",
         "pokemon": [
@@ -6337,6 +6444,14 @@
     "levels": "10-40",
     "image": "img/Route/dragons_den.png",
     "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 148
+          }
+        ]
+      },
       "surf": {
         "label": "Surf",
         "pokemon": [
@@ -6413,6 +6528,26 @@
     "levels": "43-45",
     "image": "img/Route/tohjo_falls.png",
     "methods": {
+      "event": {
+        "label": "Special Event",
+        "pokemon": [
+          {
+            "id": 149
+          },
+          {
+            "id": 248
+          },
+          {
+            "id": 373
+          },
+          {
+            "id": 376
+          },
+          {
+            "id": 445
+          }
+        ]
+      },
       "cave_all": {
         "label": "Cave All Times",
         "pokemon": [
@@ -6796,6 +6931,22 @@
     }
   },
   {
+    "id": "route_11",
+    "name": "Route 11",
+    "levels": "",
+    "image": "img/Route/Route_11.png",
+    "methods": {
+      "event": {
+        "label": "Special Event",
+        "pokemon": [
+          {
+            "id": 143
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "victory_road_1f",
     "name": "Victory Road [1F]",
     "levels": "44-46",
@@ -7025,7 +7176,7 @@
     "id": "bell_tower_2f3f",
     "name": "Bell Tower [2F-3F]",
     "levels": "40-48",
-    "image": "img/Route/bell_tower_2f3f.png",
+    "image": "img/tour/bell_tower_2f3f.png",
     "methods": {
       "building_all": {
         "label": "Building All Times",
@@ -7084,7 +7235,7 @@
     "id": "bell_tower_4f6f",
     "name": "Bell Tower [4F-6F]",
     "levels": "41-49",
-    "image": "img/Route/bell_tower_4f6f.png",
+    "image": "img/tour/bell_tower_4f6f.png",
     "methods": {
       "building_all": {
         "label": "Building All Times",
@@ -7144,7 +7295,7 @@
     "id": "bell_tower_7f9f",
     "name": "Bell Tower [7F-9F]",
     "levels": "41-50",
-    "image": "img/Route/bell_tower_7f9f.png",
+    "image": "img/tour/bell_tower_7f9f.png",
     "methods": {
       "building_all": {
         "label": "Building All Times",
@@ -7215,7 +7366,7 @@
     "id": "bell_tower_10f",
     "name": "Bell Tower [10F]",
     "levels": "43-50",
-    "image": "img/Route/bell_tower_10f.png",
+    "image": "img/tour/bell_tower_10f.png",
     "methods": {
       "building_all": {
         "label": "Building All Times",
@@ -7278,6 +7429,50 @@
           },
           {
             "id": 437
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "pewter_city",
+    "name": "Pewter City",
+    "levels": "",
+    "image": "img/city/pewter_city.png",
+    "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 252
+          },
+          {
+            "id": 255
+          },
+          {
+            "id": 258
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "route_12",
+    "name": "Route 12",
+    "levels": "",
+    "image": "img/Route/Route_12.png",
+    "methods": {
+      "gift": {
+        "label": "Gifted Pokémon",
+        "pokemon": [
+          {
+            "id": 1
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 7
           }
         ]
       }

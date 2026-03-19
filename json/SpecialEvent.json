@@ -1,0 +1,316 @@
+{
+  "Non-Legendary Encounters": [
+    {
+      "id": 479,
+      "name": "Rotom",
+      "requirements": ["Plain Badge"],
+      "guide": "Once you earn your Plain Badge from Whitney, return to New Bark Town and interact with the TV on the bottom floor of your house. Choose Yes to encounter a Level 20 Rotom. To change Rotom's form prior to reaching Saffron City, there is a thief in the bottom of the Goldenrod Mart behind a box who will teleport you to the appropriate room.",
+      "level": 20
+    },
+    {
+      "id": 442,
+      "name": "Spiritomb",
+      "requirements": ["An Odd Keystone"],
+      "image": "img/spritomb_location.png",
+      "guide": "Cynthia will give you an Odd Keystone on your way to Goldenrod City. Return to Azalea Town, stand on top of the ladder into Slowpoke Well, and press A. Choose Yes to encounter a Level 20 Spiritomb. The keystone is consumed immediately. Further Odd Keystones can be obtained from the captain of the S.S. Aqua after obtaining the Earth Badge.",
+      "level": 20
+    },
+    {
+      "id": 185,
+      "name": "Sudowoodo",
+      "requirements": ["None, storyline."],
+      "guide": "Get the Plain Badge, get the SquirtBottle, and toss some water on it. It is now Level 25 instead of the original Level 20.",
+      "level": 25
+    },
+    {
+      "id": 131,
+      "name": "Lapras",
+      "requirements": ["Friday", "Fog Badge"],
+      "guide": "Once you get the Fog Badge from Morty, you can catch one every Friday. Lapras is now Level 25 instead of the original Level 20.",
+      "level": 25
+    },
+    {
+      "id": 130,
+      "name": "Gyarados",
+      "requirements": ["None, storyline."],
+      "guide": "The Red Gyarados is now Level 40 instead of Level 30.",
+      "level": 40
+    },
+    {
+      "id": 143,
+      "name": "Snorlax",
+      "requirements": ["Kanto Radio Card Expansion"],
+      "guide": "Snorlax is now a couple steps right of the entrance to Diglett's Cave, blocking only the route to Route 11. It is now Level 60.",
+      "level": 60
+    },
+    {
+      "id": "XXX",
+      "name": "Pseudo-Legend",
+      "requirements": ["Earth Badge"],
+      "guide": "Go to the radio in Tohjo Falls to tune into one of five channels. The one you pick will cause a Pokémon to appear at Level 60 in its shiny form.",
+      "level": 60,
+      "options": [
+        { "channel": "Sixteen Hours", "pokemon": "Dragonite", "pokemon_id": 149},
+        { "channel": "The Black Rock", "pokemon": "Tyranitar", "pokemon_id": 248},
+        { "channel": "Menacing Boom", "pokemon": "Salamence", "pokemon_id": 373},
+        { "channel": "Cross Attack", "pokemon": "Metagross", "pokemon_id": 376},
+        { "channel": "Jaws on Land", "pokemon": "Garchomp", "pokemon_id": 445}
+      ]
+    }
+  ],
+  "Gifted Pokemon": [
+    {
+      "id": 133,
+      "name": "Eevee",
+      "requirements": ["None; storyline."],
+      "guide": "When you first reach Mr. Pokémon's house, Cynthia will be outside. After talking to her, she gifts you a Level 5 Eevee. An evolution item is obtained from the Sprout Tower sage. Further Eevee are available from the Celadon Game Corner.",
+      "level": 5
+    },
+    {
+      "id": 351,
+      "name": "Castform",
+      "requirements": ["Enter Ecruteak Pokémon Center."],
+      "guide": "Castform replaces the Eevee that Bill gave you previously; all other rules are the same. It comes at Level 25, attached with a Mystic Water.",
+      "level": 25
+    },
+    {
+      "id": 447,
+      "name": "Riolu",
+      "requirements": ["Reach Mahogany Town."],
+      "guide": "Once you get to Mahogany Town, find Riley and Buck in one of the houses. Talk to Riley and he'll give you an Egg that hatches into a Riolu if there is a free slot in your party.",
+      "level": 1
+    },
+    {
+      "id": 148,
+      "name": "Dragonair",
+      "requirements": ["Return to Dragon's Den afterwards."],
+      "guide": "You can receive a Dragon with ExtremeSpeed from the Elder. It is now a Level 45 Dragonair holding a Draco Plate.",
+      "level": 45
+    },
+    { 
+      "id": [1, 4, 7],
+      "name": "Bulbasaur, Charmander, Squirtle",
+      "requirements": ["Reach Violet City."],
+      "guide": "In Violet City's Pokémon Center, a Juggler will ask four questions. Answer all correctly to choose one of the three starters. Once you reach Kanto, go to Route 12 and show Professor Oak your Kanto starter to receive the other two.",
+      "level": null
+    },
+    {
+      "id": [152, 155, 158],
+      "name": "Chikorita, Cyndaquil, Totodile",
+      "requirements": ["Start the game."],
+      "guide": "Pick one at the start as usual. Once you reach Saffron City, find Professor Elm in Silph Co. Talk to him with two free party slots to automatically receive the other two Johto starters.",
+      "level": null
+    },
+    {
+      "id": [252, 255, 258],
+      "name": "Treecko, Torchic, Mudkip",
+      "requirements": ["Reach Azalea Town."],
+      "guide": "A Hoenn starter is available in the Azalea Town Pokémon Center for correctly answering quiz questions. Obtain the other two from Steven in Pewter City by showing him your Hoenn starter.",
+      "level": null
+    },
+    {
+      "id": [387, 390, 393],
+      "name": "Turtwig, Chimchar, Piplup",
+      "requirements": ["Reach Goldenrod City."],
+      "guide": "Get your first Sinnoh starter via a quiz from the Juggler in Goldenrod's Pokémon Center. After beating the Elite Four, show Cynthia your Sinnoh starter in the archaeological building to receive the other two.",
+      "level": null
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "requirements": ["Reach Cianwood", "Have a Pokémon with maximum happiness (255)."],
+      "guide": "On the beach of Cianwood City, find the younger Caitlin. If you have a Pokémon with 255 happiness behind you, she will give you the Pikachu if you have room in your party.",
+      "level": null
+    },
+    {
+      "id": 236,
+      "name": "Tyrogue",
+      "requirements": [],
+      "guide": "Unchanged apart from now being equipped with a Fist Plate when received as a gift. Further Tyrogue can be obtained from Celadon Game Corner.",
+      "level": null
+    }
+  ],
+  "Legendary Pokemon": [
+    {
+      "id": [144, 145],
+      "name": "Articuno, Zapdos",
+      "requirements": ["16 badges (Zapdos only)."],
+      "guide": "Obtained the same as in HG/SS but now ten levels higher at Level 60.",
+      "level": 60
+    },
+    {
+      "id": 146,
+      "name": "Moltres",
+      "requirements": ["16 badges.", "Heatran caught."],
+      "guide": "Found within the Cinnabar Gym after capturing Heatran. It is Level 60.",
+      "level": 60
+    },
+    {
+      "id": 150,
+      "name": "Mewtwo",
+      "requirements": ["16 badges."],
+      "guide": "Same position as normal but now Level 75. Check back in the same spot after capturing Mewtwo for a special surprise!",
+      "level": 75
+    },
+    {
+      "id": 151,
+      "name": "Mew",
+      "requirements": ["16 badges."],
+      "guide": "Found in Viridian Forest. It teleports around the forest each time you talk to it: left side → center-north → center-south → small alcove south of the northern exit. Talk to it a final time to battle it at Level 45.",
+      "level": 45
+    },
+    {
+      "id": [243, 244, 245],
+      "name": "Raikou, Entei, Suicune",
+      "requirements": ["Enter bottom of Burned Tower.", "See around the region (Suicune only)."],
+      "guide": "Exactly the same as HG/SS. No changes to level or mechanics.",
+      "level": null
+    },
+    {
+      "id": [249, 250],
+      "name": "Lugia, Ho-oh",
+      "requirements": ["Depends on your game."],
+      "guide": "Unchanged, except the first one encountered is now Level 50 instead of Level 45.",
+      "level": 50
+    },
+    {
+      "id": 251,
+      "name": "Celebi",
+      "requirements": ["Sixteen badges.", "Obtain Azure Flute."],
+      "guide": "Interact with the shrine while holding the Azure Flute. To get the Azure Flute, give the Magma Stone to a woman in one of the houses in Lavender Town. This is a one-time encounter at Level 45.",
+      "level": 45,
+      "one_time": true
+    },
+    {
+      "id": [377, 378, 379],
+      "name": "Regirock, Regice, Registeel",
+      "requirements": ["Defeat the Elite Four."],
+      "guide": "After becoming Champion, get the Lock Capsule from Oak at Olivine Harbour. Take it to Cynthia in Goldenrod to release the three Regis. Regirock: bottom floor of Mt. Mortar. Regice: second to bottom floor of Ice Path. Registeel: Blackthorn Side of Dark Cave. All at Level 40.",
+      "level": 40,
+      "locations": {
+        "Regirock": "Bottom floor of Mt. Mortar",
+        "Regice": "Second to bottom floor of Ice Path",
+        "Registeel": "Blackthorn Side of Dark Cave"
+      }
+    },
+    {
+      "id": [380, 381],
+      "name": "Latias, Latios",
+      "requirements": ["Depends on your version."],
+      "guide": "Collect the Poké Doll from the fan club in Vermilion City. Steven appears and the appropriate Lati starts roaming Kanto at Level 35. After catching your roamer, show it to Steven in Pewter City to get the Enigma Crystal. Take it to Goldenrod to receive a Soul Dew. Return to Vermilion City and interact with the plaque to challenge the other Lati at Level 40 (one-time encounter).",
+      "level": [35, 40],
+      "one_time": true
+    },
+    {
+      "id": [383, 382, 384],
+      "name": "Groudon, Kyogre, Rayquaza",
+      "requirements": ["Defeat Red."],
+      "guide": "After defeating Red, return to Pallet Town then visit Mr. Pokémon to receive the Red Orb. Go to Route 47's Embedded Tower: catch Groudon (Red Orb becomes Blue Orb), then Kyogre (Blue Orb becomes Jade Orb), then Rayquaza. Rayquaza is Level 75.",
+      "level": 75
+    },
+    {
+      "id": 385,
+      "name": "Jirachi",
+      "requirements": ["Sixteen badges.", "Obtain Azure Flute."],
+      "guide": "Get Rock Climb from Professor Oak, then find a Kimono Girl at Ecruteak's Dance Theater. Jirachi is at the back of Mt. Mortar near the Karate King. With the Azure Flute, talk to it to wake it up. Choose the battle option (Level 45) for your only chance to capture it.",
+      "level": 45,
+      "one_time": true
+    },
+    {
+      "id": 386,
+      "name": "Deoxys",
+      "requirements": ["Sixteen badges."],
+      "guide": "Stand in the center of the four meteors on Route 3 between midnight and 4am after getting the Earth Badge. Deoxys will appear and attack at Level 60.",
+      "level": 60
+    },
+    {
+      "id": [480, 481, 482],
+      "name": "Uxie, Mesprit, Azelf",
+      "requirements": ["Complete the Power Plant event."],
+      "guide": "Receive the Red Chain from the Power Plant manager after returning the Machine Part. Take it to Cynthia in Goldenrod to teleport to Sinjoh Ruins. Head to the Mystri Stage to find all three at Level 50.",
+      "level": 50
+    },
+    {
+      "id": [483, 484, 487],
+      "name": "Dialga, Palkia, Giratina",
+      "requirements": ["Obtain the Earth Badge.", "Capture the pixie trio (Uxie, Mesprit, Azelf)."],
+      "guide": "With the Earth Badge and all three pixies captured, stand in the center of the Mystri Stage. All three appear at Level 70. Capturing each one rewards their respective Orb item.",
+      "level": 70
+    },
+    {
+      "id": 485,
+      "name": "Heatran",
+      "requirements": ["Sixteen badges."],
+      "guide": "Rock Climb up Cinnabar to find the Magma Stone in an item ball. Picking it up causes Heatran to appear at the top of the island at Level 70. Capturing Heatran also unlocks Moltres. Trade your Magma Stone for the Azure Flute in Lavender Town.",
+      "level": 70
+    },
+    {
+      "id": 486,
+      "name": "Regigigas",
+      "requirements": ["Sixteen badges.", "Capture Regirock, Regice, and Registeel."],
+      "guide": "Interact with the tablet outside Regigigas' room (near Moltres' old location) with all three Regis in your party to shatter it. Rock Climb down and talk to Regigigas to encounter it at Level 75. No longer restricted by Slow Start in the full version.",
+      "level": 75
+    },
+    {
+      "id": 488,
+      "name": "Cresselia",
+      "requirements": ["Sixteen badges."],
+      "guide": "With the Earth Badge, walk into your bed in New Bark Town to trigger a nightmare. Then go to Mt. Moon when the Clefairy are not dancing to find Cresselia sitting in the pond at Level 50. Capturing it rewards the Lunar Wing, needed for Darkrai.",
+      "level": 50
+    },
+    {
+      "id": 489,
+      "name": "Phione",
+      "requirements": ["Nothing in particular."],
+      "guide": "2% chance of encountering a Level 30 Phione while surfing on Route 40 or Route 41. Note that Repels won't work as all wild Pokémon there are Level 30. Show a caught Phione to the girl on Route 40's shore to receive five Heart Scales.",
+      "level": 30
+    },
+    {
+      "id": 490,
+      "name": "Manaphy",
+      "requirements": ["Obtain the Earth Badge."],
+      "guide": "Find a Kimono Girl on the beach of Route 40. Accept her offer to receive a Manaphy Egg. Walk around to hatch it.",
+      "level": 1
+    },
+    {
+      "id": 491,
+      "name": "Darkrai",
+      "requirements": ["Sixteen badges.", "Capturing Cresselia."],
+      "guide": "After capturing Cresselia, obtain the Lunar Wing. Return to your room in New Bark Town and try to sleep again. Darkrai will reveal itself and attack at Level 50. This can be repeated as many times as you wish.",
+      "level": 50
+    },
+    {
+      "id": 492,
+      "name": "Shaymin",
+      "requirements": ["Sixteen badges.", "Have the Azure Flute."],
+      "guide": "With the Earth Badge, talk to the younger girl in Goldenrod's Flower Shop. Go to National Park and find Shaymin in the grass. With the Azure Flute, agree to play it and Shaymin will battle you at Level 45.",
+      "level": 45
+    },
+    {
+      "id": 493,
+      "name": "Arceus",
+      "requirements": ["Capture all 492 other available Pokémon.", "Obtain all 16 Plate items."],
+      "guide": "Head to the Mystri Stage with all 16 Plates in your inventory and a full Pokédex. Walk to the center for one chance to battle Arceus. Running or knocking it out triggers the bad ending and credits roll. Capturing Arceus locks you out of Sinjoh Ruins.",
+      "level": null,
+      "one_time": true
+    }
+  ],
+  "Plate Locations": [
+    { "name": "Flame Plate", "location": "Dirt pile in Bellchime Trail hidden between some trees." },
+    { "name": "Splash Plate", "location": "On the S.S. Aqua, show a Phione then a Manaphy to the guy on the left side of the main room." },
+    { "name": "Icicle Plate", "location": "Snow pile hidden behind a wall in the snowy outside of Sinjoh Ruins." },
+    { "name": "Toxic Plate", "location": "After obtaining the Hive Badge, interact with the bin in Elm's lab in New Bark Town." },
+    { "name": "Mind Plate", "location": "Visit Mr. Psychic's house in Saffron City. Talk to the new character with Alakazam, Gardevoir, Gallade, or Metagross at the front of your party." },
+    { "name": "Zap Plate", "location": "Check the bookcase to the bottom-right of the Power Plant once it's running again." },
+    { "name": "Meadow Plate", "location": "On Route 39, talk to the girl near some trees with a Bellossom behind you. Also rewards TM53." },
+    { "name": "Fist Plate", "location": "Equipped on the Tyrogue received from the Karate King in Mt. Mortar." },
+    { "name": "Sky Plate", "location": "Pile of snow directly in front of Red at the top of Mt. Silver." },
+    { "name": "Earth Plate", "location": "Item ball in a higher area of Diglett's Cave, accessible with Rock Climb." },
+    { "name": "Insect Plate", "location": "In National Park, interact with the spot the center-north trainer was standing on during the Bug Catching Contest." },
+    { "name": "Stone Plate", "location": "Pile of dirt to the right of Pewter Museum. Alternatively, bottom-right corner before the ledge." },
+    { "name": "Spooky Plate", "location": "In Lavender Town's cemetery, agree to pay respects to a woman's Pokémon." },
+    { "name": "Draco Plate", "location": "Equipped on the Dragonair received from the Dragon's Den Elder." },
+    { "name": "Dread Plate", "location": "In Olivine Lighthouse, give a woman 15 Poké Balls and a Destiny Knot (found on Route 27). She drops the Dread Plate." },
+    { "name": "Iron Plate", "location": "Given automatically by Steven in the gatehouse between Ecruteak City and Route 38." }
+  ]
+}

@@ -4,24 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Sacred Gold Wiki</title>
+    <title>Pokemon Rouge Feu/Vert Feuille Wiki</title>
     <link rel="stylesheet" href="styles.css">
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-    <script src="main.js" defer></script>
-    <link rel="icon" href="img/book-outline.svg">
+    <script type="module" src="main.js" defer></script>
 </head>
 
 <body>
-    
+
     <nav>
         <ion-icon name="book-outline"></ion-icon>
         <div class="links">
             <a href="../index.html">Home</a>
             <a href="../PokemonList/index.html">Pokemon List</a>
-            <a>Encounters</a>
+            <a href="../Encounters/index.html">Encounters</a>
             <a href="../Fight/index.html">Fight</a>
-            <a href="../Item/index.html">Important Item</a>
+            <a>Important Item</a>
             <a href="../event/index.html">Special Event</a>
         </div>
         <input type="checkbox" id="burger">
@@ -33,17 +32,25 @@
         <div class="dropdown_content">
             <a href="../index.html">Home</a>
             <a href="../PokemonList/index.html">Pokemon List</a>
-            <a>Encounters</a>
+            <a href="../Encounters/index.html">Encounters</a>
             <a href="../Fight/index.html">Fight</a>
-            <a href="../Item/index.html">Important Item</a>
+            <a>Important Item</a>
             <a href="../event/index.html">Special Event</a>
         </div>
     </nav>
 
     <main>
+        <h1>Important Item Location :</h1>
 
-        <input id="searchInput" type="text" placeholder="Search a route">
-        
+        <input id="searchInput" type="text" placeholder="Search a item">
+        <select name="filter" id="filter">
+            <option value="all">All</option>
+            <option value="tm">TM Locations</option>
+            <option value="evo_item">Evolutionary Item Locations</option>
+            <option value="key_item">New Key Item Locations</option>
+            <option value="fossil_item">New Fossil Locations</option>
+            <option value="other_item_location">New Other Item Locations</option>
+        </select>
     </main>
 
 </body>

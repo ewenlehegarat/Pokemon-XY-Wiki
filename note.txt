@@ -18,4 +18,5 @@ j'ai ajouté :
 - Slowpoke Well [1F]
 - Ilex Forest
 - Route 34
-- ROute 35
+- Route 35
+- National Park

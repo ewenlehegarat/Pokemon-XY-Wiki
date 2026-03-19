@@ -54,7 +54,7 @@ async function getLocations() {
         html += `
           <p>
             <a href="../PokemonList/index.html?search=${encodeURIComponent(name)}" title="${name} Info">
-              <img src="../PokemonList/img/pokemon_animated_sprite/${p.id}.gif"
+              <img src="../PokemonList/img/pokemon_animated_sprite/${p.sprite || p.id + '.gif'}"
                    alt="${name}"
                    class="pokemon_image"
                    style="cursor:pointer;">
