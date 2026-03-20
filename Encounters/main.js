@@ -1,6 +1,3 @@
-import { onView } from "../js/onView.js";
-
-
 const searchInput = document.getElementById('searchInput') || document.querySelector('input[type="text"]');
 
 if (searchInput) {
@@ -73,7 +70,6 @@ async function getLocations() {
     html += `</div></div>`;
     div.innerHTML = html;
     main.appendChild(div);
-    onView();
   });
 }
 
