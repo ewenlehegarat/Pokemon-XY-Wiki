@@ -1,7 +1,6 @@
 const data = await fetch('../json/SpecialEvent.json').then(res => res.json());
 const pokemonPersonalData = await fetch('../json/PokemonPersonalData.json').then(res => res.json());
 
-// ── Construit le dictionnaire nom → { ID, Name } ─────────────────────────────
 const POKEMON_DEX = {};
 pokemonPersonalData.forEach(p => {
   POKEMON_DEX[p.Name] = { ID: p.ID, Name: p.Name };
@@ -9,85 +8,82 @@ pokemonPersonalData.forEach(p => {
 
 const main = document.querySelector('main');
 
-// ── Mapping Plate → Pokémon associé ──────────────────────────────────────────
 const PLATE_POKEMON = {
-  "Flame Plate":   "Charizard",
-  "Splash Plate":  "Gyarados",
-  "Icicle Plate":  "Articuno",
-  "Toxic Plate":   "Gengar",
-  "Mind Plate":    "Alakazam",
-  "Zap Plate":     "Zapdos",
-  "Meadow Plate":  "Bellossom",
-  "Fist Plate":    "Hitmonchan",
-  "Sky Plate":     "Pidgeot",
-  "Earth Plate":   "Dugtrio",
-  "Insect Plate":  "Heracross",
-  "Stone Plate":   "Golem",
-  "Spooky Plate":  "Gengar",
-  "Draco Plate":   "Dragonair",
-  "Dread Plate":   "Umbreon",
-  "Iron Plate":    "Steelix"
+  "Flame Plate":  "Charizard",
+  "Splash Plate": "Gyarados",
+  "Icicle Plate": "Articuno",
+  "Toxic Plate":  "Gengar",
+  "Mind Plate":   "Alakazam",
+  "Zap Plate":    "Zapdos",
+  "Meadow Plate": "Bellossom",
+  "Fist Plate":   "Hitmonchan",
+  "Sky Plate":    "Pidgeot",
+  "Earth Plate":  "Dugtrio",
+  "Insect Plate": "Heracross",
+  "Stone Plate":  "Golem",
+  "Spooky Plate": "Gengar",
+  "Draco Plate":  "Dragonair",
+  "Dread Plate":  "Umbreon",
+  "Iron Plate":   "Steelix"
 };
 
-// ── Utilitaire sprite par nom ─────────────────────────────────────────────────
+// ── Sprite par nom ────────────────────────────────────────────────────────────
 function getPokemonSprite(species) {
-  const key = Object.keys(POKEMON_DEX).find(
-    k => k.toLowerCase() === species.toLowerCase()
-  );
+  const key = Object.keys(POKEMON_DEX).find(k => k.toLowerCase() === species.toLowerCase());
   const pokemon = key ? POKEMON_DEX[key] : null;
-
   if (!pokemon) return "../PokemonList/img/pokemon_animated_sprite/0.gif";
 
   const id = pokemon.ID;
   const name = pokemon.Name.toLowerCase();
-
   const noFormeSuffix = ["ho-oh", "porygon-z", "nidoran-m", "nidoran-f"];
 
-  if (noFormeSuffix.includes(name)) {
-    return `../PokemonList/img/pokemon_animated_sprite/${id}.gif`;
-  }
-
+  if (noFormeSuffix.includes(name)) return `../PokemonList/img/pokemon_animated_sprite/${id}.gif`;
   if (name.includes("-")) {
     const forme = name.split("-").slice(1).join("-");
     return `../PokemonList/img/pokemon_animated_sprite/${id}-${forme}.gif`;
   }
-
   return `../PokemonList/img/pokemon_animated_sprite/${id}.gif`;
 }
 
-// ── Utilitaire sprite par ID (pour les cartes) ────────────────────────────────
-function getSpriteUrl(id) {
-  return `../PokemonList/img/pokemon_animated_sprite/${id}.gif`;
+// ── Sprite par ID avec fallback shiny ────────────────────────────────────────
+function getSpriteUrl(id, sprite = null) {
+  const base = `../PokemonList/img/pokemon_animated_sprite/`;
+  return `${base}${sprite || id + '.gif'}`;
 }
 
-// ── Redirige vers PokemonList avec le nom dans l'input ───────────────────────
+// ── Redirection PokemonList ───────────────────────────────────────────────────
 function goToPokemonList(pokemonName) {
-  const url = `../PokemonList/index.html?search=${encodeURIComponent(pokemonName)}`;
-  window.location.href = url;
+  window.location.href = `../PokemonList/index.html?search=${encodeURIComponent(pokemonName)}`;
 }
 
-// ── Crée une carte pour un Pokémon ───────────────────────────────────────────
+// ── Carte Pokémon ─────────────────────────────────────────────────────────────
 function createPokemonCard(pokemon) {
   const card = document.createElement('div');
   card.classList.add('pokemon_card');
 
   // Nom
   const name = document.createElement('h3');
-  name.textContent = `${Array.isArray(pokemon.id) ? pokemon.id.map(id => '#' + String(id).padStart(3,'0')).join(' / ') : (isNaN(pokemon.id) ? '' : '#' + String(pokemon.id).padStart(3,'0'))} ${pokemon.name}`;
+  name.textContent = `${
+    Array.isArray(pokemon.id)
+      ? pokemon.id.map(id => '#' + String(id).padStart(3, '0')).join(' / ')
+      : isNaN(pokemon.id) ? '' : '#' + String(pokemon.id).padStart(3, '0')
+  } ${pokemon.name}`;
   card.appendChild(name);
 
   // Sprite(s)
   const spritesDiv = document.createElement('div');
   spritesDiv.classList.add('sprites');
-
   const ids = Array.isArray(pokemon.id) ? pokemon.id : [pokemon.id];
   ids.forEach(id => {
     if (isNaN(id)) return;
     const img = document.createElement('img');
-    img.src = getSpriteUrl(id);
+    img.src = getSpriteUrl(id, pokemon.sprite || null);
     img.alt = pokemon.name;
     img.classList.add('pokemon_sprite');
+    img.style.cursor = 'pointer';
+    img.title = `Go to ${pokemon.name}`;
     img.addEventListener('error', () => img.style.display = 'none');
+    img.addEventListener('click', () => goToPokemonList(pokemon.name));
     spritesDiv.appendChild(img);
   });
   card.appendChild(spritesDiv);
@@ -95,8 +91,7 @@ function createPokemonCard(pokemon) {
   // Niveau
   if (pokemon.level !== null && pokemon.level !== undefined) {
     const level = document.createElement('p');
-    const levelVal = Array.isArray(pokemon.level) ? pokemon.level.join(' / ') : pokemon.level;
-    level.innerHTML = `<strong>Level :</strong> ${levelVal}`;
+    level.innerHTML = `<strong>Level :</strong> ${Array.isArray(pokemon.level) ? pokemon.level.join(' / ') : pokemon.level}`;
     card.appendChild(level);
   }
 
@@ -125,7 +120,7 @@ function createPokemonCard(pokemon) {
     card.appendChild(guide);
   }
 
-  // Options (Pseudo-Legend radio choices)
+  // Options (Pseudo-Legend)
   if (pokemon.options) {
     const optTitle = document.createElement('p');
     optTitle.innerHTML = '<strong>Channels :</strong>';
@@ -139,7 +134,7 @@ function createPokemonCard(pokemon) {
 
       if (opt.pokemon_id) {
         const img = document.createElement('img');
-        img.src = getSpriteUrl(opt.pokemon_id);
+        img.src = getSpriteUrl(opt.pokemon_id, opt.sprite || null);
         img.alt = opt.pokemon;
         img.classList.add('pokemon_sprite');
         img.style.cursor = 'pointer';
@@ -152,38 +147,24 @@ function createPokemonCard(pokemon) {
     card.appendChild(ul);
   }
 
-  // One-time warning
-  if (pokemon.one_time) {
-    const warn = document.createElement('p');
-    warn.classList.add('one_time');
-    warn.textContent = '⚠ One-time encounter!';
-    card.appendChild(warn);
-  }
-
   return card;
 }
 
-// ── Crée une section avec titre + grille de cartes ───────────────────────────
+// ── Section standard ──────────────────────────────────────────────────────────
 function createSection(title, items) {
   const div = document.createElement('div');
   div.classList.add('divs');
-
   const h2 = document.createElement('h2');
   h2.textContent = title;
   div.appendChild(h2);
-
-  items.forEach(item => {
-    div.appendChild(createPokemonCard(item));
-  });
-
+  items.forEach(item => div.appendChild(createPokemonCard(item)));
   return div;
 }
 
-// ── Crée la section Plate Locations ─────────────────────────────────────────
+// ── Section Plate Locations ───────────────────────────────────────────────────
 function createPlateSection(title, items) {
   const div = document.createElement('div');
   div.classList.add('divs');
-
   const h2 = document.createElement('h2');
   h2.textContent = title;
   div.appendChild(h2);
@@ -196,24 +177,18 @@ function createPlateSection(title, items) {
     li.appendChild(strong);
     li.appendChild(document.createTextNode(item.location));
     ul.appendChild(li);
-
-
   });
   div.appendChild(ul);
-
   return div;
 }
 
-// ── Rendu ────────────────────────────────────────────────────────────────────
-const sections = [
+// ── Rendu ─────────────────────────────────────────────────────────────────────
+[
   { key: 'Non-Legendary Encounters', title: 'Non-Legendary Encounters' },
   { key: 'Gifted Pokemon',           title: 'Gifted Pokémon' },
   { key: 'Legendary Pokemon',        title: 'Legendary Pokémon' },
-];
-
-sections.forEach(({ key, title }) => {
-  if (!data[key]) return;
-  main.appendChild(createSection(title, data[key]));
+].forEach(({ key, title }) => {
+  if (data[key]) main.appendChild(createSection(title, data[key]));
 });
 
 if (data['Plate Locations']) {

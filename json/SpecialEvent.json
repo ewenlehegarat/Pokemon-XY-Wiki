@@ -32,6 +32,7 @@
     {
       "id": 130,
       "name": "Gyarados",
+      "sprite": "130s.gif",
       "requirements": ["None, storyline."],
       "guide": "The Red Gyarados is now Level 40 instead of Level 30.",
       "level": 40

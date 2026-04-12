@@ -13,13 +13,11 @@ if (searchInput) {
 }
 
 async function getLocations() {
-  // Charger les deux JSON en parallèle
   const [data, pokemonData] = await Promise.all([
     fetch("../json/Encounters.json").then(res => res.json()),
     fetch("../json/PokemonPersonalData.json").then(res => res.json())
   ]);
   
-  // Créer un dictionnaire ID → Name pour lookup rapide
   const pokemonById = {};
   pokemonData.forEach(p => {
     pokemonById[p.ID] = p.Name;
@@ -37,9 +35,9 @@ async function getLocations() {
     }
     
     html += `
-    <div class="container">
-    <img src="${location.image}" alt="location image" class="route_image top_image">
-    <div class="encounter">
+      <div class="container">
+      <img src="${location.image}" alt="location image" class="route_image top_image">
+      <div class="encounter">
     `;
     
     Object.entries(location.methods).forEach(([key, method]) => {
@@ -48,19 +46,22 @@ async function getLocations() {
       html += `<div class="${key} encounters"><h3>${method.label} :</h3>`;
       
       method.pokemon.forEach(p => {
-        // Récupérer le nom depuis PokemonPersonalData via l'ID
         const name = pokemonById[p.id] || '';
+        const spriteBase = `../PokemonList/img/pokemon_animated_sprite/`;
+        const spriteS = `${spriteBase}${p.id}s.gif`;
+        const spriteNormal = `${spriteBase}${p.sprite || p.id + '.gif'}`;
         
         html += `
-        <p>
-        <a href="../PokemonList/index.html?search=${encodeURIComponent(name)}" title="${name} Info">
-        <img src="../PokemonList/img/pokemon_animated_sprite/${p.sprite || p.id + '.gif'}"
-        alt="${name}"
-        class="pokemon_image"
-        style="cursor:pointer;">
-        </a>
-        ${p.pct || ''}
-        </p>
+          <p>
+            <a href="../PokemonList/index.html?search=${encodeURIComponent(name)}" title="${name} Info">
+              <img src="${spriteS}"
+              onerror="this.onerror=null; this.src='${spriteNormal}'"
+              alt="${name}"
+              class="pokemon_image"
+              style="cursor:pointer;">
+            </a>
+            ${p.pct || ''}
+          </p>
         `;
       });
       
