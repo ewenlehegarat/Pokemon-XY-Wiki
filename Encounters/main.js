@@ -48,14 +48,12 @@ async function getLocations() {
       method.pokemon.forEach(p => {
         const name = pokemonById[p.id] || '';
         const spriteBase = `../PokemonList/img/pokemon_animated_sprite/`;
-        const spriteS = `${spriteBase}${p.id}s.gif`;
-        const spriteNormal = `${spriteBase}${p.sprite || p.id + '.gif'}`;
+        const sprite = `${spriteBase}${p.sprite || p.id + '.gif'}`;
         
         html += `
           <p>
             <a href="../PokemonList/index.html?search=${encodeURIComponent(name)}" title="${name} Info">
-              <img src="${spriteS}"
-              onerror="this.onerror=null; this.src='${spriteNormal}'"
+              <img src="${sprite}"
               alt="${name}"
               class="pokemon_image"
               style="cursor:pointer;">
